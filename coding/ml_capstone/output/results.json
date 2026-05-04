@@ -1,0 +1,714 @@
+{
+  "total_processed": 61,
+  "avg_confidence": 0.7,
+  "format_counts": {
+    "A": 0,
+    "B": 2,
+    "C": 59
+  },
+  "receipts": {
+    "X00016469612.jpg": {
+      "index": 2,
+      "filename": "X00016469612.jpg",
+      "detected_format": "C (fallback dari B)",
+      "items": [],
+      "tax": 0.0,
+      "subtotal": 9.0,
+      "confidence": 0.635,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X00016469619.jpg": {
+      "index": 3,
+      "filename": "X00016469619.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 0.0,
+      "subtotal": 20.31,
+      "confidence": 0.672,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X00016469620.jpg": {
+      "index": 4,
+      "filename": "X00016469620.jpg",
+      "detected_format": "B",
+      "items": [
+        {
+          "name": "Kco3-7 - 15",
+          "qty": 1.0,
+          "unit_price": 8.02,
+          "subtotal": 8.02
+        },
+        {
+          "name": "Wa14-3A - 48",
+          "qty": 1.0,
+          "unit_price": 3.02,
+          "subtotal": 3.02
+        },
+        {
+          "name": "Fz-04 - 36",
+          "qty": 1.0,
+          "unit_price": 3.88,
+          "subtotal": 3.88
+        }
+      ],
+      "tax": 0.0,
+      "subtotal": 33.92,
+      "confidence": 0.785,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X00016469622.jpg": {
+      "index": 5,
+      "filename": "X00016469622.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 8498123504.0,
+      "subtotal": 6091.0,
+      "confidence": 0.659,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X00016469623.jpg": {
+      "index": 6,
+      "filename": "X00016469623.jpg",
+      "detected_format": "B",
+      "items": [
+        {
+          "name": "Uads- A - 12",
+          "qty": 1.0,
+          "unit_price": 4.62,
+          "subtotal": 4.62
+        },
+        {
+          "name": "#Duo - 15",
+          "qty": 1.0,
+          "unit_price": 7.45,
+          "subtotal": 7.45
+        }
+      ],
+      "tax": 0.0,
+      "subtotal": 12.07,
+      "confidence": 0.531,
+      "needs_review": true,
+      "review_reason": "Confidence rendah (53.1%) — coba foto lebih terang."
+    },
+    "X00016469669.jpg": {
+      "index": 7,
+      "filename": "X00016469669.jpg",
+      "detected_format": "C (fallback dari B)",
+      "items": [],
+      "tax": 0.0,
+      "subtotal": 3.0,
+      "confidence": 0.695,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X00016469672.jpg": {
+      "index": 8,
+      "filename": "X00016469672.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 2116837376.0,
+      "subtotal": 327.0,
+      "confidence": 0.835,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X00016469676.jpg": {
+      "index": 9,
+      "filename": "X00016469676.jpg",
+      "detected_format": "C (fallback dari B)",
+      "items": [],
+      "tax": 0.0,
+      "subtotal": 20.0,
+      "confidence": 0.802,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005200938.jpg": {
+      "index": 10,
+      "filename": "X51005200938.jpg",
+      "detected_format": "C (fallback dari B)",
+      "items": [],
+      "tax": 300082552.0,
+      "subtotal": 412.46,
+      "confidence": 0.656,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005230617.jpg": {
+      "index": 11,
+      "filename": "X51005230617.jpg",
+      "detected_format": "C",
+      "items": [],
+      "tax": 504664064.0,
+      "subtotal": 26.6,
+      "confidence": 0.872,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005255805.jpg": {
+      "index": 12,
+      "filename": "X51005255805.jpg",
+      "detected_format": "C (fallback dari B)",
+      "items": [],
+      "tax": 91006288896.0,
+      "subtotal": 14.1,
+      "confidence": 0.807,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005268200.jpg": {
+      "index": 13,
+      "filename": "X51005268200.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 18.15,
+      "subtotal": 15.0,
+      "confidence": 0.668,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005268262.jpg": {
+      "index": 14,
+      "filename": "X51005268262.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 1637511166.0,
+      "subtotal": 5.0,
+      "confidence": 0.678,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005268400.jpg": {
+      "index": 15,
+      "filename": "X51005268400.jpg",
+      "detected_format": "C",
+      "items": [],
+      "tax": 0.0,
+      "subtotal": 1.0,
+      "confidence": 0.587,
+      "needs_review": true,
+      "review_reason": "Confidence rendah (58.7%) — coba foto lebih terang."
+    },
+    "X51005268472.jpg": {
+      "index": 16,
+      "filename": "X51005268472.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 1609584640.0,
+      "subtotal": 336900.0,
+      "confidence": 0.657,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005301659.jpg": {
+      "index": 17,
+      "filename": "X51005301659.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 1637511166.0,
+      "subtotal": 5.0,
+      "confidence": 0.678,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005301661.jpg": {
+      "index": 18,
+      "filename": "X51005301661.jpg",
+      "detected_format": "C (fallback dari B)",
+      "items": [],
+      "tax": 584089600.0,
+      "subtotal": 68.87,
+      "confidence": 0.818,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005301667.jpg": {
+      "index": 19,
+      "filename": "X51005301667.jpg",
+      "detected_format": "C (fallback dari B)",
+      "items": [],
+      "tax": 584089600.0,
+      "subtotal": 39.8,
+      "confidence": 0.778,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005303661.jpg": {
+      "index": 20,
+      "filename": "X51005303661.jpg",
+      "detected_format": "C (fallback dari B)",
+      "items": [],
+      "tax": 584089600.0,
+      "subtotal": 68.87,
+      "confidence": 0.818,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005306399.jpg": {
+      "index": 21,
+      "filename": "X51005306399.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 2014.0,
+      "subtotal": 86.0,
+      "confidence": 0.815,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005337872.jpg": {
+      "index": 22,
+      "filename": "X51005337872.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 5142.0,
+      "subtotal": 5142.0,
+      "confidence": 0.843,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005361883.jpg": {
+      "index": 23,
+      "filename": "X51005361883.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 6829.0,
+      "subtotal": 4.6,
+      "confidence": 0.768,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005361895.jpg": {
+      "index": 24,
+      "filename": "X51005361895.jpg",
+      "detected_format": "C",
+      "items": [],
+      "tax": 8.49,
+      "subtotal": 1.0,
+      "confidence": 0.756,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005361897.jpg": {
+      "index": 25,
+      "filename": "X51005361897.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 689913854.0,
+      "subtotal": 26.0,
+      "confidence": 0.789,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005361898.jpg": {
+      "index": 26,
+      "filename": "X51005361898.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 489913856.0,
+      "subtotal": 52.0,
+      "confidence": 0.773,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005361900.jpg": {
+      "index": 27,
+      "filename": "X51005361900.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 689913856.0,
+      "subtotal": 16.98,
+      "confidence": 0.823,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005361907.jpg": {
+      "index": 28,
+      "filename": "X51005361907.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 689913856.0,
+      "subtotal": 144.68,
+      "confidence": 0.709,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005361946.jpg": {
+      "index": 29,
+      "filename": "X51005361946.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 0.0,
+      "subtotal": 0,
+      "confidence": 0.284,
+      "needs_review": true,
+      "review_reason": "Confidence rendah (28.4%) — coba foto lebih terang."
+    },
+    "X51005361950.jpg": {
+      "index": 30,
+      "filename": "X51005361950.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 181747712.0,
+      "subtotal": 0,
+      "confidence": 0.69,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005365179.jpg": {
+      "index": 31,
+      "filename": "X51005365179.jpg",
+      "detected_format": "C",
+      "items": [],
+      "tax": 549584896.0,
+      "subtotal": 3120.0,
+      "confidence": 0.827,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005433492.jpg": {
+      "index": 32,
+      "filename": "X51005433492.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 28030502160.0,
+      "subtotal": 100100000060.0,
+      "confidence": 0.602,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005433494.jpg": {
+      "index": 33,
+      "filename": "X51005433494.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 2017394689.0,
+      "subtotal": 75.0,
+      "confidence": 0.636,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005433514.jpg": {
+      "index": 34,
+      "filename": "X51005433514.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 180303021.0,
+      "subtotal": 100100005034.0,
+      "confidence": 0.69,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005433522.jpg": {
+      "index": 35,
+      "filename": "X51005433522.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 18031002160274.0,
+      "subtotal": 100100000035.0,
+      "confidence": 0.571,
+      "needs_review": true,
+      "review_reason": "Confidence rendah (57.1%) — coba foto lebih terang."
+    },
+    "X51005433533.jpg": {
+      "index": 36,
+      "filename": "X51005433533.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 800529824.0,
+      "subtotal": 18.81,
+      "confidence": 0.711,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005433538.jpg": {
+      "index": 37,
+      "filename": "X51005433538.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 0.48,
+      "subtotal": 100100000035.0,
+      "confidence": 0.635,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005433541.jpg": {
+      "index": 38,
+      "filename": "X51005433541.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 12091403190314.0,
+      "subtotal": 8.2,
+      "confidence": 0.644,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005433552.jpg": {
+      "index": 39,
+      "filename": "X51005433552.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 18.0,
+      "subtotal": 57.8,
+      "confidence": 0.708,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005433553.jpg": {
+      "index": 40,
+      "filename": "X51005433553.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 1000219.0,
+      "subtotal": 13.1,
+      "confidence": 0.672,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005441398.jpg": {
+      "index": 41,
+      "filename": "X51005441398.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 2821690473549.0,
+      "subtotal": 79.64,
+      "confidence": 0.699,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005441401.jpg": {
+      "index": 42,
+      "filename": "X51005441401.jpg",
+      "detected_format": "C (fallback dari B)",
+      "items": [],
+      "tax": 0.0,
+      "subtotal": 295.0,
+      "confidence": 0.78,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005441402.jpg": {
+      "index": 43,
+      "filename": "X51005441402.jpg",
+      "detected_format": "C (fallback dari B)",
+      "items": [],
+      "tax": 1661986454.0,
+      "subtotal": 169.5,
+      "confidence": 0.85,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005441407.jpg": {
+      "index": 44,
+      "filename": "X51005441407.jpg",
+      "detected_format": "C (fallback dari B)",
+      "items": [],
+      "tax": 136577024.0,
+      "subtotal": 0,
+      "confidence": 0.809,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005441408.jpg": {
+      "index": 45,
+      "filename": "X51005441408.jpg",
+      "detected_format": "C (fallback dari B)",
+      "items": [],
+      "tax": 47400.0,
+      "subtotal": 0,
+      "confidence": 0.795,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005442327.jpg": {
+      "index": 46,
+      "filename": "X51005442327.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 90.49,
+      "subtotal": 8.8,
+      "confidence": 0.568,
+      "needs_review": true,
+      "review_reason": "Confidence rendah (56.8%) — coba foto lebih terang."
+    },
+    "X51005442333.jpg": {
+      "index": 47,
+      "filename": "X51005442333.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 656105584.0,
+      "subtotal": 8.99,
+      "confidence": 0.689,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005442338.jpg": {
+      "index": 48,
+      "filename": "X51005442338.jpg",
+      "detected_format": "C",
+      "items": [],
+      "tax": 0.0,
+      "subtotal": 28.6,
+      "confidence": 0.631,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005442341.jpg": {
+      "index": 49,
+      "filename": "X51005442341.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 0.0,
+      "subtotal": 0,
+      "confidence": 0.619,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005442344.jpg": {
+      "index": 50,
+      "filename": "X51005442344.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 2587.0,
+      "subtotal": 95.17,
+      "confidence": 0.627,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005442346.jpg": {
+      "index": 51,
+      "filename": "X51005442346.jpg",
+      "detected_format": "C (fallback dari B)",
+      "items": [],
+      "tax": 500085288.0,
+      "subtotal": 7.58,
+      "confidence": 0.718,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005442361.jpg": {
+      "index": 52,
+      "filename": "X51005442361.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 0.0,
+      "subtotal": 593.1,
+      "confidence": 0.718,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005442376.jpg": {
+      "index": 53,
+      "filename": "X51005442376.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 18032202170426.0,
+      "subtotal": 100000036.0,
+      "confidence": 0.673,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005442378.jpg": {
+      "index": 54,
+      "filename": "X51005442378.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 709361664.0,
+      "subtotal": 1000.0,
+      "confidence": 0.482,
+      "needs_review": true,
+      "review_reason": "Confidence rendah (48.2%) — coba foto lebih terang."
+    },
+    "X51005442379.jpg": {
+      "index": 55,
+      "filename": "X51005442379.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 38032402170388.0,
+      "subtotal": 100100000027.0,
+      "confidence": 0.674,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005442383.jpg": {
+      "index": 56,
+      "filename": "X51005442383.jpg",
+      "detected_format": "C",
+      "items": [],
+      "tax": 0.0,
+      "subtotal": 0.0,
+      "confidence": 0.749,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005442384.jpg": {
+      "index": 57,
+      "filename": "X51005442384.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 0.46,
+      "subtotal": 88.2,
+      "confidence": 0.649,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005442386.jpg": {
+      "index": 58,
+      "filename": "X51005442386.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 40.4,
+      "subtotal": 8.7,
+      "confidence": 0.66,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005442392.jpg": {
+      "index": 59,
+      "filename": "X51005442392.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 1803200217047.0,
+      "subtotal": 7.1,
+      "confidence": 0.647,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005442394.jpg": {
+      "index": 60,
+      "filename": "X51005442394.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 18033002170384.0,
+      "subtotal": 7.1,
+      "confidence": 0.605,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005442397.jpg": {
+      "index": 61,
+      "filename": "X51005442397.jpg",
+      "detected_format": "C",
+      "items": [],
+      "tax": 0.0,
+      "subtotal": 7.6,
+      "confidence": 0.659,
+      "needs_review": false,
+      "review_reason": null
+    },
+    "X51005444033.jpg": {
+      "index": 62,
+      "filename": "X51005444033.jpg",
+      "detected_format": "C (fallback dari A)",
+      "items": [],
+      "tax": 243941376.0,
+      "subtotal": 0.0,
+      "confidence": 0.838,
+      "needs_review": false,
+      "review_reason": null
+    }
+  }
+}
