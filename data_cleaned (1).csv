@@ -1,0 +1,2734 @@
+Date,Category,Transaction Type,Amount_IDR,Macro_Category
+2018-09-20,Transportation,Expense,6244.298245614034,Transportation
+2018-09-20,Food,Expense,12488.596491228069,Food & Beverage
+2018-09-19,subscription,Expense,41420.51169590643,Lifestyle & Entertainment
+2018-09-17,subscription,Expense,3954.722222222222,Lifestyle & Entertainment
+2018-09-16,Festivals,Expense,52243.961988304094,Lifestyle & Entertainment
+2018-09-15,subscription,Expense,41628.65497076023,Lifestyle & Entertainment
+2018-09-14,Transportation,Expense,10407.163742690058,Transportation
+2018-09-13,Transportation,Expense,8325.730994152047,Transportation
+2018-09-13,Other,Expense,17275.891812865495,Others
+2018-09-13,Food,Expense,9574.590643274852,Food & Beverage
+2018-09-12,subscription,Expense,138831.56432748536,Lifestyle & Entertainment
+2018-09-11,Food,Expense,135293.12865497076,Food & Beverage
+2018-09-11,Other,Income,728501.461988304,Others
+2018-09-11,Food,Expense,7493.157894736842,Food & Beverage
+2018-09-10,Food,Expense,7493.157894736842,Food & Beverage
+2018-09-08,Family,Expense,8325.730994152047,Others
+2018-09-07,Food,Expense,7701.3011695906425,Food & Beverage
+2018-09-06,Food,Expense,11447.880116959064,Food & Beverage
+2018-09-05,Apparel,Expense,16027.03216374269,Lifestyle & Entertainment
+2018-09-05,Food,Expense,6244.298245614034,Food & Beverage
+2018-09-05,Food,Expense,8325.730994152047,Food & Beverage
+2018-09-05,Food,Expense,4995.438596491228,Food & Beverage
+2018-09-05,Food,Expense,7493.157894736842,Food & Beverage
+2018-09-05,Food,Expense,3746.578947368421,Food & Beverage
+2018-09-03,Family,Expense,416286.5497076023,Others
+2018-08-31,Family,Expense,208143.27485380115,Others
+2018-08-31,Gift,Expense,24560.906432748536,Lifestyle & Entertainment
+2018-08-31,Food,Expense,106329.99195906433,Food & Beverage
+2018-08-31,Salary,Income,14623105.774853801,Income & Rewards
+2018-08-31,Food,Expense,7493.157894736842,Food & Beverage
+2018-08-30,Food,Expense,16235.17543859649,Food & Beverage
+2018-08-30,Household,Expense,71393.14327485379,Housing & Utilities
+2018-08-29,Food,Expense,5619.868421052632,Food & Beverage
+2018-08-29,Food,Expense,3122.149122807017,Food & Beverage
+2018-08-29,Food,Expense,7493.157894736842,Food & Beverage
+2018-08-28,Dividend earned on Shares,Income,1404.967105263158,Income & Rewards
+2018-08-28,Dividend earned on Shares,Income,3746.578947368421,Income & Rewards
+2018-08-27,Food,Expense,4162.8654970760235,Food & Beverage
+2018-08-27,Food,Expense,12488.596491228069,Food & Beverage
+2018-08-27,Food,Expense,9366.447368421052,Food & Beverage
+2018-08-27,Food,Expense,7493.157894736842,Food & Beverage
+2018-08-26,Interest,Income,6244.298245614034,Income & Rewards
+2018-08-25,Apparel,Expense,18941.038011695906,Lifestyle & Entertainment
+2018-08-24,Food,Expense,233120.4678362573,Food & Beverage
+2018-08-24,Other,Income,208143.27485380115,Others
+2018-08-24,Food,Expense,4162.8654970760235,Food & Beverage
+2018-08-24,Food,Expense,7493.157894736842,Food & Beverage
+2018-08-24,Festivals,Expense,208143.27485380115,Lifestyle & Entertainment
+2018-08-23,Transportation,Expense,271710.2309941521,Transportation
+2018-08-23,Transportation,Expense,250895.90350877194,Transportation
+2018-08-23,Food,Expense,12488.596491228069,Food & Beverage
+2018-08-22,Food,Expense,7701.3011695906425,Food & Beverage
+2018-08-21,Food,Expense,2497.719298245614,Food & Beverage
+2018-08-21,Food,Expense,7493.157894736842,Food & Beverage
+2018-08-19,subscription,Expense,41420.51169590643,Lifestyle & Entertainment
+2018-08-17,Food,Expense,4162.8654970760235,Food & Beverage
+2018-08-17,Food,Expense,7493.157894736842,Food & Beverage
+2018-08-17,Dividend earned on Shares,Income,4579.152046783625,Income & Rewards
+2018-08-16,subscription,Expense,32678.494152046784,Lifestyle & Entertainment
+2018-08-15,Food,Expense,60361.54970760234,Food & Beverage
+2018-08-15,Food,Expense,44958.94736842105,Food & Beverage
+2018-08-14,Dividend earned on Shares,Income,25809.766081871345,Income & Rewards
+2018-08-14,Family,Expense,6244.298245614034,Others
+2018-08-14,Food,Expense,6660.584795321637,Food & Beverage
+2018-08-14,Household,Expense,33302.92397660819,Housing & Utilities
+2018-08-14,Apparel,Expense,11656.023391812865,Lifestyle & Entertainment
+2018-08-14,Food,Expense,23936.476608187135,Food & Beverage
+2018-08-13,Household,Expense,20814.327485380116,Housing & Utilities
+2018-08-13,Household,Expense,45791.52046783626,Housing & Utilities
+2018-08-13,Food,Expense,9366.447368421052,Food & Beverage
+2018-08-13,Household,Expense,123637.1052631579,Housing & Utilities
+2018-08-13,Food,Expense,2081.4327485380118,Food & Beverage
+2018-08-13,Food,Expense,4162.8654970760235,Food & Beverage
+2018-08-11,Food,Expense,19981.754385964912,Food & Beverage
+2018-08-10,Family,Expense,7285.014619883041,Others
+2018-08-06,Beauty,Expense,20814.327485380116,Health & Personal Care
+2018-08-05,Family,Expense,20814.327485380116,Others
+2018-08-05,Food,Expense,2081.4327485380118,Food & Beverage
+2018-08-05,Health,Expense,895016.0818713449,Health & Personal Care
+2018-08-05,Apparel,Expense,709768.5672514619,Lifestyle & Entertainment
+2018-08-05,Transportation,Expense,4162.8654970760235,Transportation
+2018-08-05,Transportation,Expense,3122.149122807017,Transportation
+2018-08-05,Family,Expense,82841.02339181287,Others
+2018-08-03,Other,Income,20814.327485380116,Others
+2018-08-03,Family,Expense,416286.5497076023,Others
+2018-08-03,Dividend earned on Shares,Income,37465.789473684206,Income & Rewards
+2018-08-02,Household,Expense,3746.578947368421,Housing & Utilities
+2018-08-02,Food,Expense,44958.94736842105,Food & Beverage
+2018-08-02,Health,Expense,208143.27485380115,Health & Personal Care
+2018-08-01,Family,Expense,8325.730994152047,Others
+2018-07-31,Apparel,Expense,18941.038011695906,Lifestyle & Entertainment
+2018-07-31,maid,Expense,416286.5497076023,Housing & Utilities
+2018-07-31,Food,Expense,2081.4327485380118,Food & Beverage
+2018-07-31,Salary,Income,14623105.774853801,Income & Rewards
+2018-07-30,Health,Expense,20814.327485380116,Health & Personal Care
+2018-07-30,Health,Expense,27474.912280701752,Health & Personal Care
+2018-07-30,Food,Expense,44126.37426900584,Food & Beverage
+2018-07-30,Food,Expense,5203.581871345029,Food & Beverage
+2018-07-29,Food,Expense,54117.2514619883,Food & Beverage
+2018-07-29,Transportation,Expense,10407.163742690058,Transportation
+2018-07-29,Transportation,Expense,3122.149122807017,Transportation
+2018-07-29,Transportation,Expense,8325.730994152047,Transportation
+2018-07-29,Food,Expense,21855.043859649122,Food & Beverage
+2018-07-28,Family,Expense,41628.65497076023,Others
+2018-07-28,Culture,Expense,100191.84678362573,Lifestyle & Entertainment
+2018-07-28,Food,Expense,40587.93859649123,Food & Beverage
+2018-07-28,Household,Expense,780537.2807017544,Housing & Utilities
+2018-07-27,Other,Expense,171926.34502923975,Others
+2018-07-26,Food,Expense,8325.730994152047,Food & Beverage
+2018-07-26,Tax refund,Income,1411211.403508772,Income & Rewards
+2018-07-23,subscription,Expense,32054.06432748538,Lifestyle & Entertainment
+2018-07-23,Food,Expense,20814.327485380116,Food & Beverage
+2018-07-21,Household,Expense,76596.72514619882,Housing & Utilities
+2018-07-21,Food,Expense,6244.298245614034,Food & Beverage
+2018-07-21,Food,Expense,12488.596491228069,Food & Beverage
+2018-07-21,Food,Expense,9366.447368421052,Food & Beverage
+2018-07-20,Food,Expense,4162.8654970760235,Food & Beverage
+2018-07-20,Food,Expense,5203.581871345029,Food & Beverage
+2018-07-20,Transportation,Expense,32262.20760233918,Transportation
+2018-07-20,Health,Expense,18108.464912280702,Health & Personal Care
+2018-07-20,Health,Expense,218134.15204678362,Health & Personal Care
+2018-07-19,Food,Expense,8325.730994152047,Food & Beverage
+2018-07-18,Food,Expense,44958.94736842105,Food & Beverage
+2018-07-16,Apparel,Expense,17484.035087719298,Lifestyle & Entertainment
+2018-07-16,Household,Expense,247690.49707602337,Housing & Utilities
+2018-07-16,Food,Expense,17484.035087719298,Food & Beverage
+2018-07-15,Food,Expense,6244.298245614034,Food & Beverage
+2018-07-15,Food,Expense,104071.63742690058,Food & Beverage
+2018-07-15,Food,Expense,9990.877192982456,Food & Beverage
+2018-07-14,Other,Expense,416286.5497076023,Others
+2018-07-13,Transportation,Expense,39130.93567251462,Transportation
+2018-07-13,Health,Expense,282658.56725146197,Health & Personal Care
+2018-07-12,Food,Expense,7285.014619883041,Food & Beverage
+2018-07-11,Food,Expense,11864.166666666666,Food & Beverage
+2018-07-10,Dividend earned on Shares,Income,37465.789473684206,Income & Rewards
+2018-07-09,Transportation,Expense,74931.57894736841,Transportation
+2018-07-09,Food,Expense,4162.8654970760235,Food & Beverage
+2018-07-09,Food,Expense,12488.596491228069,Food & Beverage
+2018-07-08,Transportation,Expense,38506.505847953216,Transportation
+2018-07-08,Food,Expense,6244.298245614034,Food & Beverage
+2018-07-08,Health,Expense,31845.921052631576,Health & Personal Care
+2018-07-08,Health,Expense,104071.63742690058,Health & Personal Care
+2018-07-08,Transportation,Expense,27058.62573099415,Transportation
+2018-07-08,Transportation,Expense,140496.7105263158,Transportation
+2018-07-07,Transportation,Expense,2081.4327485380118,Transportation
+2018-07-07,Food,Expense,416.2865497076023,Food & Beverage
+2018-07-07,subscription,Expense,40796.08187134503,Lifestyle & Entertainment
+2018-07-06,Food,Expense,158188.88888888888,Food & Beverage
+2018-07-06,Transportation,Expense,20814.327485380116,Transportation
+2018-07-05,Transportation,Expense,17275.891812865495,Transportation
+2018-07-05,Food,Expense,1457.0029239766081,Food & Beverage
+2018-07-05,Transportation,Expense,3122.149122807017,Transportation
+2018-07-05,Transportation,Expense,4162.8654970760235,Transportation
+2018-07-04,Health,Expense,20814.327485380116,Health & Personal Care
+2018-07-04,Beauty,Expense,10407.163742690058,Health & Personal Care
+2018-07-04,Family,Expense,72850.1461988304,Others
+2018-07-04,Health,Expense,299726.31578947365,Health & Personal Care
+2018-07-03,maid,Expense,104071.63742690058,Housing & Utilities
+2018-07-03,Food,Expense,7493.157894736842,Food & Beverage
+2018-07-03,subscription,Expense,32054.06432748538,Lifestyle & Entertainment
+2018-07-03,Dividend earned on Shares,Income,10927.521929824561,Income & Rewards
+2018-07-02,Household,Expense,331988.52339181287,Housing & Utilities
+2018-07-02,Transportation,Expense,10407.163742690058,Transportation
+2018-07-02,Transportation,Expense,4162.8654970760235,Transportation
+2018-07-02,Household,Expense,130297.69005847952,Housing & Utilities
+2018-07-02,Transportation,Expense,5411.72514619883,Transportation
+2018-07-02,Transportation,Expense,8325.730994152047,Transportation
+2018-07-01,Culture,Expense,95954.04970760233,Lifestyle & Entertainment
+2018-07-01,Transportation,Expense,393390.7894736842,Transportation
+2018-07-01,Food,Expense,3122.149122807017,Food & Beverage
+2018-07-01,Apparel,Expense,89501.6081871345,Lifestyle & Entertainment
+2018-07-01,Apparel,Expense,20398.040935672514,Lifestyle & Entertainment
+2018-07-01,Food,Expense,14986.315789473683,Food & Beverage
+2018-06-30,Household,Expense,249771.9298245614,Housing & Utilities
+2018-06-30,Dividend earned on Shares,Income,8950.16081871345,Income & Rewards
+2018-06-30,Interest,Income,71185.0,Income & Rewards
+2018-06-30,Salary,Income,13554706.345029239,Income & Rewards
+2018-06-29,Dividend earned on Shares,Income,9158.30409356725,Income & Rewards
+2018-06-29,Household,Expense,14570.029239766081,Housing & Utilities
+2018-06-29,Household,Expense,10407.163742690058,Housing & Utilities
+2018-06-29,Household,Expense,56198.68421052631,Housing & Utilities
+2018-06-28,Food,Expense,94705.19005847952,Food & Beverage
+2018-06-28,Food,Expense,14570.029239766081,Food & Beverage
+2018-06-28,Transportation,Expense,47456.666666666664,Transportation
+2018-06-28,Apparel,Expense,13491.84707602339,Lifestyle & Entertainment
+2018-06-27,Tourism,Expense,64285.050438596496,Lifestyle & Entertainment
+2018-06-27,Other,Income,624429.8245614035,Others
+2018-06-27,Food,Expense,2914.0058479532163,Food & Beverage
+2018-06-27,Household,Expense,20814.327485380116,Housing & Utilities
+2018-06-27,Other,Expense,982436.2573099415,Others
+2018-06-27,Apparel,Expense,93664.47368421052,Lifestyle & Entertainment
+2018-06-27,Apparel,Expense,114478.80116959063,Lifestyle & Entertainment
+2018-06-27,Transportation,Expense,5203.581871345029,Transportation
+2018-06-27,Transportation,Expense,16651.461988304094,Transportation
+2018-06-27,Transportation,Expense,6244.298245614034,Transportation
+2018-06-26,Transportation,Expense,6244.298245614034,Transportation
+2018-06-26,Household,Expense,414205.1169590643,Housing & Utilities
+2018-06-26,Household,Expense,2716269.736842105,Housing & Utilities
+2018-06-26,Household,Expense,14570.029239766081,Housing & Utilities
+2018-06-26,Transportation,Expense,4162.8654970760235,Transportation
+2018-06-26,Food,Expense,4162.8654970760235,Food & Beverage
+2018-06-26,Food,Expense,6244.298245614034,Food & Beverage
+2018-06-25,Food,Expense,66605.84795321638,Food & Beverage
+2018-06-25,Household,Expense,431689.1520467836,Housing & Utilities
+2018-06-24,Transportation,Expense,8325.730994152047,Transportation
+2018-06-24,Food,Expense,3746.578947368421,Food & Beverage
+2018-06-24,Food,Expense,14986.315789473683,Food & Beverage
+2018-06-24,Health,Expense,44074.338450292395,Health & Personal Care
+2018-06-24,Transportation,Expense,6244.298245614034,Transportation
+2018-06-24,subscription,Expense,32678.494152046784,Lifestyle & Entertainment
+2018-06-24,Food,Expense,12488.596491228069,Food & Beverage
+2018-06-23,subscription,Expense,529724.6345029239,Lifestyle & Entertainment
+2018-06-23,Transportation,Expense,6244.298245614034,Transportation
+2018-06-22,subscription,Expense,37673.93274853801,Lifestyle & Entertainment
+2018-06-19,Family,Expense,416286.5497076023,Others
+2018-06-19,subscription,Expense,5203.581871345029,Lifestyle & Entertainment
+2018-06-18,subscription,Expense,3122.149122807017,Lifestyle & Entertainment
+2018-06-15,subscription,Expense,3122.149122807017,Lifestyle & Entertainment
+2018-06-15,Transportation,Expense,252602.67836257306,Transportation
+2018-06-11,Food,Expense,17484.035087719298,Food & Beverage
+2018-06-11,Self-development,Expense,292857.58771929826,Lifestyle & Entertainment
+2018-06-10,Household,Expense,624429.8245614035,Housing & Utilities
+2018-06-09,subscription,Expense,138831.56432748536,Lifestyle & Entertainment
+2018-05-31,Salary,Income,13557204.064327484,Income & Rewards
+2018-05-30,Dividend earned on Shares,Income,18316.6081871345,Income & Rewards
+2018-05-28,subscription,Expense,5203.581871345029,Lifestyle & Entertainment
+2018-05-28,Beauty,Expense,20814.327485380116,Health & Personal Care
+2018-05-27,Interest,Income,5828.011695906433,Income & Rewards
+2018-05-27,Household,Expense,15610.745614035088,Housing & Utilities
+2018-05-26,Transportation,Expense,10407.163742690058,Transportation
+2018-05-24,subscription,Expense,138831.56432748536,Lifestyle & Entertainment
+2018-05-23,subscription,Expense,34551.78362573099,Lifestyle & Entertainment
+2018-05-22,Health,Expense,32054.06432748538,Health & Personal Care
+2018-05-21,Family,Expense,29140.058479532163,Others
+2018-05-20,Family,Expense,25393.479532163743,Others
+2018-05-19,Household,Expense,5203.581871345029,Housing & Utilities
+2018-05-19,subscription,Expense,3122.149122807017,Lifestyle & Entertainment
+2018-05-18,subscription,Expense,62651.12573099415,Lifestyle & Entertainment
+2018-05-15,Food,Expense,28099.342105263157,Food & Beverage
+2018-05-15,Transportation,Expense,6244.298245614034,Transportation
+2018-05-15,Household,Expense,4475080.4093567245,Housing & Utilities
+2018-05-15,Transportation,Expense,10407.163742690058,Transportation
+2018-05-14,Amazon pay cashback,Income,4371.008771929824,Income & Rewards
+2018-05-14,subscription,Expense,62651.12573099415,Lifestyle & Entertainment
+2018-05-14,Other,Expense,8325.730994152047,Others
+2018-05-14,Transportation,Expense,10407.163742690058,Transportation
+2018-05-14,Food,Expense,3122.149122807017,Food & Beverage
+2018-05-14,Food,Expense,260179.09356725146,Food & Beverage
+2018-05-14,Transportation,Expense,8325.730994152047,Transportation
+2018-05-13,Apparel,Expense,16027.03216374269,Lifestyle & Entertainment
+2018-05-13,Education,Expense,2497.719298245614,Lifestyle & Entertainment
+2018-05-13,scrap,Income,4162.8654970760235,Others
+2018-05-12,Food,Expense,90958.61111111111,Food & Beverage
+2018-05-12,Food,Expense,14570.029239766081,Food & Beverage
+2018-05-12,Food,Expense,9990.877192982456,Food & Beverage
+2018-05-12,Food,Expense,14986.315789473683,Food & Beverage
+2018-05-11,Food,Expense,4162.8654970760235,Food & Beverage
+2018-05-10,Food,Expense,16651.461988304094,Food & Beverage
+2018-05-10,Other,Income,197111.6812865497,Others
+2018-05-09,subscription,Expense,2497.719298245614,Lifestyle & Entertainment
+2018-05-09,Food,Expense,9366.447368421052,Food & Beverage
+2018-05-09,Food,Expense,7493.157894736842,Food & Beverage
+2018-05-09,subscription,Expense,41420.51169590643,Lifestyle & Entertainment
+2018-05-08,Food,Expense,104071.63742690058,Food & Beverage
+2018-05-08,Food,Expense,14986.315789473683,Food & Beverage
+2018-05-08,Beauty,Expense,10407.163742690058,Health & Personal Care
+2018-05-07,Household,Expense,226043.59649122806,Housing & Utilities
+2018-05-07,Transportation,Expense,4162.8654970760235,Transportation
+2018-05-07,subscription,Expense,107193.7865497076,Lifestyle & Entertainment
+2018-05-07,Food,Expense,89501.6081871345,Food & Beverage
+2018-05-07,Food,Expense,14986.315789473683,Food & Beverage
+2018-05-06,Other,Income,624429.8245614035,Others
+2018-05-05,Family,Expense,124885.9649122807,Others
+2018-05-04,Household,Expense,7701.3011695906425,Housing & Utilities
+2018-05-04,Food,Expense,14986.315789473683,Food & Beverage
+2018-05-03,Food,Expense,8325.730994152047,Food & Beverage
+2018-05-02,Food,Expense,58280.116959064326,Food & Beverage
+2018-05-01,Food,Expense,14986.315789473683,Food & Beverage
+2018-05-01,Health,Expense,8950.16081871345,Health & Personal Care
+2018-05-01,Health,Expense,25393.479532163743,Health & Personal Care
+2018-05-01,Family,Expense,54117.2514619883,Others
+2018-04-30,Food,Expense,14986.315789473683,Food & Beverage
+2018-04-30,Household,Expense,34343.64035087719,Housing & Utilities
+2018-04-30,subscription,Expense,36633.216374269,Lifestyle & Entertainment
+2018-04-30,Food,Expense,9366.447368421052,Food & Beverage
+2018-04-30,Gift,Expense,104071.63742690058,Lifestyle & Entertainment
+2018-04-29,Food,Expense,8325.730994152047,Food & Beverage
+2018-04-29,Salary,Income,13557204.064327484,Income & Rewards
+2018-04-28,Food,Expense,85963.17251461987,Food & Beverage
+2018-04-28,Family,Expense,104071.63742690058,Others
+2018-04-27,Household,Expense,61402.26608187134,Housing & Utilities
+2018-04-26,Food,Expense,6244.298245614034,Food & Beverage
+2018-04-26,Food,Expense,14986.315789473683,Food & Beverage
+2018-04-26,Family,Expense,208143.27485380115,Others
+2018-04-25,Food,Expense,14570.029239766081,Food & Beverage
+2018-04-24,subscription,Expense,32678.494152046784,Lifestyle & Entertainment
+2018-04-23,Household,Expense,7909.444444444444,Housing & Utilities
+2018-04-23,maid,Expense,104071.63742690058,Housing & Utilities
+2018-04-22,Food,Expense,2081.4327485380118,Food & Beverage
+2018-04-22,Household,Expense,39547.22222222222,Housing & Utilities
+2018-04-22,Food,Expense,14986.315789473683,Food & Beverage
+2018-04-21,Food,Expense,33302.92397660819,Food & Beverage
+2018-04-21,Food,Expense,4162.8654970760235,Food & Beverage
+2018-04-20,Food,Expense,14570.029239766081,Food & Beverage
+2018-04-19,Household,Expense,2914.0058479532163,Housing & Utilities
+2018-04-19,Food,Expense,7493.157894736842,Food & Beverage
+2018-04-19,Food,Expense,14986.315789473683,Food & Beverage
+2018-04-17,Food,Expense,14986.315789473683,Food & Beverage
+2018-04-16,Education,Expense,4371.008771929824,Lifestyle & Entertainment
+2018-04-16,Apparel,Expense,13113.026315789473,Lifestyle & Entertainment
+2018-04-16,Household,Expense,56198.68421052631,Housing & Utilities
+2018-04-16,Household,Expense,55157.96783625731,Housing & Utilities
+2018-04-16,Household,Expense,93664.47368421052,Housing & Utilities
+2018-04-15,Food,Expense,14570.029239766081,Food & Beverage
+2018-04-15,Food,Expense,4162.8654970760235,Food & Beverage
+2018-04-15,Household,Expense,166306.47660818713,Housing & Utilities
+2018-04-15,Family,Expense,109275.2192982456,Others
+2018-04-15,Transportation,Expense,2081.4327485380118,Transportation
+2018-04-15,Transportation,Expense,4162.8654970760235,Transportation
+2018-04-14,Household,Expense,22271.330409356724,Housing & Utilities
+2018-04-14,Food,Expense,8325.730994152047,Food & Beverage
+2018-04-14,Food,Expense,9366.447368421052,Food & Beverage
+2018-04-14,Food,Expense,14986.315789473683,Food & Beverage
+2018-04-13,Health,Expense,145700.2923976608,Health & Personal Care
+2018-04-12,subscription,Expense,41420.51169590643,Lifestyle & Entertainment
+2018-04-12,Household,Expense,23312.04678362573,Housing & Utilities
+2018-04-12,Food,Expense,4162.8654970760235,Food & Beverage
+2018-04-12,Food,Expense,27058.62573099415,Food & Beverage
+2018-04-10,Food,Expense,3746.578947368421,Food & Beverage
+2018-04-10,Food,Expense,14570.029239766081,Food & Beverage
+2018-04-10,Gift,Expense,52035.81871345029,Lifestyle & Entertainment
+2018-04-09,Food,Expense,2081.4327485380118,Food & Beverage
+2018-04-09,Food,Expense,14986.315789473683,Food & Beverage
+2018-04-07,Household,Expense,386522.06140350876,Housing & Utilities
+2018-04-07,Household,Expense,4995.438596491228,Housing & Utilities
+2018-04-07,Food,Expense,7493.157894736842,Food & Beverage
+2018-04-05,Household,Expense,7909.444444444444,Housing & Utilities
+2018-04-05,Food,Expense,7493.157894736842,Food & Beverage
+2018-04-05,Food,Expense,14986.315789473683,Food & Beverage
+2018-04-05,Food,Expense,27058.62573099415,Food & Beverage
+2018-04-02,Transportation,Expense,4162.8654970760235,Transportation
+2018-04-02,Household,Expense,31013.347953216373,Housing & Utilities
+2018-04-02,Food,Expense,4995.438596491228,Food & Beverage
+2018-04-02,Food,Expense,4162.8654970760235,Food & Beverage
+2018-04-02,Food,Expense,7493.157894736842,Food & Beverage
+2018-04-02,maid,Expense,416286.5497076023,Housing & Utilities
+2018-04-01,Interest,Income,71809.4298245614,Income & Rewards
+2018-04-01,Other,Expense,1228.045321637427,Others
+2018-04-01,Other,Expense,5157.790350877193,Others
+2018-04-01,Interest,Income,71840.65131578947,Income & Rewards
+2018-04-01,Food,Expense,14986.315789473683,Food & Beverage
+2018-03-31,Food,Expense,9366.447368421052,Food & Beverage
+2018-03-31,Food,Expense,50786.959064327486,Food & Beverage
+2018-03-31,Salary,Income,13453548.713450292,Income & Rewards
+2018-03-31,Food,Expense,87212.03216374268,Food & Beverage
+2018-03-31,Transportation,Expense,2081.4327485380118,Transportation
+2018-03-31,Interest,Income,122596.38888888888,Income & Rewards
+2018-03-31,Transportation,Expense,6244.298245614034,Transportation
+2018-03-30,Food,Expense,5203.581871345029,Food & Beverage
+2018-03-30,Food,Expense,4162.8654970760235,Food & Beverage
+2018-03-30,Food,Expense,14986.315789473683,Food & Beverage
+2018-03-29,Food,Expense,256848.80116959062,Food & Beverage
+2018-03-27,Food,Expense,7285.014619883041,Food & Beverage
+2018-03-26,Food,Expense,14986.315789473683,Food & Beverage
+2018-03-26,subscription,Expense,32678.494152046784,Lifestyle & Entertainment
+2018-03-25,Dividend earned on Shares,Income,8429.802631578947,Income & Rewards
+2018-03-25,Transportation,Expense,2081.4327485380118,Transportation
+2018-03-25,Food,Expense,5203.581871345029,Food & Beverage
+2018-03-25,Food,Expense,4162.8654970760235,Food & Beverage
+2018-03-25,Food,Expense,33302.92397660819,Food & Beverage
+2018-03-25,Food,Expense,16651.461988304094,Food & Beverage
+2018-03-25,Food,Expense,49954.385964912275,Food & Beverage
+2018-03-23,Culture,Expense,20814.327485380116,Lifestyle & Entertainment
+2018-03-22,Food,Expense,1457.0029239766081,Food & Beverage
+2018-03-22,Food,Expense,3122.149122807017,Food & Beverage
+2018-03-22,Household,Expense,31845.921052631576,Housing & Utilities
+2018-03-22,Food,Expense,31221.491228070176,Food & Beverage
+2018-03-22,Food,Expense,4162.8654970760235,Food & Beverage
+2018-03-22,Food,Expense,14986.315789473683,Food & Beverage
+2018-03-21,Food,Expense,4995.438596491228,Food & Beverage
+2018-03-21,Household,Expense,7909.444444444444,Housing & Utilities
+2018-03-21,Family,Expense,10407.163742690058,Others
+2018-03-20,Food,Expense,51203.245614035084,Food & Beverage
+2018-03-20,Other,Expense,3538.43567251462,Others
+2018-03-20,Food,Expense,44906.9115497076,Food & Beverage
+2018-03-20,Food,Expense,3746.578947368421,Food & Beverage
+2018-03-20,Food,Expense,7493.157894736842,Food & Beverage
+2018-03-18,Transportation,Expense,2081.4327485380118,Transportation
+2018-03-18,Food,Expense,3122.149122807017,Food & Beverage
+2018-03-18,Family,Expense,166306.47660818713,Others
+2018-03-18,Family,Expense,103655.35087719298,Others
+2018-03-18,Food,Expense,10407.163742690058,Food & Beverage
+2018-03-18,Food,Expense,6244.298245614034,Food & Beverage
+2018-03-18,Food,Expense,2081.4327485380118,Food & Beverage
+2018-03-18,Transportation,Expense,4162.8654970760235,Transportation
+2018-03-17,Food,Expense,6244.298245614034,Food & Beverage
+2018-03-17,Food,Expense,7701.3011695906425,Food & Beverage
+2018-03-15,Food,Expense,12488.596491228069,Food & Beverage
+2018-03-15,Food,Expense,7493.157894736842,Food & Beverage
+2018-03-14,Household,Expense,29140.058479532163,Housing & Utilities
+2018-03-14,Food,Expense,8325.730994152047,Food & Beverage
+2018-03-14,Food,Expense,120306.81286549706,Food & Beverage
+2018-03-13,Family,Expense,99908.77192982455,Others
+2018-03-13,Food,Expense,7493.157894736842,Food & Beverage
+2018-03-12,Transportation,Expense,269129.2543859649,Transportation
+2018-03-10,Household,Expense,62442.98245614035,Housing & Utilities
+2018-03-10,Health,Expense,16027.03216374269,Health & Personal Care
+2018-03-10,Food,Expense,14986.315789473683,Food & Beverage
+2018-03-10,Food,Expense,7493.157894736842,Food & Beverage
+2018-03-08,Apparel,Expense,18941.038011695906,Lifestyle & Entertainment
+2018-03-08,Food,Expense,8325.730994152047,Food & Beverage
+2018-03-08,Petty cash,Income,104071.63742690058,Others
+2018-03-08,subscription,Expense,112397.36842105263,Lifestyle & Entertainment
+2018-03-08,Food,Expense,7493.157894736842,Food & Beverage
+2018-03-07,Festivals,Expense,4162.8654970760235,Lifestyle & Entertainment
+2018-03-07,Food,Expense,6244.298245614034,Food & Beverage
+2018-03-06,Health,Expense,35800.6432748538,Health & Personal Care
+2018-03-06,Health,Expense,4579.152046783625,Health & Personal Care
+2018-03-06,Education,Expense,832.5730994152046,Lifestyle & Entertainment
+2018-03-06,Petty cash,Income,728501.461988304,Others
+2018-03-06,Food,Expense,7493.157894736842,Food & Beverage
+2018-03-06,Documents,Expense,10407.163742690058,Others
+2018-03-06,Family,Expense,10407.163742690058,Others
+2018-03-05,Food,Expense,4162.8654970760235,Food & Beverage
+2018-03-05,Food,Expense,33719.21052631579,Food & Beverage
+2018-03-05,Household,Expense,282450.42397660814,Housing & Utilities
+2018-03-05,Household,Expense,202315.26315789472,Housing & Utilities
+2018-03-05,Other,Expense,2081.4327485380118,Others
+2018-03-04,Family,Expense,93664.47368421052,Others
+2018-03-04,Food,Expense,27058.62573099415,Food & Beverage
+2018-03-03,Dividend earned on Shares,Income,16235.17543859649,Income & Rewards
+2018-03-03,Food,Expense,7493.157894736842,Food & Beverage
+2018-03-02,Food,Expense,3122.149122807017,Food & Beverage
+2018-03-01,Food,Expense,39339.07894736842,Food & Beverage
+2018-03-01,Food,Expense,7493.157894736842,Food & Beverage
+2018-02-28,Food,Expense,9366.447368421052,Food & Beverage
+2018-02-28,Food,Expense,7493.157894736842,Food & Beverage
+2018-02-28,Food,Expense,6244.298245614034,Food & Beverage
+2018-02-28,Food,Expense,3746.578947368421,Food & Beverage
+2018-02-28,Salary,Income,13436897.251461988,Income & Rewards
+2018-02-27,Household,Expense,7909.444444444444,Housing & Utilities
+2018-02-27,Food,Expense,6244.298245614034,Food & Beverage
+2018-02-26,Food,Expense,15194.459064327484,Food & Beverage
+2018-02-26,Household,Expense,29140.058479532163,Housing & Utilities
+2018-02-26,Transportation,Expense,92207.47076023392,Transportation
+2018-02-26,Food,Expense,3538.43567251462,Food & Beverage
+2018-02-24,Food,Expense,8325.730994152047,Food & Beverage
+2018-02-23,Health,Expense,26642.33918128655,Health & Personal Care
+2018-02-23,Food,Expense,4162.8654970760235,Food & Beverage
+2018-02-23,Food,Expense,14986.315789473683,Food & Beverage
+2018-02-22,subscription,Expense,32678.494152046784,Lifestyle & Entertainment
+2018-02-22,Food,Expense,4162.8654970760235,Food & Beverage
+2018-02-22,Food,Expense,39963.508771929824,Food & Beverage
+2018-02-20,Household,Expense,541172.514619883,Housing & Utilities
+2018-02-19,Petty cash,Income,35384.356725146194,Others
+2018-02-19,Beauty,Expense,35384.356725146194,Health & Personal Care
+2018-02-19,Food,Expense,14986.315789473683,Food & Beverage
+2018-02-19,Food,Expense,4995.438596491228,Food & Beverage
+2018-02-17,Food,Expense,371119.4590643275,Food & Beverage
+2018-02-17,Family,Expense,748899.5029239765,Others
+2018-02-17,Transportation,Expense,4162.8654970760235,Transportation
+2018-02-17,Food,Expense,6244.298245614034,Food & Beverage
+2018-02-16,Food,Expense,9366.447368421052,Food & Beverage
+2018-02-16,Food,Expense,14986.315789473683,Food & Beverage
+2018-02-15,Food,Expense,7285.014619883041,Food & Beverage
+2018-02-15,Food,Expense,6244.298245614034,Food & Beverage
+2018-02-15,Household,Expense,24352.763157894737,Housing & Utilities
+2018-02-14,Food,Expense,12488.596491228069,Food & Beverage
+2018-02-13,Food,Expense,5203.581871345029,Food & Beverage
+2018-02-13,Food,Expense,7285.014619883041,Food & Beverage
+2018-02-13,Food,Expense,14986.315789473683,Food & Beverage
+2018-02-12,Food,Expense,7493.157894736842,Food & Beverage
+2018-02-12,Food,Expense,6244.298245614034,Food & Beverage
+2018-02-12,Food,Expense,33719.21052631579,Food & Beverage
+2018-02-11,Transportation,Expense,6244.298245614034,Transportation
+2018-02-11,Food,Expense,48913.66959064327,Food & Beverage
+2018-02-11,Food,Expense,3122.149122807017,Food & Beverage
+2018-02-11,Transportation,Expense,8325.730994152047,Transportation
+2018-02-11,Transportation,Expense,3122.149122807017,Transportation
+2018-02-10,Food,Expense,14361.88596491228,Food & Beverage
+2018-02-09,Apparel,Expense,20398.040935672514,Lifestyle & Entertainment
+2018-02-08,Food,Expense,7285.014619883041,Food & Beverage
+2018-02-08,Food,Expense,5203.581871345029,Food & Beverage
+2018-02-08,Food,Expense,14361.88596491228,Food & Beverage
+2018-02-06,Culture,Expense,64940.70175438596,Lifestyle & Entertainment
+2018-02-05,Family,Expense,104071.63742690058,Others
+2018-02-05,Food,Expense,45791.52046783626,Food & Beverage
+2018-02-05,Food,Expense,9366.447368421052,Food & Beverage
+2018-02-05,Food,Expense,14361.88596491228,Food & Beverage
+2018-02-04,Food,Expense,94080.76023391812,Food & Beverage
+2018-02-04,Food,Expense,10407.163742690058,Food & Beverage
+2018-02-04,Food,Expense,7285.014619883041,Food & Beverage
+2018-02-03,Food,Expense,2081.4327485380118,Food & Beverage
+2018-02-03,Transportation,Expense,196695.3947368421,Transportation
+2018-02-03,Gpay Reward,Income,1248.859649122807,Income & Rewards
+2018-02-02,Food,Expense,17067.748538011696,Food & Beverage
+2018-02-02,Gpay Reward,Income,1248.859649122807,Income & Rewards
+2018-02-02,Family,Expense,35384.356725146194,Others
+2018-02-01,Food,Expense,6244.298245614034,Food & Beverage
+2018-02-01,Food,Expense,3122.149122807017,Food & Beverage
+2018-02-01,maid,Expense,416286.5497076023,Housing & Utilities
+2018-01-31,Food,Expense,66605.84795321638,Food & Beverage
+2018-01-31,Transportation,Expense,10407.163742690058,Transportation
+2018-01-31,Salary,Income,13453548.713450292,Income & Rewards
+2018-01-31,Food,Expense,14361.88596491228,Food & Beverage
+2018-01-30,Household,Expense,2081.4327485380118,Housing & Utilities
+2018-01-30,Food,Expense,4162.8654970760235,Food & Beverage
+2018-01-30,Family,Expense,20814.327485380116,Others
+2018-01-29,Food,Expense,9366.447368421052,Food & Beverage
+2018-01-29,Food,Expense,8742.017543859649,Food & Beverage
+2018-01-29,Food,Expense,14361.88596491228,Food & Beverage
+2018-01-28,Food,Expense,4995.438596491228,Food & Beverage
+2018-01-28,Household,Expense,203335.16520467834,Housing & Utilities
+2018-01-28,Household,Expense,159021.46198830407,Housing & Utilities
+2018-01-27,Transportation,Expense,8950160.818713449,Transportation
+2018-01-26,Transportation,Expense,3122.149122807017,Transportation
+2018-01-26,Transportation,Expense,4162.8654970760235,Transportation
+2018-01-26,Apparel,Expense,210016.56432748536,Lifestyle & Entertainment
+2018-01-26,Food,Expense,4162.8654970760235,Food & Beverage
+2018-01-26,Food,Expense,14361.88596491228,Food & Beverage
+2018-01-26,Food,Expense,5203.581871345029,Food & Beverage
+2018-01-26,Household,Expense,7909.444444444444,Housing & Utilities
+2018-01-25,Food,Expense,14570.029239766081,Food & Beverage
+2018-01-24,Food,Expense,7285.014619883041,Food & Beverage
+2018-01-23,Household,Expense,56823.11403508772,Housing & Utilities
+2018-01-22,Food,Expense,2914.0058479532163,Food & Beverage
+2018-01-22,Food,Expense,33719.21052631579,Food & Beverage
+2018-01-22,Health,Expense,6244.298245614034,Health & Personal Care
+2018-01-22,Food,Expense,14361.88596491228,Food & Beverage
+2018-01-21,Food,Expense,79927.01754385965,Food & Beverage
+2018-01-20,Amazon pay cashback,Income,416.2865497076023,Income & Rewards
+2018-01-20,Food,Expense,2081.4327485380118,Food & Beverage
+2018-01-20,Food,Expense,9366.447368421052,Food & Beverage
+2018-01-20,subscription,Expense,37257.64619883041,Lifestyle & Entertainment
+2018-01-19,Food,Expense,3538.43567251462,Food & Beverage
+2018-01-19,Household,Expense,11031.59356725146,Housing & Utilities
+2018-01-19,Food,Expense,4162.8654970760235,Food & Beverage
+2018-01-19,Household,Expense,9574.590643274852,Housing & Utilities
+2018-01-18,Transportation,Expense,10407163.742690058,Transportation
+2018-01-18,Food,Expense,45583.37719298245,Food & Beverage
+2018-01-18,Food,Expense,8742.017543859649,Food & Beverage
+2018-01-18,Food,Expense,14361.88596491228,Food & Beverage
+2018-01-16,Household,Expense,34343.64035087719,Housing & Utilities
+2018-01-16,Food,Expense,14361.88596491228,Food & Beverage
+2018-01-16,Social Life,Expense,62026.695906432746,Lifestyle & Entertainment
+2018-01-15,Food,Expense,59112.69005847953,Food & Beverage
+2018-01-15,Food,Expense,7909.444444444444,Food & Beverage
+2018-01-15,Transportation,Expense,8325.730994152047,Transportation
+2018-01-15,Transportation,Expense,55366.11111111111,Transportation
+2018-01-14,Transportation,Expense,8325.730994152047,Transportation
+2018-01-14,Household,Expense,166098.3333333333,Housing & Utilities
+2018-01-14,Transportation,Expense,4162.8654970760235,Transportation
+2018-01-14,Transportation,Expense,5203.581871345029,Transportation
+2018-01-14,Apparel,Expense,41420.51169590643,Lifestyle & Entertainment
+2018-01-14,Transportation,Expense,4787.295321637426,Transportation
+2018-01-14,Transportation,Expense,3122.149122807017,Transportation
+2018-01-13,Health,Expense,154026.02339181287,Health & Personal Care
+2018-01-13,Apparel,Expense,16651.461988304094,Lifestyle & Entertainment
+2018-01-12,Household,Expense,47040.38011695906,Housing & Utilities
+2018-01-12,Health,Expense,104071.63742690058,Health & Personal Care
+2018-01-11,Food,Expense,8742.017543859649,Food & Beverage
+2018-01-11,Food,Expense,14361.88596491228,Food & Beverage
+2018-01-10,Food,Expense,8325.730994152047,Food & Beverage
+2018-01-09,Food,Expense,7076.87134502924,Food & Beverage
+2018-01-09,Food,Expense,14361.88596491228,Food & Beverage
+2018-01-08,Food,Expense,4162.8654970760235,Food & Beverage
+2018-01-08,Other,Income,416286.5497076023,Others
+2018-01-08,Household,Expense,291192.4415204678,Housing & Utilities
+2018-01-08,Food,Expense,21646.90058479532,Food & Beverage
+2018-01-08,Household,Expense,34343.64035087719,Housing & Utilities
+2018-01-07,Food,Expense,4162.8654970760235,Food & Beverage
+2018-01-07,Transportation,Expense,4162.8654970760235,Transportation
+2018-01-06,subscription,Expense,168596.05263157893,Lifestyle & Entertainment
+2018-01-06,Household,Expense,7909.444444444444,Housing & Utilities
+2018-01-06,Household,Expense,20814.327485380116,Housing & Utilities
+2018-01-06,Food,Expense,4162.8654970760235,Food & Beverage
+2018-01-06,Food,Expense,14361.88596491228,Food & Beverage
+2018-01-05,Maturity amount,Income,1259058.6695906431,Income & Rewards
+2018-01-04,Household,Expense,56198.68421052631,Housing & Utilities
+2018-01-04,Household,Expense,27058.62573099415,Housing & Utilities
+2018-01-04,Food,Expense,14570.029239766081,Food & Beverage
+2018-01-04,Documents,Expense,10407.163742690058,Others
+2018-01-04,Maturity amount,Income,23598451.92982456,Income & Rewards
+2018-01-04,Maturity amount,Income,22245312.5,Income & Rewards
+2018-01-03,Food,Expense,141745.5701754386,Food & Beverage
+2018-01-03,Transportation,Expense,208143.27485380115,Transportation
+2018-01-03,Food,Expense,8325.730994152047,Food & Beverage
+2018-01-03,Food,Expense,14361.88596491228,Food & Beverage
+2018-01-02,Household,Expense,237283.3333333333,Housing & Utilities
+2018-01-02,Health,Expense,32886.63742690058,Health & Personal Care
+2018-01-01,subscription,Expense,100325.05847953216,Lifestyle & Entertainment
+2018-01-01,Food,Expense,3122.149122807017,Food & Beverage
+2018-01-01,Household,Expense,124677.8216374269,Housing & Utilities
+2018-01-01,Food,Expense,14361.88596491228,Food & Beverage
+2018-01-01,maid,Expense,416286.5497076023,Housing & Utilities
+2017-12-31,Food,Expense,6164.465601965601,Food & Beverage
+2017-12-31,Salary,Income,13278875.3531941,Income & Rewards
+2017-12-31,Interest,Income,122056.4189189189,Income & Rewards
+2017-12-30,Food,Expense,5137.054668304668,Food & Beverage
+2017-12-29,Family,Expense,92466.98402948401,Others
+2017-12-29,Food,Expense,6164.465601965601,Food & Beverage
+2017-12-29,Household,Expense,37397.75798525798,Housing & Utilities
+2017-12-29,Food,Expense,1027.4109336609336,Food & Beverage
+2017-12-29,subscription,Expense,37192.27579852579,Lifestyle & Entertainment
+2017-12-28,Food,Expense,2054.821867321867,Food & Beverage
+2017-12-27,Food,Expense,14383.75307125307,Food & Beverage
+2017-12-26,subscription,Expense,359388.34459459456,Lifestyle & Entertainment
+2017-12-25,subscription,Expense,32055.221130221125,Lifestyle & Entertainment
+2017-12-25,subscription,Expense,37192.27579852579,Lifestyle & Entertainment
+2017-12-25,Transportation,Expense,16438.574938574937,Transportation
+2017-12-24,Transportation,Expense,6164.465601965601,Transportation
+2017-12-24,Gift,Expense,280277.70270270266,Lifestyle & Entertainment
+2017-12-24,Food,Expense,5137.054668304668,Food & Beverage
+2017-12-24,Household,Expense,20548.21867321867,Housing & Utilities
+2017-12-24,Food,Expense,7191.876535626535,Food & Beverage
+2017-12-23,Gift,Expense,163974.785012285,Lifestyle & Entertainment
+2017-12-22,Food,Expense,78083.23095823095,Food & Beverage
+2017-12-21,Food,Expense,3082.2328009828007,Food & Beverage
+2017-12-21,Household,Expense,24246.898034398033,Housing & Utilities
+2017-12-21,Food,Expense,13356.342137592135,Food & Beverage
+2017-12-21,Food,Expense,14383.75307125307,Food & Beverage
+2017-12-20,Food,Expense,19520.80773955774,Food & Beverage
+2017-12-20,subscription,Expense,5835694.103194103,Lifestyle & Entertainment
+2017-12-19,Gpay Reward,Income,1232.8931203931202,Income & Rewards
+2017-12-19,Family,Expense,102741.09336609335,Others
+2017-12-19,Food,Expense,9246.698402948401,Food & Beverage
+2017-12-19,Transportation,Expense,2054.821867321867,Transportation
+2017-12-19,Food,Expense,14178.270884520882,Food & Beverage
+2017-12-18,Apparel,Expense,64110.44226044225,Lifestyle & Entertainment
+2017-12-17,Food,Expense,103768.50429975429,Food & Beverage
+2017-12-17,Transportation,Expense,6164.465601965601,Transportation
+2017-12-17,Household,Expense,180413.3599508599,Housing & Utilities
+2017-12-17,Food,Expense,4109.643734643734,Food & Beverage
+2017-12-17,Transportation,Expense,5137.054668304668,Transportation
+2017-12-17,Transportation,Expense,4109.643734643734,Transportation
+2017-12-17,Transportation,Expense,3082.2328009828007,Transportation
+2017-12-16,Food,Expense,14178.270884520882,Food & Beverage
+2017-12-15,Other,Expense,2054.821867321867,Others
+2017-12-15,Food,Expense,3082.2328009828007,Food & Beverage
+2017-12-14,Petty cash,Income,616446.5601965601,Others
+2017-12-14,Food,Expense,29794.917076167072,Food & Beverage
+2017-12-13,Apparel,Expense,20137.2542997543,Lifestyle & Entertainment
+2017-12-13,Family,Expense,4109.643734643734,Others
+2017-12-13,Food,Expense,14178.270884520882,Food & Beverage
+2017-12-12,Food,Expense,8219.287469287468,Food & Beverage
+2017-12-12,Food,Expense,20548.21867321867,Food & Beverage
+2017-12-12,Food,Expense,16438.574938574937,Food & Beverage
+2017-12-10,Food,Expense,18493.396805896802,Food & Beverage
+2017-12-10,Food,Expense,63699.47788697788,Food & Beverage
+2017-12-10,Food,Expense,5137.054668304668,Food & Beverage
+2017-12-10,Food,Expense,13356.342137592135,Food & Beverage
+2017-12-09,Food,Expense,17465.98587223587,Food & Beverage
+2017-12-08,Food,Expense,83836.73218673217,Food & Beverage
+2017-12-07,Food,Expense,14178.270884520882,Food & Beverage
+2017-12-06,Food,Expense,25685.273341523338,Food & Beverage
+2017-12-05,subscription,Expense,20548.21867321867,Lifestyle & Entertainment
+2017-12-05,subscription,Expense,554801.9041769041,Lifestyle & Entertainment
+2017-12-04,Household,Expense,192536.80896805893,Housing & Utilities
+2017-12-04,Household,Expense,203427.36486486482,Housing & Utilities
+2017-12-04,Food,Expense,24657.862407862405,Food & Beverage
+2017-12-04,Maturity amount,Income,2894422.082309582,Income & Rewards
+2017-12-04,Gpay Reward,Income,1232.8931203931202,Income & Rewards
+2017-12-04,Food,Expense,7191.876535626535,Food & Beverage
+2017-12-04,Food,Expense,10274.109336609336,Food & Beverage
+2017-12-04,Food,Expense,14178.270884520882,Food & Beverage
+2017-12-04,subscription,Expense,22603.040540540536,Lifestyle & Entertainment
+2017-12-03,Food,Expense,6164.465601965601,Food & Beverage
+2017-12-03,Food,Expense,59589.834152334144,Food & Beverage
+2017-12-03,Other,Expense,4109.643734643734,Others
+2017-12-03,Beauty,Expense,32877.149877149874,Health & Personal Care
+2017-12-02,Food,Expense,7191.876535626535,Food & Beverage
+2017-12-02,Food,Expense,14178.270884520882,Food & Beverage
+2017-12-01,Food,Expense,25685.273341523338,Food & Beverage
+2017-12-01,Gpay Reward,Income,1232.8931203931202,Income & Rewards
+2017-12-01,Food,Expense,14178.270884520882,Food & Beverage
+2017-12-01,maid,Expense,410964.3734643734,Housing & Utilities
+2017-11-30,Health,Expense,4520.608108108107,Health & Personal Care
+2017-11-30,Health,Expense,164385.74938574937,Health & Personal Care
+2017-11-30,Health,Expense,4664445.638820638,Health & Personal Care
+2017-11-30,Family,Expense,10274.109336609336,Others
+2017-11-30,Salary,Income,13281546.62162162,Income & Rewards
+2017-11-28,Food,Expense,18493.396805896802,Food & Beverage
+2017-11-28,Food,Expense,8630.25184275184,Food & Beverage
+2017-11-28,Food,Expense,3698.6793611793605,Food & Beverage
+2017-11-28,Household,Expense,23630.451474201473,Housing & Utilities
+2017-11-28,Food,Expense,28767.50614250614,Food & Beverage
+2017-11-28,Food,Expense,14178.270884520882,Food & Beverage
+2017-11-27,Health,Expense,205482.1867321867,Health & Personal Care
+2017-11-27,Gpay Reward,Income,1438.375307125307,Income & Rewards
+2017-11-27,Transportation,Expense,6164.465601965601,Transportation
+2017-11-27,Transportation,Expense,1027.4109336609336,Transportation
+2017-11-27,Apparel,Expense,554596.4219901719,Lifestyle & Entertainment
+2017-11-26,Gpay Reward,Income,1643.8574938574936,Income & Rewards
+2017-11-26,Transportation,Expense,8219.287469287468,Transportation
+2017-11-26,Health,Expense,32671.667690417686,Health & Personal Care
+2017-11-26,Health,Expense,82192.87469287468,Health & Personal Care
+2017-11-26,Transportation,Expense,2054.821867321867,Transportation
+2017-11-25,subscription,Expense,32055.221130221125,Lifestyle & Entertainment
+2017-11-25,Food,Expense,14178.270884520882,Food & Beverage
+2017-11-25,Apparel,Expense,18493.396805896802,Lifestyle & Entertainment
+2017-11-25,Food,Expense,2054.821867321867,Food & Beverage
+2017-11-24,Culture,Expense,64521.40663390663,Lifestyle & Entertainment
+2017-11-23,Food,Expense,4726.0902948402945,Food & Beverage
+2017-11-23,Food,Expense,3493.197174447174,Food & Beverage
+2017-11-23,Food,Expense,4315.12592137592,Food & Beverage
+2017-11-23,Food,Expense,14178.270884520882,Food & Beverage
+2017-11-20,Food,Expense,14383.75307125307,Food & Beverage
+2017-11-20,scrap,Income,41096.43734643734,Others
+2017-11-19,Food,Expense,4109.643734643734,Food & Beverage
+2017-11-19,Transportation,Expense,6164.465601965601,Transportation
+2017-11-19,Transportation,Expense,4109.643734643734,Transportation
+2017-11-19,Culture,Expense,89590.23341523341,Lifestyle & Entertainment
+2017-11-18,Household,Expense,49726.68918918918,Housing & Utilities
+2017-11-18,Food,Expense,8013.805282555281,Food & Beverage
+2017-11-18,subscription,Expense,30205.881449631444,Lifestyle & Entertainment
+2017-11-18,Self-development,Expense,195208.07739557736,Lifestyle & Entertainment
+2017-11-18,Food,Expense,21370.147420147416,Food & Beverage
+2017-11-17,Food,Expense,21575.629606879604,Food & Beverage
+2017-11-17,Household,Expense,16438.574938574937,Housing & Utilities
+2017-11-17,Food,Expense,5753.501228501228,Food & Beverage
+2017-11-16,Food,Expense,14383.75307125307,Food & Beverage
+2017-11-15,Food,Expense,107672.66584766583,Food & Beverage
+2017-11-15,Household,Expense,42945.77702702702,Housing & Utilities
+2017-11-15,Education,Expense,9246.698402948401,Lifestyle & Entertainment
+2017-11-15,Food,Expense,5137.054668304668,Food & Beverage
+2017-11-15,Household,Expense,19520.80773955774,Housing & Utilities
+2017-11-14,Food,Expense,25685.273341523338,Food & Beverage
+2017-11-14,Family,Expense,158221.28378378376,Others
+2017-11-14,Food,Expense,32877.149877149874,Food & Beverage
+2017-11-13,Household,Expense,36986.793611793604,Housing & Utilities
+2017-11-13,Food,Expense,14383.75307125307,Food & Beverage
+2017-11-13,Food,Expense,10274.109336609336,Food & Beverage
+2017-11-13,Household,Expense,55069.22604422604,Housing & Utilities
+2017-11-13,Food,Expense,12328.931203931203,Food & Beverage
+2017-11-12,Transportation,Expense,6164.465601965601,Transportation
+2017-11-12,Food,Expense,313360.33476658474,Food & Beverage
+2017-11-12,Food,Expense,2465.7862407862403,Food & Beverage
+2017-11-12,Household,Expense,26712.68427518427,Housing & Utilities
+2017-11-12,Household,Expense,24657.862407862405,Housing & Utilities
+2017-11-12,Other,Expense,758229.269041769,Others
+2017-11-12,Transportation,Expense,6986.394348894348,Transportation
+2017-11-12,Transportation,Expense,8219.287469287468,Transportation
+2017-11-11,Food,Expense,8013.805282555281,Food & Beverage
+2017-11-11,Food,Expense,5342.536855036854,Food & Beverage
+2017-11-09,Apparel,Expense,14794.717444717442,Lifestyle & Entertainment
+2017-11-09,Household,Expense,4109.643734643734,Housing & Utilities
+2017-11-09,Household,Expense,13767.30651105651,Housing & Utilities
+2017-11-09,Health,Expense,20548.21867321867,Health & Personal Care
+2017-11-09,Food,Expense,8219.287469287468,Food & Beverage
+2017-11-09,Food,Expense,14383.75307125307,Food & Beverage
+2017-11-08,Household,Expense,110754.89864864864,Housing & Utilities
+2017-11-08,Gpay Reward,Income,1232.8931203931202,Income & Rewards
+2017-11-08,Food,Expense,26712.68427518427,Food & Beverage
+2017-11-07,Food,Expense,14383.75307125307,Food & Beverage
+2017-11-06,Food,Expense,8013.805282555281,Food & Beverage
+2017-11-05,Transportation,Expense,3082.2328009828007,Transportation
+2017-11-05,subscription,Expense,41096.43734643734,Lifestyle & Entertainment
+2017-11-03,subscription,Expense,554801.9041769041,Lifestyle & Entertainment
+2017-11-02,Food,Expense,4109.643734643734,Food & Beverage
+2017-11-02,Other,Expense,26712.68427518427,Others
+2017-11-01,subscription,Expense,60822.727272727265,Lifestyle & Entertainment
+2017-11-01,Salary,Income,16088844.256756755,Income & Rewards
+2017-10-29,subscription,Expense,60822.727272727265,Lifestyle & Entertainment
+2017-10-29,subscription,Expense,163459.0247235872,Lifestyle & Entertainment
+2017-10-27,Transportation,Expense,8219.287469287468,Transportation
+2017-10-26,Transportation,Expense,10274.109336609336,Transportation
+2017-10-26,Festivals,Expense,10274.109336609336,Lifestyle & Entertainment
+2017-10-26,Festivals,Expense,2054.821867321867,Lifestyle & Entertainment
+2017-10-26,Festivals,Expense,102741.09336609335,Lifestyle & Entertainment
+2017-10-25,Petty cash,Income,616446.5601965601,Others
+2017-10-24,subscription,Expense,60822.727272727265,Lifestyle & Entertainment
+2017-10-24,Food,Expense,2054.821867321867,Food & Beverage
+2017-10-23,Household,Expense,1849.3396805896803,Housing & Utilities
+2017-10-23,Apparel,Expense,45206.08108108107,Lifestyle & Entertainment
+2017-10-23,Festivals,Expense,41096.43734643734,Lifestyle & Entertainment
+2017-10-23,Household,Expense,20342.736486486483,Housing & Utilities
+2017-10-23,Household,Expense,5548.019041769041,Housing & Utilities
+2017-10-23,Household,Expense,10274.109336609336,Housing & Utilities
+2017-10-23,subscription,Expense,39247.09766584766,Lifestyle & Entertainment
+2017-10-22,Transportation,Expense,10274.109336609336,Transportation
+2017-10-21,Other,Expense,387950.3685503685,Others
+2017-10-21,Food,Expense,6780.912162162162,Food & Beverage
+2017-10-21,maid,Expense,410964.3734643734,Housing & Utilities
+2017-10-20,Gift,Expense,41096.43734643734,Lifestyle & Entertainment
+2017-10-20,Festivals,Expense,4109.643734643734,Lifestyle & Entertainment
+2017-10-19,Food,Expense,5137.054668304668,Food & Beverage
+2017-10-18,Transportation,Expense,273907.7549140049,Transportation
+2017-10-18,Transportation,Expense,252948.57186732182,Transportation
+2017-10-17,Petty cash,Income,616446.5601965601,Others
+2017-10-13,Family,Expense,14383.75307125307,Others
+2017-10-11,Transportation,Expense,135330.56818181818,Transportation
+2017-10-10,Household,Expense,2876.750614250614,Housing & Utilities
+2017-10-09,Food,Expense,47260.902948402945,Food & Beverage
+2017-10-09,Food,Expense,57535.01228501228,Food & Beverage
+2017-10-09,subscription,Expense,1158919.5331695331,Lifestyle & Entertainment
+2017-10-08,Gift,Expense,1335634.2137592137,Lifestyle & Entertainment
+2017-10-08,Family,Expense,657132.0331695331,Others
+2017-10-06,Health,Expense,96165.66339066338,Health & Personal Care
+2017-10-05,Other,Expense,41096.43734643734,Others
+2017-10-04,subscription,Expense,554801.9041769041,Lifestyle & Entertainment
+2017-10-04,Health,Expense,10274.109336609336,Health & Personal Care
+2017-10-04,Family,Expense,82192.87469287468,Others
+2017-10-02,Household,Expense,627748.0804668304,Housing & Utilities
+2017-10-02,maid,Expense,410964.3734643734,Housing & Utilities
+2017-10-01,subscription,Expense,30616.84582309582,Lifestyle & Entertainment
+2017-09-30,Health,Expense,12123.449017199016,Health & Personal Care
+2017-09-30,Household,Expense,31849.73894348894,Housing & Utilities
+2017-09-30,Food,Expense,27740.095208845207,Food & Beverage
+2017-09-30,Food,Expense,6164.465601965601,Food & Beverage
+2017-09-30,Household,Expense,123289.31203931202,Housing & Utilities
+2017-09-30,Salary,Income,12653182.094594592,Income & Rewards
+2017-09-30,Interest,Income,159865.14127764126,Income & Rewards
+2017-09-29,Apparel,Expense,12328.931203931203,Lifestyle & Entertainment
+2017-09-29,Food,Expense,5137.054668304668,Food & Beverage
+2017-09-29,Food,Expense,2054.821867321867,Food & Beverage
+2017-09-29,Health,Expense,4315.12592137592,Health & Personal Care
+2017-09-28,subscription,Expense,44178.67014742014,Lifestyle & Entertainment
+2017-09-28,Transportation,Expense,490691.4619164619,Transportation
+2017-09-27,Household,Expense,64110.44226044225,Housing & Utilities
+2017-09-27,Gpay Reward,Income,1232.8931203931202,Income & Rewards
+2017-09-27,Gift,Expense,68631.05036855036,Lifestyle & Entertainment
+2017-09-25,Food,Expense,6164.465601965601,Food & Beverage
+2017-09-25,Food,Expense,61644.65601965601,Food & Beverage
+2017-09-24,Transportation,Expense,6164.465601965601,Transportation
+2017-09-24,Transportation,Expense,2054.821867321867,Transportation
+2017-09-24,Culture,Expense,115070.02457002456,Lifestyle & Entertainment
+2017-09-24,Food,Expense,57535.01228501228,Food & Beverage
+2017-09-24,Beauty,Expense,20548.21867321867,Health & Personal Care
+2017-09-23,Food,Expense,20548.21867321867,Food & Beverage
+2017-09-21,Other,Expense,2054.821867321867,Others
+2017-09-21,Transportation,Expense,3082.2328009828007,Transportation
+2017-09-21,Food,Expense,3082.2328009828007,Food & Beverage
+2017-09-21,Food,Expense,2054.821867321867,Food & Beverage
+2017-09-21,Transportation,Expense,6164.465601965601,Transportation
+2017-09-21,Family,Expense,14383.75307125307,Others
+2017-09-20,Health,Expense,4109.643734643734,Health & Personal Care
+2017-09-20,Other,Expense,20548.21867321867,Others
+2017-09-20,Family,Expense,4109.643734643734,Others
+2017-09-18,Health,Expense,11301.520270270268,Health & Personal Care
+2017-09-18,Food,Expense,12328.931203931203,Food & Beverage
+2017-09-18,Food,Expense,11301.520270270268,Food & Beverage
+2017-09-17,Household,Expense,23424.969287469285,Housing & Utilities
+2017-09-17,Health,Expense,31027.810196560193,Health & Personal Care
+2017-09-17,Household,Expense,114659.06019656018,Housing & Utilities
+2017-09-17,Food,Expense,7191.876535626535,Food & Beverage
+2017-09-17,Food,Expense,20342.736486486483,Food & Beverage
+2017-09-15,Food,Expense,12328.931203931203,Food & Beverage
+2017-09-15,Food,Expense,26712.68427518427,Food & Beverage
+2017-09-15,Food,Expense,11301.520270270268,Food & Beverage
+2017-09-15,Health,Expense,76644.85565110564,Health & Personal Care
+2017-09-15,Health,Expense,30822.328009828005,Health & Personal Care
+2017-09-15,Transportation,Expense,287675.0614250614,Transportation
+2017-09-15,Food,Expense,4931.572481572481,Food & Beverage
+2017-09-15,Food,Expense,10274.109336609336,Food & Beverage
+2017-09-15,Food,Expense,13561.824324324323,Food & Beverage
+2017-09-14,Food,Expense,57945.97665847665,Food & Beverage
+2017-09-14,subscription,Expense,20548.21867321867,Lifestyle & Entertainment
+2017-09-13,Food,Expense,22603.040540540536,Food & Beverage
+2017-09-12,Gpay Reward,Income,1027.4109336609336,Income & Rewards
+2017-09-12,Food,Expense,13561.824324324323,Food & Beverage
+2017-09-11,Transportation,Expense,12328.931203931203,Transportation
+2017-09-11,Transportation,Expense,533842.721130221,Transportation
+2017-09-11,Family,Expense,513705.46683046676,Others
+2017-09-11,Gpay Reward,Income,1232.8931203931202,Income & Rewards
+2017-09-11,Food,Expense,58562.42321867321,Food & Beverage
+2017-09-11,Transportation,Expense,20548.21867321867,Transportation
+2017-09-11,Transportation,Expense,6164.465601965601,Transportation
+2017-09-11,Food,Expense,19109.843366093362,Food & Beverage
+2017-09-10,Household,Expense,105617.84398034397,Housing & Utilities
+2017-09-09,Health,Expense,9246.698402948401,Health & Personal Care
+2017-09-08,Transportation,Expense,295894.34889434883,Transportation
+2017-09-08,Food,Expense,40274.5085995086,Food & Beverage
+2017-09-06,Family,Expense,102741.09336609335,Others
+2017-09-06,Other,Expense,4109.643734643734,Others
+2017-09-06,Food,Expense,28767.50614250614,Food & Beverage
+2017-09-05,subscription,Expense,554801.9041769041,Lifestyle & Entertainment
+2017-09-05,Education,Expense,10274.109336609336,Lifestyle & Entertainment
+2017-09-04,Food,Expense,8219.287469287468,Food & Beverage
+2017-09-03,Other,Expense,3082.2328009828007,Others
+2017-09-03,subscription,Expense,34931.97174447174,Lifestyle & Entertainment
+2017-09-01,maid,Expense,168495.3931203931,Housing & Utilities
+2017-09-01,Food,Expense,13561.824324324323,Food & Beverage
+2017-08-31,Other,Expense,3637.0347051597046,Others
+2017-08-31,Household,Expense,12328.931203931203,Housing & Utilities
+2017-08-31,Household,Expense,2054.821867321867,Housing & Utilities
+2017-08-31,Household,Expense,1027.4109336609336,Housing & Utilities
+2017-08-31,Household,Expense,5137.054668304668,Housing & Utilities
+2017-08-31,Gpay Reward,Income,1027.4109336609336,Income & Rewards
+2017-08-31,Gpay Reward,Income,2876.750614250614,Income & Rewards
+2017-08-31,Food,Expense,20342.736486486483,Food & Beverage
+2017-08-30,Health,Expense,4520.608108108107,Health & Personal Care
+2017-08-30,Salary,Income,12653182.094594592,Income & Rewards
+2017-08-29,Transportation,Expense,131508.5995085995,Transportation
+2017-08-28,Tourism,Expense,41096.43734643734,Lifestyle & Entertainment
+2017-08-28,Food,Expense,4109.643734643734,Food & Beverage
+2017-08-27,Tourism,Expense,20548.21867321867,Lifestyle & Entertainment
+2017-08-27,Health,Expense,12123.449017199016,Health & Personal Care
+2017-08-27,Transportation,Expense,41096.43734643734,Transportation
+2017-08-26,Food,Expense,1027.4109336609336,Food & Beverage
+2017-08-26,Maturity amount,Income,12689346.959459458,Income & Rewards
+2017-08-25,Health,Expense,8013.805282555281,Health & Personal Care
+2017-08-24,Transportation,Expense,8219.287469287468,Transportation
+2017-08-24,Food,Expense,66781.71068796067,Food & Beverage
+2017-08-24,Household,Expense,616446.5601965601,Housing & Utilities
+2017-08-24,Apparel,Expense,1068507.3710073708,Lifestyle & Entertainment
+2017-08-23,Food,Expense,61644.65601965601,Food & Beverage
+2017-08-23,Transportation,Expense,174659.8587223587,Transportation
+2017-08-22,Family,Expense,1027410.9336609335,Others
+2017-08-22,Household,Expense,61644.65601965601,Housing & Utilities
+2017-08-21,Household,Expense,57535.01228501228,Housing & Utilities
+2017-08-21,Beauty,Expense,10274.109336609336,Health & Personal Care
+2017-08-21,Food,Expense,6780.912162162162,Food & Beverage
+2017-08-21,Beauty,Expense,16438.574938574937,Health & Personal Care
+2017-08-21,Education,Expense,5548.019041769041,Lifestyle & Entertainment
+2017-08-20,Food,Expense,34110.042997542994,Food & Beverage
+2017-08-20,Food,Expense,103563.0221130221,Food & Beverage
+2017-08-20,Transportation,Expense,12328.931203931203,Transportation
+2017-08-20,Transportation,Expense,74179.0694103194,Transportation
+2017-08-20,Transportation,Expense,5137.054668304668,Transportation
+2017-08-20,Transportation,Expense,6164.465601965601,Transportation
+2017-08-20,Apparel,Expense,9863.144963144961,Lifestyle & Entertainment
+2017-08-20,Other,Expense,49110.24262899262,Others
+2017-08-20,Household,Expense,116919.36425061424,Housing & Utilities
+2017-08-19,Household,Expense,12328.931203931203,Housing & Utilities
+2017-08-19,Household,Expense,4109.643734643734,Housing & Utilities
+2017-08-19,Household,Expense,9246.698402948401,Housing & Utilities
+2017-08-19,subscription,Expense,44589.634520884516,Lifestyle & Entertainment
+2017-08-18,Family,Expense,20548.21867321867,Others
+2017-08-17,maid,Expense,209591.83046683043,Housing & Utilities
+2017-08-17,Household,Expense,18082.43243243243,Housing & Utilities
+2017-08-17,Food,Expense,9246.698402948401,Food & Beverage
+2017-08-15,Household,Expense,287675.0614250614,Housing & Utilities
+2017-08-15,Food,Expense,20342.736486486483,Food & Beverage
+2017-08-14,Household,Expense,65754.29975429975,Housing & Utilities
+2017-08-14,Household,Expense,23014.004914004912,Housing & Utilities
+2017-08-12,Festivals,Expense,164385.74938574937,Lifestyle & Entertainment
+2017-08-12,Transportation,Expense,342127.8409090909,Transportation
+2017-08-11,Gift,Expense,102741.09336609335,Lifestyle & Entertainment
+2017-08-11,Transportation,Expense,96576.62776412776,Transportation
+2017-08-11,Transportation,Expense,20548.21867321867,Transportation
+2017-08-11,Transportation,Expense,67809.12162162161,Transportation
+2017-08-11,Transportation,Expense,12328.931203931203,Transportation
+2017-08-10,Household,Expense,15616.64619164619,Housing & Utilities
+2017-08-10,Food,Expense,13561.824324324323,Food & Beverage
+2017-08-10,Gpay Reward,Income,616.4465601965601,Income & Rewards
+2017-08-09,Gpay Reward,Income,1232.8931203931202,Income & Rewards
+2017-08-09,Household,Expense,44795.116707616704,Housing & Utilities
+2017-08-09,Health,Expense,25685.273341523338,Health & Personal Care
+2017-08-08,Tourism,Expense,8835734.029484028,Lifestyle & Entertainment
+2017-08-08,Food,Expense,13561.824324324323,Food & Beverage
+2017-08-07,Gpay Reward,Income,1232.8931203931202,Income & Rewards
+2017-08-07,Family,Expense,1027410.9336609335,Others
+2017-08-07,Food,Expense,6780.912162162162,Food & Beverage
+2017-08-06,Gpay Reward,Income,1232.8931203931202,Income & Rewards
+2017-08-06,Health,Expense,4520.608108108107,Health & Personal Care
+2017-08-06,subscription,Expense,34931.97174447174,Lifestyle & Entertainment
+2017-08-06,Household,Expense,62055.620393120385,Housing & Utilities
+2017-08-06,Food,Expense,1027.4109336609336,Food & Beverage
+2017-08-06,Food,Expense,5137.054668304668,Food & Beverage
+2017-08-05,Gift,Expense,186783.30773955773,Lifestyle & Entertainment
+2017-08-05,Gift,Expense,235277.10380835377,Lifestyle & Entertainment
+2017-08-05,Apparel,Expense,203221.88267813265,Lifestyle & Entertainment
+2017-08-05,Health,Expense,5548.019041769041,Health & Personal Care
+2017-08-05,Family,Expense,20548.21867321867,Others
+2017-08-05,Health,Expense,1271934.7358722356,Health & Personal Care
+2017-08-04,Gpay Reward,Income,2260.3040540540537,Income & Rewards
+2017-08-04,subscription,Expense,616241.0780098279,Lifestyle & Entertainment
+2017-08-04,Food,Expense,13972.788697788696,Food & Beverage
+2017-08-03,subscription,Expense,34931.97174447174,Lifestyle & Entertainment
+2017-08-02,subscription,Expense,554801.9041769041,Lifestyle & Entertainment
+2017-08-02,Food,Expense,2876.750614250614,Food & Beverage
+2017-08-02,Food,Expense,13561.824324324323,Food & Beverage
+2017-08-01,Apparel,Expense,81987.3925061425,Lifestyle & Entertainment
+2017-08-01,Health,Expense,2054.821867321867,Health & Personal Care
+2017-07-31,Food,Expense,20548.21867321867,Food & Beverage
+2017-07-31,Transportation,Expense,13356.342137592135,Transportation
+2017-07-31,Food,Expense,4520.608108108107,Food & Beverage
+2017-07-30,Gpay Reward,Income,1232.8931203931202,Income & Rewards
+2017-07-30,Food,Expense,4109.643734643734,Food & Beverage
+2017-07-30,Transportation,Expense,183906.5571253071,Transportation
+2017-07-30,Household,Expense,205482.1867321867,Housing & Utilities
+2017-07-30,Household,Expense,616446.5601965601,Housing & Utilities
+2017-07-30,Food,Expense,20548.21867321867,Food & Beverage
+2017-07-30,Transportation,Expense,4109.643734643734,Transportation
+2017-07-30,Salary,Income,12653182.094594592,Income & Rewards
+2017-07-29,Food,Expense,13150.85995085995,Food & Beverage
+2017-07-29,Health,Expense,114248.0958230958,Health & Personal Care
+2017-07-29,Transportation,Expense,19931.77211302211,Transportation
+2017-07-28,Transportation,Expense,6164.465601965601,Transportation
+2017-07-28,Health,Expense,34315.52518427518,Health & Personal Care
+2017-07-28,Health,Expense,626720.6695331695,Health & Personal Care
+2017-07-28,Transportation,Expense,4109.643734643734,Transportation
+2017-07-27,Food,Expense,44178.67014742014,Food & Beverage
+2017-07-27,Food,Expense,41712.8839066339,Food & Beverage
+2017-07-27,Household,Expense,41096.43734643734,Housing & Utilities
+2017-07-27,Maturity amount,Income,8286274.662162161,Income & Rewards
+2017-07-26,Tax refund,Income,3976080.3132678126,Income & Rewards
+2017-07-25,Tourism,Expense,4109643.734643734,Lifestyle & Entertainment
+2017-07-24,Food,Expense,50959.5823095823,Food & Beverage
+2017-07-24,Food,Expense,4520.608108108107,Food & Beverage
+2017-07-24,Food,Expense,13150.85995085995,Food & Beverage
+2017-07-23,Household,Expense,41096.43734643734,Housing & Utilities
+2017-07-23,Household,Expense,424320.71560196555,Housing & Utilities
+2017-07-23,Food,Expense,10685.073710073708,Food & Beverage
+2017-07-22,Food,Expense,13150.85995085995,Food & Beverage
+2017-07-21,Other,Expense,205482.1867321867,Others
+2017-07-21,Food,Expense,6780.912162162162,Food & Beverage
+2017-07-20,Food,Expense,18082.43243243243,Food & Beverage
+2017-07-20,Food,Expense,10274.109336609336,Food & Beverage
+2017-07-20,subscription,Expense,522952.16523341514,Lifestyle & Entertainment
+2017-07-20,Food,Expense,6575.429975429975,Food & Beverage
+2017-07-19,Food,Expense,4520.608108108107,Food & Beverage
+2017-07-19,Food,Expense,6575.429975429975,Food & Beverage
+2017-07-18,Food,Expense,4109.643734643734,Food & Beverage
+2017-07-18,Food,Expense,14383.75307125307,Food & Beverage
+2017-07-18,Food,Expense,8835.734029484029,Food & Beverage
+2017-07-18,Food,Expense,7191.876535626535,Food & Beverage
+2017-07-18,Household,Expense,49315.72481572481,Housing & Utilities
+2017-07-18,Household,Expense,110960.38083538083,Housing & Utilities
+2017-07-18,Other,Income,5137.054668304668,Others
+2017-07-18,Food,Expense,11301.520270270268,Food & Beverage
+2017-07-17,Transportation,Expense,6164.465601965601,Transportation
+2017-07-17,Apparel,Expense,12945.377764127763,Lifestyle & Entertainment
+2017-07-17,Food,Expense,12328.931203931203,Food & Beverage
+2017-07-17,Food,Expense,110960.38083538083,Food & Beverage
+2017-07-17,Transportation,Expense,8219.287469287468,Transportation
+2017-07-15,Food,Expense,5137.054668304668,Food & Beverage
+2017-07-15,Food,Expense,6575.429975429975,Food & Beverage
+2017-07-14,Food,Expense,3082.2328009828007,Food & Beverage
+2017-07-12,Gpay Reward,Income,1232.8931203931202,Income & Rewards
+2017-07-12,Gift,Expense,102741.09336609335,Lifestyle & Entertainment
+2017-07-12,Food,Expense,13150.85995085995,Food & Beverage
+2017-07-11,Food,Expense,3082.2328009828007,Food & Beverage
+2017-07-11,Education,Expense,2054.821867321867,Lifestyle & Entertainment
+2017-07-11,Family,Expense,1027410.9336609335,Others
+2017-07-11,Other,Income,4109643.734643734,Others
+2017-07-11,Family,Expense,308223.28009828005,Others
+2017-07-10,Food,Expense,10274.109336609336,Food & Beverage
+2017-07-09,Household,Expense,600624.4318181818,Housing & Utilities
+2017-07-09,Food,Expense,4109.643734643734,Food & Beverage
+2017-07-09,Transportation,Expense,2465.7862407862403,Transportation
+2017-07-09,Transportation,Expense,16438.574938574937,Transportation
+2017-07-09,Transportation,Expense,6164.465601965601,Transportation
+2017-07-08,Food,Expense,6164.465601965601,Food & Beverage
+2017-07-08,Food,Expense,5342.536855036854,Food & Beverage
+2017-07-08,Food,Expense,13150.85995085995,Food & Beverage
+2017-07-05,Food,Expense,23630.451474201473,Food & Beverage
+2017-07-05,Food,Expense,20548.21867321867,Food & Beverage
+2017-07-05,Food,Expense,36986.793611793604,Food & Beverage
+2017-07-05,Food,Expense,9246.698402948401,Food & Beverage
+2017-07-04,Food,Expense,5137.054668304668,Food & Beverage
+2017-07-04,subscription,Expense,554801.9041769041,Lifestyle & Entertainment
+2017-07-04,Transportation,Expense,12328.931203931203,Transportation
+2017-07-04,Food,Expense,7191.876535626535,Food & Beverage
+2017-07-04,Food,Expense,13150.85995085995,Food & Beverage
+2017-07-03,Other,Expense,1027.4109336609336,Others
+2017-07-03,subscription,Expense,34931.97174447174,Lifestyle & Entertainment
+2017-07-02,Food,Expense,28767.50614250614,Food & Beverage
+2017-07-01,Transportation,Expense,351580.02149877144,Transportation
+2017-06-30,Gift,Expense,986314.4963144962,Lifestyle & Entertainment
+2017-06-30,Interest,Income,178769.50245700244,Income & Rewards
+2017-06-30,Salary,Income,11703648.909705158,Income & Rewards
+2017-06-29,Beauty,Expense,12328.931203931203,Health & Personal Care
+2017-06-29,Transportation,Expense,10274.109336609336,Transportation
+2017-06-28,Transportation,Expense,6164.465601965601,Transportation
+2017-06-28,Food,Expense,38322.42782555282,Food & Beverage
+2017-06-28,Food,Expense,3082.2328009828007,Food & Beverage
+2017-06-28,Family,Expense,308223.28009828005,Others
+2017-06-28,maid,Expense,410964.3734643734,Housing & Utilities
+2017-06-27,Health,Expense,2465.7862407862403,Health & Personal Care
+2017-06-26,Food,Expense,4931.572481572481,Food & Beverage
+2017-06-26,Food,Expense,4109.643734643734,Food & Beverage
+2017-06-26,Food,Expense,13150.85995085995,Food & Beverage
+2017-06-25,Transportation,Expense,2054.821867321867,Transportation
+2017-06-24,Food,Expense,13150.85995085995,Food & Beverage
+2017-06-23,Food,Expense,7191.876535626535,Food & Beverage
+2017-06-23,Other,Expense,121234.49017199015,Others
+2017-06-22,Food,Expense,13150.85995085995,Food & Beverage
+2017-06-22,Gift,Expense,327744.0878378378,Lifestyle & Entertainment
+2017-06-22,Food,Expense,53630.85073710073,Food & Beverage
+2017-06-22,Transportation,Expense,4109.643734643734,Transportation
+2017-06-22,Transportation,Expense,6164.465601965601,Transportation
+2017-06-20,Gift,Expense,51370.546683046676,Lifestyle & Entertainment
+2017-06-19,Food,Expense,12328.931203931203,Food & Beverage
+2017-06-19,Food,Expense,28972.988329238324,Food & Beverage
+2017-06-19,Food,Expense,16438.574938574937,Food & Beverage
+2017-06-19,Food,Expense,3698.6793611793605,Food & Beverage
+2017-06-19,Food,Expense,13150.85995085995,Food & Beverage
+2017-06-18,Transportation,Expense,2465.7862407862403,Transportation
+2017-06-18,Transportation,Expense,3082.2328009828007,Transportation
+2017-06-17,Food,Expense,13150.85995085995,Food & Beverage
+2017-06-16,Gift,Expense,28151.05958230958,Lifestyle & Entertainment
+2017-06-16,Food,Expense,13150.85995085995,Food & Beverage
+2017-06-15,Other,Expense,10274.109336609336,Others
+2017-06-15,Education,Expense,5958.983415233414,Lifestyle & Entertainment
+2017-06-13,Food,Expense,13150.85995085995,Food & Beverage
+2017-06-11,Beauty,Expense,20548.21867321867,Health & Personal Care
+2017-06-11,Food,Expense,13150.85995085995,Food & Beverage
+2017-06-10,Health,Expense,79316.12407862407,Health & Personal Care
+2017-06-10,Transportation,Expense,102946.57555282554,Transportation
+2017-06-10,subscription,Expense,34931.97174447174,Lifestyle & Entertainment
+2017-06-08,Transportation,Expense,6164.465601965601,Transportation
+2017-06-08,Culture,Expense,156166.4619164619,Lifestyle & Entertainment
+2017-06-08,Food,Expense,7191.876535626535,Food & Beverage
+2017-06-08,Food,Expense,13150.85995085995,Food & Beverage
+2017-06-07,Household,Expense,5342.536855036854,Housing & Utilities
+2017-06-06,Education,Expense,616.4465601965601,Lifestyle & Entertainment
+2017-06-06,Food,Expense,8219.287469287468,Food & Beverage
+2017-06-06,Food,Expense,13150.85995085995,Food & Beverage
+2017-06-05,Food,Expense,36986.793611793604,Food & Beverage
+2017-06-05,Food,Expense,4109.643734643734,Food & Beverage
+2017-06-05,Health,Expense,3698.6793611793605,Health & Personal Care
+2017-06-05,Health,Expense,39041.61547911548,Health & Personal Care
+2017-06-05,Family,Expense,513705.46683046676,Others
+2017-06-04,Food,Expense,5137.054668304668,Food & Beverage
+2017-06-04,Food,Expense,13150.85995085995,Food & Beverage
+2017-06-03,Food,Expense,4109.643734643734,Food & Beverage
+2017-06-03,Household,Expense,54863.74385749385,Housing & Utilities
+2017-06-03,Food,Expense,49921.897266584754,Food & Beverage
+2017-06-03,subscription,Expense,554822.4523955773,Lifestyle & Entertainment
+2017-06-02,Food,Expense,4109.643734643734,Food & Beverage
+2017-06-02,Food,Expense,28972.988329238324,Food & Beverage
+2017-06-01,Food,Expense,4931.572481572481,Food & Beverage
+2017-06-01,Food,Expense,13356.342137592135,Food & Beverage
+2017-06-01,maid,Expense,205482.1867321867,Housing & Utilities
+2017-05-31,Apparel,Expense,134590.8323095823,Lifestyle & Entertainment
+2017-05-31,Salary,Income,11706320.178132677,Income & Rewards
+2017-05-30,Food,Expense,5137.054668304668,Food & Beverage
+2017-05-30,Transportation,Expense,6164.465601965601,Transportation
+2017-05-30,Food,Expense,8219.287469287468,Food & Beverage
+2017-05-30,Food,Expense,24657.862407862405,Food & Beverage
+2017-05-30,Household,Expense,56507.601351351346,Housing & Utilities
+2017-05-30,Food,Expense,6986.394348894348,Food & Beverage
+2017-05-30,Transportation,Expense,16438.574938574937,Transportation
+2017-05-29,Food,Expense,7191.876535626535,Food & Beverage
+2017-05-29,Education,Expense,6164.465601965601,Lifestyle & Entertainment
+2017-05-29,Food,Expense,13150.85995085995,Food & Beverage
+2017-05-28,Household,Expense,204660.25798525795,Housing & Utilities
+2017-05-28,Food,Expense,4931.572481572481,Food & Beverage
+2017-05-28,Food,Expense,9246.698402948401,Food & Beverage
+2017-05-28,Food,Expense,28767.50614250614,Food & Beverage
+2017-05-28,Food,Expense,6164.465601965601,Food & Beverage
+2017-05-28,Food,Expense,12328.931203931203,Food & Beverage
+2017-05-28,Food,Expense,14383.75307125307,Food & Beverage
+2017-05-27,Food,Expense,13150.85995085995,Food & Beverage
+2017-05-27,Education,Expense,4109.643734643734,Lifestyle & Entertainment
+2017-05-27,Food,Expense,4109.643734643734,Food & Beverage
+2017-05-25,Food,Expense,6164.465601965601,Food & Beverage
+2017-05-25,Transportation,Expense,3082.2328009828007,Transportation
+2017-05-24,subscription,Expense,53630.85073710073,Lifestyle & Entertainment
+2017-05-24,Food,Expense,3082.2328009828007,Food & Beverage
+2017-05-24,Transportation,Expense,6164.465601965601,Transportation
+2017-05-24,Food,Expense,13150.85995085995,Food & Beverage
+2017-05-23,Food,Expense,5137.054668304668,Food & Beverage
+2017-05-23,Household,Expense,9452.180589680589,Housing & Utilities
+2017-05-23,Education,Expense,15411.164004914002,Lifestyle & Entertainment
+2017-05-22,Food,Expense,18082.43243243243,Food & Beverage
+2017-05-22,Household,Expense,10274.109336609336,Housing & Utilities
+2017-05-22,Food,Expense,8219.287469287468,Food & Beverage
+2017-05-22,Food,Expense,3082.2328009828007,Food & Beverage
+2017-05-21,Transportation,Expense,6164.465601965601,Transportation
+2017-05-21,Food,Expense,4931.572481572481,Food & Beverage
+2017-05-21,Transportation,Expense,4109.643734643734,Transportation
+2017-05-21,subscription,Expense,53630.85073710073,Lifestyle & Entertainment
+2017-05-18,Food,Expense,45000.59889434889,Food & Beverage
+2017-05-18,Food,Expense,2054.821867321867,Food & Beverage
+2017-05-18,Food,Expense,12328.931203931203,Food & Beverage
+2017-05-18,Food,Expense,9246.698402948401,Food & Beverage
+2017-05-18,Food,Expense,5137.054668304668,Food & Beverage
+2017-05-18,Beauty,Expense,10274.109336609336,Health & Personal Care
+2017-05-18,Food,Expense,13150.85995085995,Food & Beverage
+2017-05-17,Food,Expense,1027.4109336609336,Food & Beverage
+2017-05-17,Food,Expense,20342.736486486483,Food & Beverage
+2017-05-17,Food,Expense,43151.25921375921,Food & Beverage
+2017-05-17,Food,Expense,2054.821867321867,Food & Beverage
+2017-05-16,Food,Expense,2054.821867321867,Food & Beverage
+2017-05-16,Beauty,Expense,50754.10012285012,Health & Personal Care
+2017-05-16,Food,Expense,48082.83169533169,Food & Beverage
+2017-05-16,Food,Expense,1027.4109336609336,Food & Beverage
+2017-05-15,subscription,Expense,78083.23095823095,Lifestyle & Entertainment
+2017-05-15,Food,Expense,20548.21867321867,Food & Beverage
+2017-05-15,Food,Expense,7191.876535626535,Food & Beverage
+2017-05-14,Household,Expense,10274.109336609336,Housing & Utilities
+2017-05-14,Food,Expense,49726.68918918918,Food & Beverage
+2017-05-13,Food,Expense,49726.68918918918,Food & Beverage
+2017-05-13,Food,Expense,2054.821867321867,Food & Beverage
+2017-05-13,Food,Expense,4109.643734643734,Food & Beverage
+2017-05-13,Food,Expense,1027.4109336609336,Food & Beverage
+2017-05-13,Food,Expense,7191.876535626535,Food & Beverage
+2017-05-12,Food,Expense,2054.821867321867,Food & Beverage
+2017-05-12,Food,Expense,4109.643734643734,Food & Beverage
+2017-05-12,Family,Expense,1027410.9336609335,Others
+2017-05-11,Food,Expense,47877.3495085995,Food & Beverage
+2017-05-11,subscription,Expense,47260.902948402945,Lifestyle & Entertainment
+2017-05-11,Food,Expense,2054.821867321867,Food & Beverage
+2017-05-11,Beauty,Expense,65343.33538083537,Health & Personal Care
+2017-05-10,Education,Expense,20548.21867321867,Lifestyle & Entertainment
+2017-05-10,Education,Expense,2465.7862407862403,Lifestyle & Entertainment
+2017-05-10,Education,Expense,4931.572481572481,Lifestyle & Entertainment
+2017-05-10,Food,Expense,4109.643734643734,Food & Beverage
+2017-05-10,Food,Expense,25685.273341523338,Food & Beverage
+2017-05-10,Food,Expense,9246.698402948401,Food & Beverage
+2017-05-10,Food,Expense,6986.394348894348,Food & Beverage
+2017-05-09,Food,Expense,8219.287469287468,Food & Beverage
+2017-05-09,Food,Expense,2054.821867321867,Food & Beverage
+2017-05-09,Food,Expense,4109.643734643734,Food & Beverage
+2017-05-09,Food,Expense,9246.698402948401,Food & Beverage
+2017-05-08,Food,Expense,39247.09766584766,Food & Beverage
+2017-05-08,Food,Expense,7191.876535626535,Food & Beverage
+2017-05-07,Food,Expense,6164.465601965601,Food & Beverage
+2017-05-07,Food,Expense,20137.2542997543,Food & Beverage
+2017-05-07,subscription,Expense,60822.727272727265,Lifestyle & Entertainment
+2017-05-07,Food,Expense,9246.698402948401,Food & Beverage
+2017-05-06,Food,Expense,5137.054668304668,Food & Beverage
+2017-05-06,Food,Expense,4109.643734643734,Food & Beverage
+2017-05-06,Food,Expense,2054.821867321867,Food & Beverage
+2017-05-06,Food,Expense,67809.12162162161,Food & Beverage
+2017-05-05,Food,Expense,9246.698402948401,Food & Beverage
+2017-05-05,Food,Expense,4109.643734643734,Food & Beverage
+2017-05-05,Food,Expense,6780.912162162162,Food & Beverage
+2017-05-04,subscription,Expense,60822.727272727265,Lifestyle & Entertainment
+2017-05-03,Transportation,Expense,3082.2328009828007,Transportation
+2017-05-03,Transportation,Expense,12328.931203931203,Transportation
+2017-05-03,Transportation,Expense,6164.465601965601,Transportation
+2017-05-03,Transportation,Expense,2054.821867321867,Transportation
+2017-05-03,Household,Expense,1813380.2979115476,Housing & Utilities
+2017-05-03,Gift,Expense,372128.2401719901,Lifestyle & Entertainment
+2017-05-03,Transportation,Expense,226030.40540540538,Transportation
+2017-05-03,subscription,Expense,554822.4523955773,Lifestyle & Entertainment
+2017-05-02,Health,Expense,8219.287469287468,Health & Personal Care
+2017-05-02,Apparel,Expense,497472.374078624,Lifestyle & Entertainment
+2017-05-02,Food,Expense,4109.643734643734,Food & Beverage
+2017-05-02,Food,Expense,13150.85995085995,Food & Beverage
+2017-05-01,maid,Expense,205482.1867321867,Housing & Utilities
+2017-05-01,Food,Expense,65959.78194103194,Food & Beverage
+2017-05-01,Transportation,Expense,6164.465601965601,Transportation
+2017-05-01,Transportation,Expense,2054.821867321867,Transportation
+2017-05-01,Apparel,Expense,81987.3925061425,Lifestyle & Entertainment
+2017-05-01,Apparel,Expense,123083.82985257983,Lifestyle & Entertainment
+2017-05-01,Other,Expense,20548.21867321867,Others
+2017-05-01,Food,Expense,9657.662776412775,Food & Beverage
+2017-04-30,Food,Expense,2054.821867321867,Food & Beverage
+2017-04-30,Salary,Income,11703648.909705158,Income & Rewards
+2017-04-30,Transportation,Expense,6164.465601965601,Transportation
+2017-04-30,Food,Expense,5137.054668304668,Food & Beverage
+2017-04-30,Food,Expense,45411.56326781326,Food & Beverage
+2017-04-30,Food,Expense,22603.040540540536,Food & Beverage
+2017-04-30,Food,Expense,3493.197174447174,Food & Beverage
+2017-04-30,Food,Expense,13150.85995085995,Food & Beverage
+2017-04-28,Food,Expense,6164.465601965601,Food & Beverage
+2017-04-28,subscription,Expense,30616.84582309582,Lifestyle & Entertainment
+2017-04-27,Food,Expense,13150.85995085995,Food & Beverage
+2017-04-26,Gift,Expense,79110.64189189188,Lifestyle & Entertainment
+2017-04-25,Food,Expense,4931.572481572481,Food & Beverage
+2017-04-25,Transportation,Expense,2054.821867321867,Transportation
+2017-04-25,Transportation,Expense,4109.643734643734,Transportation
+2017-04-25,Transportation,Expense,6164.465601965601,Transportation
+2017-04-25,Food,Expense,13150.85995085995,Food & Beverage
+2017-04-24,Other,Expense,34931.97174447174,Others
+2017-04-23,Food,Expense,3082.2328009828007,Food & Beverage
+2017-04-23,Food,Expense,8219.287469287468,Food & Beverage
+2017-04-22,Food,Expense,4109.643734643734,Food & Beverage
+2017-04-22,Transportation,Expense,6164.465601965601,Transportation
+2017-04-22,Food,Expense,42123.848280098275,Food & Beverage
+2017-04-21,Health,Expense,8219.287469287468,Health & Personal Care
+2017-04-21,subscription,Expense,53630.85073710073,Lifestyle & Entertainment
+2017-04-20,Household,Expense,127744.16584766582,Housing & Utilities
+2017-04-20,Food,Expense,13150.85995085995,Food & Beverage
+2017-04-18,Food,Expense,4109.643734643734,Food & Beverage
+2017-04-18,Food,Expense,13150.85995085995,Food & Beverage
+2017-04-17,Food,Expense,221098.8329238329,Food & Beverage
+2017-04-17,Family,Expense,307606.8335380835,Others
+2017-04-16,subscription,Expense,39452.579852579845,Lifestyle & Entertainment
+2017-04-14,Family,Expense,1027410.9336609335,Others
+2017-04-12,Food,Expense,25685.273341523338,Food & Beverage
+2017-04-10,Food,Expense,4109.643734643734,Food & Beverage
+2017-04-06,Transportation,Expense,43890.99508599508,Transportation
+2017-04-04,Food,Expense,9246.698402948401,Food & Beverage
+2017-04-03,Food,Expense,12328.931203931203,Food & Beverage
+2017-04-03,subscription,Expense,554822.4523955773,Lifestyle & Entertainment
+2017-04-01,Food,Expense,8219.287469287468,Food & Beverage
+2017-04-01,Food,Expense,2054.821867321867,Food & Beverage
+2017-04-01,Food,Expense,10685.073710073708,Food & Beverage
+2017-03-31,Salary,Income,11527961.640049139,Income & Rewards
+2017-03-31,Transportation,Expense,12328.931203931203,Transportation
+2017-03-31,Transportation,Expense,6164.465601965601,Transportation
+2017-03-31,Food,Expense,101713.68243243241,Food & Beverage
+2017-03-31,Transportation,Expense,3082.2328009828007,Transportation
+2017-03-31,Household,Expense,513705.46683046676,Housing & Utilities
+2017-03-30,Interest,Income,104384.95085995084,Income & Rewards
+2017-03-30,Household,Expense,50343.13574938574,Housing & Utilities
+2017-03-28,Food,Expense,2465.7862407862403,Food & Beverage
+2017-03-27,Household,Expense,53425.36855036854,Housing & Utilities
+2017-03-27,Food,Expense,12328.931203931203,Food & Beverage
+2017-03-26,Household,Expense,161508.99877149874,Housing & Utilities
+2017-03-26,Food,Expense,12328.931203931203,Food & Beverage
+2017-03-25,Food,Expense,4109.643734643734,Food & Beverage
+2017-03-25,Gpay Reward,Income,1232.8931203931202,Income & Rewards
+2017-03-25,Health,Expense,5958.983415233414,Health & Personal Care
+2017-03-25,Health,Expense,22603.040540540536,Health & Personal Care
+2017-03-25,Transportation,Expense,184933.96805896802,Transportation
+2017-03-25,Health,Expense,30822.328009828005,Health & Personal Care
+2017-03-25,Food,Expense,12328.931203931203,Food & Beverage
+2017-03-23,Family,Expense,616446.5601965601,Others
+2017-03-23,Food,Expense,12328.931203931203,Food & Beverage
+2017-03-23,Other,Expense,308017.7979115479,Others
+2017-03-22,Transportation,Expense,4109.643734643734,Transportation
+2017-03-22,Transportation,Expense,10274.109336609336,Transportation
+2017-03-22,Household,Expense,102741.09336609335,Housing & Utilities
+2017-03-22,Transportation,Expense,6780.912162162162,Transportation
+2017-03-22,Transportation,Expense,3698.6793611793605,Transportation
+2017-03-22,Transportation,Expense,6164.465601965601,Transportation
+2017-03-22,Transportation,Expense,123289.31203931202,Transportation
+2017-03-20,Household,Expense,92466.98402948401,Housing & Utilities
+2017-03-19,subscription,Expense,60822.727272727265,Lifestyle & Entertainment
+2017-03-18,Food,Expense,11712.484643734642,Food & Beverage
+2017-03-18,Food,Expense,32877.149877149874,Food & Beverage
+2017-03-18,Food,Expense,63699.47788697788,Food & Beverage
+2017-03-16,Other,Income,14383.75307125307,Others
+2017-03-16,subscription,Expense,579459.7665847666,Lifestyle & Entertainment
+2017-03-15,Household,Expense,10274.109336609336,Housing & Utilities
+2017-03-15,Household,Expense,22808.522727272724,Housing & Utilities
+2017-03-15,Food,Expense,8219.287469287468,Food & Beverage
+2017-03-14,Household,Expense,61644.65601965601,Housing & Utilities
+2017-03-13,Food,Expense,20548.21867321867,Food & Beverage
+2017-03-13,Household,Expense,82192.87469287468,Housing & Utilities
+2017-03-13,Beauty,Expense,20548.21867321867,Health & Personal Care
+2017-03-13,Household,Expense,328771.49877149874,Housing & Utilities
+2017-03-12,Transportation,Expense,6164.465601965601,Transportation
+2017-03-12,Food,Expense,8219.287469287468,Food & Beverage
+2017-03-12,Food,Expense,26712.68427518427,Food & Beverage
+2017-03-12,Culture,Expense,90412.16216216215,Lifestyle & Entertainment
+2017-03-12,Transportation,Expense,8219.287469287468,Transportation
+2017-03-11,Transportation,Expense,6164.465601965601,Transportation
+2017-03-11,Transportation,Expense,4109.643734643734,Transportation
+2017-03-11,Food,Expense,12328.931203931203,Food & Beverage
+2017-03-11,Food,Expense,41096.43734643734,Food & Beverage
+2017-03-10,Transportation,Expense,328767.3891277641,Transportation
+2017-03-10,subscription,Expense,60822.727272727265,Lifestyle & Entertainment
+2017-03-10,Food,Expense,12739.895577395575,Food & Beverage
+2017-03-10,Food,Expense,14794.717444717442,Food & Beverage
+2017-03-09,Food,Expense,20548.21867321867,Food & Beverage
+2017-03-08,Food,Expense,30822.328009828005,Food & Beverage
+2017-03-07,Food,Expense,39041.61547911548,Food & Beverage
+2017-03-07,Food,Expense,21575.629606879604,Food & Beverage
+2017-03-07,Food,Expense,4109.643734643734,Food & Beverage
+2017-03-07,Food,Expense,12739.895577395575,Food & Beverage
+2017-03-07,subscription,Expense,554822.4523955773,Lifestyle & Entertainment
+2017-03-06,Food,Expense,12739.895577395575,Food & Beverage
+2017-03-06,Food,Expense,9246.698402948401,Food & Beverage
+2017-03-05,Apparel,Expense,2054.821867321867,Lifestyle & Entertainment
+2017-03-05,Household,Expense,28767.50614250614,Housing & Utilities
+2017-03-05,Food,Expense,195002.5952088452,Food & Beverage
+2017-03-05,Transportation,Expense,6164.465601965601,Transportation
+2017-03-05,Food,Expense,6164.465601965601,Food & Beverage
+2017-03-05,Transportation,Expense,4109.643734643734,Transportation
+2017-03-04,Food,Expense,4109.643734643734,Food & Beverage
+2017-03-03,Food,Expense,30411.363636363632,Food & Beverage
+2017-03-01,Household,Expense,10274.109336609336,Housing & Utilities
+2017-02-28,Transportation,Expense,8219.287469287468,Transportation
+2017-02-28,Salary,Income,11511317.582923831,Income & Rewards
+2017-02-28,Food,Expense,17465.98587223587,Food & Beverage
+2017-02-28,Transportation,Expense,6164.465601965601,Transportation
+2017-02-28,Transportation,Expense,2054.821867321867,Transportation
+2017-02-28,Transportation,Expense,2465.7862407862403,Transportation
+2017-02-28,Food,Expense,2054.821867321867,Food & Beverage
+2017-02-28,Other,Expense,82192.87469287468,Others
+2017-02-28,Food,Expense,497472.374078624,Food & Beverage
+2017-02-28,Transportation,Expense,4109.643734643734,Transportation
+2017-02-28,Food,Expense,6164.465601965601,Food & Beverage
+2017-02-28,Transportation,Expense,16438.574938574937,Transportation
+2017-02-28,Transportation,Expense,11712.484643734642,Transportation
+2017-02-27,Transportation,Expense,8219.287469287468,Transportation
+2017-02-27,Transportation,Expense,6164.465601965601,Transportation
+2017-02-27,Food,Expense,18082.43243243243,Food & Beverage
+2017-02-27,Household,Expense,11301.520270270268,Housing & Utilities
+2017-02-27,Food,Expense,15616.64619164619,Food & Beverage
+2017-02-26,Transportation,Expense,4109.643734643734,Transportation
+2017-02-26,Transportation,Expense,6164.465601965601,Transportation
+2017-02-26,Household,Expense,173837.92997542996,Housing & Utilities
+2017-02-26,Household,Expense,73973.58722358721,Housing & Utilities
+2017-02-26,Food,Expense,11917.966830466828,Food & Beverage
+2017-02-25,Household,Expense,1746598.587223587,Housing & Utilities
+2017-02-25,Household,Expense,328771.49877149874,Housing & Utilities
+2017-02-25,Household,Expense,189043.61179361178,Housing & Utilities
+2017-02-25,Food,Expense,65343.33538083537,Food & Beverage
+2017-02-25,subscription,Expense,20548.21867321867,Lifestyle & Entertainment
+2017-02-25,Food,Expense,50754.10012285012,Food & Beverage
+2017-02-24,Food,Expense,15411.164004914002,Food & Beverage
+2017-02-24,Food,Expense,6164.465601965601,Food & Beverage
+2017-02-24,Food,Expense,20548.21867321867,Food & Beverage
+2017-02-23,Food,Expense,16438.574938574937,Food & Beverage
+2017-02-22,Education,Expense,6164.465601965601,Lifestyle & Entertainment
+2017-02-22,Transportation,Expense,1130152.027027027,Transportation
+2017-02-21,Food,Expense,2054.821867321867,Food & Beverage
+2017-02-19,Food,Expense,6164.465601965601,Food & Beverage
+2017-02-19,Education,Expense,5137.054668304668,Lifestyle & Entertainment
+2017-02-19,Apparel,Expense,102330.12899262898,Lifestyle & Entertainment
+2017-02-18,Family,Expense,102741.09336609335,Others
+2017-02-18,subscription,Expense,61850.1382063882,Lifestyle & Entertainment
+2017-02-16,Gift,Expense,82192.87469287468,Lifestyle & Entertainment
+2017-02-13,subscription,Expense,61850.1382063882,Lifestyle & Entertainment
+2017-02-12,Other,Expense,174659.8587223587,Others
+2017-02-11,Other,Expense,15411.164004914002,Others
+2017-02-11,Food,Expense,2054.821867321867,Food & Beverage
+2017-02-11,Family,Expense,205482.1867321867,Others
+2017-02-08,Gift,Expense,308017.7979115479,Lifestyle & Entertainment
+2017-02-06,Food,Expense,6164.465601965601,Food & Beverage
+2017-02-06,Food,Expense,28767.50614250614,Food & Beverage
+2017-02-06,Food,Expense,40069.02641277641,Food & Beverage
+2017-02-06,Food,Expense,22603.040540540536,Food & Beverage
+2017-02-05,Transportation,Expense,8219.287469287468,Transportation
+2017-02-05,Food,Expense,2054.821867321867,Food & Beverage
+2017-02-05,Transportation,Expense,67809.12162162161,Transportation
+2017-02-04,Apparel,Expense,7808.323095823095,Lifestyle & Entertainment
+2017-02-04,Food,Expense,12328.931203931203,Food & Beverage
+2017-02-04,Food,Expense,10890.555896805896,Food & Beverage
+2017-02-04,Food,Expense,6164.465601965601,Food & Beverage
+2017-02-03,Health,Expense,1643.8574938574936,Health & Personal Care
+2017-02-03,Food,Expense,84710.03148034397,Food & Beverage
+2017-02-03,Food,Expense,2465.7862407862403,Food & Beverage
+2017-02-03,Food,Expense,2054.821867321867,Food & Beverage
+2017-02-03,Food,Expense,10274.109336609336,Food & Beverage
+2017-02-03,subscription,Expense,554822.4523955773,Lifestyle & Entertainment
+2017-02-02,Food,Expense,238359.33660933658,Food & Beverage
+2017-02-02,subscription,Expense,61850.1382063882,Lifestyle & Entertainment
+2017-02-01,subscription,Expense,61850.1382063882,Lifestyle & Entertainment
+2017-02-01,Food,Expense,6780.912162162162,Food & Beverage
+2017-01-31,Salary,Income,12966131.464987714,Income & Rewards
+2017-01-31,Food,Expense,7191.876535626535,Food & Beverage
+2017-01-30,Food,Expense,7191.876535626535,Food & Beverage
+2017-01-30,Food,Expense,3082.2328009828007,Food & Beverage
+2017-01-29,Food,Expense,51370.546683046676,Food & Beverage
+2017-01-29,Food,Expense,12328.931203931203,Food & Beverage
+2017-01-29,Food,Expense,6164.465601965601,Food & Beverage
+2017-01-29,Food,Expense,7191.876535626535,Food & Beverage
+2017-01-29,Transportation,Expense,6164.465601965601,Transportation
+2017-01-29,Transportation,Expense,104795.91523341522,Transportation
+2017-01-23,subscription,Expense,37192.27579852579,Lifestyle & Entertainment
+2017-01-23,Gift,Expense,133357.93918918917,Lifestyle & Entertainment
+2017-01-22,Family,Expense,410964.3734643734,Others
+2017-01-22,Food,Expense,84247.69656019655,Food & Beverage
+2017-01-21,subscription,Expense,30616.84582309582,Lifestyle & Entertainment
+2017-01-20,subscription,Expense,61850.1382063882,Lifestyle & Entertainment
+2017-01-19,Food,Expense,4109.643734643734,Food & Beverage
+2017-01-19,Family,Expense,29794.917076167072,Others
+2017-01-16,Transportation,Expense,8219.287469287468,Transportation
+2017-01-16,Household,Expense,493157.2481572481,Housing & Utilities
+2017-01-16,Other,Expense,10274.109336609336,Others
+2017-01-15,Food,Expense,28767.50614250614,Food & Beverage
+2017-01-15,Food,Expense,110960.38083538083,Food & Beverage
+2017-01-11,Food,Expense,9246.698402948401,Food & Beverage
+2017-01-11,Health,Expense,18493.396805896802,Health & Personal Care
+2017-01-10,Food,Expense,32877.149877149874,Food & Beverage
+2017-01-09,Food,Expense,20342.736486486483,Food & Beverage
+2017-01-09,Beauty,Expense,16438.574938574937,Health & Personal Care
+2017-01-08,subscription,Expense,30616.84582309582,Lifestyle & Entertainment
+2017-01-08,Transportation,Expense,10274.109336609336,Transportation
+2017-01-07,Food,Expense,35959.38267813267,Food & Beverage
+2017-01-07,Transportation,Expense,10274.109336609336,Transportation
+2017-01-06,Transportation,Expense,286955.87377149874,Transportation
+2017-01-06,Food,Expense,60411.76289926289,Food & Beverage
+2017-01-06,Food,Expense,6369.9477886977875,Food & Beverage
+2017-01-06,Household,Expense,41096.43734643734,Housing & Utilities
+2017-01-06,Food,Expense,9863.144963144961,Food & Beverage
+2017-01-05,Household,Expense,20548.21867321867,Housing & Utilities
+2017-01-05,Food,Expense,6369.9477886977875,Food & Beverage
+2017-01-05,subscription,Expense,61850.1382063882,Lifestyle & Entertainment
+2017-01-04,Food,Expense,8219.287469287468,Food & Beverage
+2017-01-03,subscription,Expense,578826.8814496314,Lifestyle & Entertainment
+2017-01-03,Food,Expense,28767.50614250614,Food & Beverage
+2017-01-03,Food,Expense,10274.109336609336,Food & Beverage
+2017-01-03,Food,Expense,4109.643734643734,Food & Beverage
+2017-01-03,Food,Expense,6369.9477886977875,Food & Beverage
+2017-01-03,Food,Expense,63699.47788697788,Food & Beverage
+2017-01-03,Food,Expense,14383.75307125307,Food & Beverage
+2017-01-03,Food,Expense,67809.12162162161,Food & Beverage
+2017-01-03,Culture,Expense,82192.87469287468,Lifestyle & Entertainment
+2017-01-03,Transportation,Expense,4109.643734643734,Transportation
+2017-01-03,Transportation,Expense,6164.465601965601,Transportation
+2017-01-02,Transportation,Expense,12328.931203931203,Transportation
+2017-01-02,Household,Expense,22603.040540540536,Housing & Utilities
+2017-01-02,Food,Expense,79316.12407862407,Food & Beverage
+2017-01-01,Food,Expense,104795.91523341522,Food & Beverage
+2017-01-01,Health,Expense,72740.6941031941,Health & Personal Care
+2017-01-01,Food,Expense,8219.287469287468,Food & Beverage
+2017-01-01,Household,Expense,10274.109336609336,Housing & Utilities
+2017-01-01,Food,Expense,69863.94348894348,Food & Beverage
+2017-01-01,Health,Expense,61644.65601965601,Health & Personal Care
+2016-12-31,Food,Expense,15248.75,Food & Beverage
+2016-12-31,Food,Expense,74263.39285714286,Food & Beverage
+2016-12-31,Food,Expense,4950.892857142857,Food & Beverage
+2016-12-31,Gift,Expense,217047.14285714284,Lifestyle & Entertainment
+2016-12-31,Health,Expense,4752.857142857143,Health & Personal Care
+2016-12-31,Food,Expense,33666.07142857143,Food & Beverage
+2016-12-31,Salary,Income,11203672.5,Income & Rewards
+2016-12-31,subscription,Expense,557668.5714285714,Lifestyle & Entertainment
+2016-12-31,Food,Expense,31685.714285714283,Food & Beverage
+2016-12-30,Transportation,Expense,19803.571428571428,Transportation
+2016-12-29,Other,Expense,4950.892857142857,Others
+2016-12-29,Food,Expense,1980.3571428571427,Food & Beverage
+2016-12-29,Food,Expense,2772.5,Food & Beverage
+2016-12-29,subscription,Expense,42379.642857142855,Lifestyle & Entertainment
+2016-12-29,Transportation,Expense,79808.39285714286,Transportation
+2016-12-29,Gift,Expense,632724.1071428572,Lifestyle & Entertainment
+2016-12-28,Food,Expense,1980.3571428571427,Food & Beverage
+2016-12-28,Other,Expense,352503.5714285714,Others
+2016-12-25,subscription,Expense,59608.75,Lifestyle & Entertainment
+2016-12-22,Gift,Expense,56440.17857142857,Lifestyle & Entertainment
+2016-12-22,Transportation,Expense,2336.8214285714284,Transportation
+2016-12-21,Family,Expense,371118.9285714286,Others
+2016-12-21,Transportation,Expense,49865.392857142855,Transportation
+2016-12-21,Transportation,Expense,376267.8571428571,Transportation
+2016-12-19,Food,Expense,5941.071428571428,Food & Beverage
+2016-12-19,Household,Expense,9703.75,Housing & Utilities
+2016-12-19,Food,Expense,5743.035714285714,Food & Beverage
+2016-12-19,Food,Expense,33666.07142857143,Food & Beverage
+2016-12-18,Bonus,Income,990.1785714285713,Income & Rewards
+2016-12-18,Family,Expense,396071.4285714286,Others
+2016-12-17,Bonus,Income,2178.392857142857,Income & Rewards
+2016-12-17,subscription,Expense,59608.75,Lifestyle & Entertainment
+2016-12-14,Food,Expense,39607.142857142855,Food & Beverage
+2016-12-13,Other,Expense,6931.25,Others
+2016-12-13,Household,Expense,4950.892857142857,Housing & Utilities
+2016-12-13,Gift,Expense,69312.5,Lifestyle & Entertainment
+2016-12-11,Other,Expense,8911.607142857143,Others
+2016-12-11,Health,Expense,39607.142857142855,Health & Personal Care
+2016-12-11,Health,Expense,50895.17857142857,Health & Personal Care
+2016-12-10,Food,Expense,5941.071428571428,Food & Beverage
+2016-12-09,subscription,Expense,59608.75,Lifestyle & Entertainment
+2016-12-08,Food,Expense,5941.071428571428,Food & Beverage
+2016-12-08,Other,Expense,39409.10714285714,Others
+2016-12-05,Family,Expense,30695.535714285714,Others
+2016-12-04,Food,Expense,4950.892857142857,Food & Beverage
+2016-12-04,Food,Expense,1980.3571428571427,Food & Beverage
+2016-12-04,Food,Expense,1584.2857142857142,Food & Beverage
+2016-12-04,Food,Expense,5941.071428571428,Food & Beverage
+2016-12-04,Food,Expense,9901.785714285714,Food & Beverage
+2016-12-04,Food,Expense,17823.214285714286,Food & Beverage
+2016-12-04,Food,Expense,2970.535714285714,Food & Beverage
+2016-12-04,Food,Expense,8911.607142857143,Food & Beverage
+2016-12-04,Food,Expense,3960.7142857142853,Food & Beverage
+2016-12-03,Food,Expense,10891.964285714284,Food & Beverage
+2016-12-03,Food,Expense,3960.7142857142853,Food & Beverage
+2016-11-30,Family,Expense,99017.85714285714,Others
+2016-11-30,Salary,Income,11206048.928571427,Income & Rewards
+2016-11-30,Bonus,Income,990.1785714285713,Income & Rewards
+2016-11-30,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-11-30,subscription,Expense,19407.5,Lifestyle & Entertainment
+2016-11-29,Family,Expense,11882.142857142857,Others
+2016-11-28,Household,Expense,4059732.1428571427,Housing & Utilities
+2016-11-28,Other,Expense,1584.2857142857142,Others
+2016-11-28,Food,Expense,3960.7142857142853,Food & Beverage
+2016-11-25,Bonus,Income,990.1785714285713,Income & Rewards
+2016-11-25,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-11-21,Transportation,Expense,9901.785714285714,Transportation
+2016-11-21,Health,Expense,2970.535714285714,Health & Personal Care
+2016-11-21,Transportation,Expense,13862.5,Transportation
+2016-11-20,Transportation,Expense,9901.785714285714,Transportation
+2016-11-19,Food,Expense,396.07142857142856,Food & Beverage
+2016-11-19,Food,Expense,215264.82142857142,Food & Beverage
+2016-11-19,Transportation,Expense,9901.785714285714,Transportation
+2016-11-19,Food,Expense,7921.428571428571,Food & Beverage
+2016-11-19,Other,Expense,19803.571428571428,Others
+2016-11-19,Transportation,Expense,7921.428571428571,Transportation
+2016-11-19,Transportation,Expense,18615.35714285714,Transportation
+2016-11-19,Transportation,Expense,19803.571428571428,Transportation
+2016-11-19,Other,Expense,146546.42857142858,Others
+2016-11-19,Transportation,Expense,66936.07142857142,Transportation
+2016-11-19,Transportation,Expense,10693.92857142857,Transportation
+2016-11-19,Transportation,Expense,15842.857142857141,Transportation
+2016-11-17,Food,Expense,1980.3571428571427,Food & Beverage
+2016-11-15,Food,Expense,3960.7142857142853,Food & Beverage
+2016-11-15,Other,Expense,1980.3571428571427,Others
+2016-11-15,Food,Expense,35646.42857142857,Food & Beverage
+2016-11-14,Transportation,Expense,356464.2857142857,Transportation
+2016-11-14,Transportation,Expense,923242.5,Transportation
+2016-11-12,Health,Expense,10891.964285714284,Health & Personal Care
+2016-11-12,Food,Expense,1980.3571428571427,Food & Beverage
+2016-11-10,Transportation,Expense,7921.428571428571,Transportation
+2016-11-09,Other,Expense,1980.3571428571427,Others
+2016-11-08,subscription,Expense,39409.10714285714,Lifestyle & Entertainment
+2016-11-07,Food,Expense,8911.607142857143,Food & Beverage
+2016-11-05,Transportation,Expense,5941.071428571428,Transportation
+2016-11-04,Festivals,Expense,9901.785714285714,Lifestyle & Entertainment
+2016-11-03,Food,Expense,47528.57142857143,Food & Beverage
+2016-11-03,Other,Expense,93076.78571428571,Others
+2016-11-03,Health,Expense,138625.0,Health & Personal Care
+2016-11-03,Bonus,Income,297053.5714285714,Income & Rewards
+2016-11-02,Grooming,Expense,15842.857142857141,Health & Personal Care
+2016-11-01,Festivals,Expense,89116.07142857142,Lifestyle & Entertainment
+2016-11-01,Food,Expense,9901.785714285714,Food & Beverage
+2016-10-31,Festivals,Expense,395873.39285714284,Lifestyle & Entertainment
+2016-10-30,Salary,Income,11218129.107142856,Income & Rewards
+2016-10-28,Health,Expense,43765.892857142855,Health & Personal Care
+2016-10-28,Transportation,Expense,7921.428571428571,Transportation
+2016-10-27,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-10-27,Family,Expense,221641.57142857142,Others
+2016-10-27,Food,Expense,4950.892857142857,Food & Beverage
+2016-10-27,Food,Expense,33666.07142857143,Food & Beverage
+2016-10-26,Health,Expense,122188.03571428571,Health & Personal Care
+2016-10-25,Food,Expense,4950.892857142857,Food & Beverage
+2016-10-24,Food,Expense,63371.428571428565,Food & Beverage
+2016-10-22,Food,Expense,6931.25,Food & Beverage
+2016-10-22,Food,Expense,3960.7142857142853,Food & Beverage
+2016-10-17,Food,Expense,42577.67857142857,Food & Beverage
+2016-10-15,Food,Expense,85155.35714285714,Food & Beverage
+2016-10-14,Food,Expense,23764.285714285714,Food & Beverage
+2016-10-13,Family,Expense,49310.892857142855,Others
+2016-10-12,Food,Expense,29705.35714285714,Food & Beverage
+2016-10-10,Food,Expense,19803.571428571428,Food & Beverage
+2016-10-09,Family,Expense,49310.892857142855,Others
+2016-10-09,Health,Expense,7921.428571428571,Health & Personal Care
+2016-10-09,Transportation,Expense,15842.857142857141,Transportation
+2016-10-09,Food,Expense,17823.214285714286,Food & Beverage
+2016-10-08,Beauty,Expense,34458.21428571428,Health & Personal Care
+2016-10-07,subscription,Expense,39409.10714285714,Lifestyle & Entertainment
+2016-10-01,Festivals,Expense,39607.142857142855,Lifestyle & Entertainment
+2016-09-30,Interest,Income,165359.82142857142,Income & Rewards
+2016-09-30,Salary,Income,11497557.5,Income & Rewards
+2016-09-28,Other,Expense,6337.142857142857,Others
+2016-09-19,Food,Expense,6535.178571428572,Food & Beverage
+2016-09-15,Food,Expense,18813.392857142855,Food & Beverage
+2016-09-14,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-09-14,Family,Expense,86541.60714285714,Others
+2016-09-13,Food,Expense,13862.5,Food & Beverage
+2016-09-13,Food,Expense,167340.17857142855,Food & Beverage
+2016-09-12,Food,Expense,6931.25,Food & Beverage
+2016-09-12,Food,Expense,3960.7142857142853,Food & Beverage
+2016-09-11,Food,Expense,13862.5,Food & Beverage
+2016-09-11,Food,Expense,6931.25,Food & Beverage
+2016-09-11,Transportation,Expense,3960.7142857142853,Transportation
+2016-09-09,Food,Expense,13862.5,Food & Beverage
+2016-09-08,Food,Expense,5941.071428571428,Food & Beverage
+2016-09-08,Food,Expense,3960.7142857142853,Food & Beverage
+2016-09-08,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-09-07,Food,Expense,14258.571428571428,Food & Beverage
+2016-09-06,Transportation,Expense,118524.375,Transportation
+2016-09-01,Transportation,Expense,148526.7857142857,Transportation
+2016-09-01,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-08-31,Salary,Income,12653293.928571427,Income & Rewards
+2016-08-29,Festivals,Expense,71490.89285714286,Lifestyle & Entertainment
+2016-08-29,Household,Expense,7921.428571428571,Housing & Utilities
+2016-08-29,Household,Expense,19407.5,Housing & Utilities
+2016-08-24,Festivals,Expense,99017.85714285714,Lifestyle & Entertainment
+2016-08-23,Family,Expense,396071.4285714286,Others
+2016-08-22,Festivals,Expense,99017.85714285714,Lifestyle & Entertainment
+2016-08-21,Other,Expense,19803.571428571428,Others
+2016-08-18,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-08-14,Other,Expense,990.1785714285713,Others
+2016-08-14,Grooming,Expense,19803.571428571428,Health & Personal Care
+2016-08-09,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-08-07,Family,Expense,148526.7857142857,Others
+2016-08-04,Family,Expense,51489.28571428571,Others
+2016-07-31,Salary,Income,10209929.285714285,Income & Rewards
+2016-07-31,Other,Expense,49508.92857142857,Others
+2016-07-25,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-07-21,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-07-20,subscription,Expense,514694.8214285714,Lifestyle & Entertainment
+2016-07-13,Health,Expense,1980.3571428571427,Health & Personal Care
+2016-07-05,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-07-04,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-07-01,Family,Expense,514694.8214285714,Others
+2016-06-30,Interest,Income,146546.42857142858,Income & Rewards
+2016-06-30,Other,Expense,21170.01785714286,Others
+2016-06-30,Salary,Income,10207552.857142856,Income & Rewards
+2016-06-27,Transportation,Expense,633714.2857142857,Transportation
+2016-06-27,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-06-23,subscription,Expense,197045.5357142857,Lifestyle & Entertainment
+2016-06-22,subscription,Expense,69312.5,Lifestyle & Entertainment
+2016-06-20,Food,Expense,27725.0,Food & Beverage
+2016-06-19,Food,Expense,118821.42857142857,Food & Beverage
+2016-06-19,Family,Expense,179222.32142857142,Others
+2016-06-18,Other,Expense,7525.357142857142,Others
+2016-06-12,Food,Expense,16635.0,Food & Beverage
+2016-06-12,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-06-05,Food,Expense,13466.42857142857,Food & Beverage
+2016-06-01,Food,Expense,4950.892857142857,Food & Beverage
+2016-05-31,Salary,Income,10209929.285714285,Income & Rewards
+2016-05-31,Transportation,Expense,9901.785714285714,Transportation
+2016-05-30,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-05-29,Food,Expense,99810.0,Food & Beverage
+2016-05-22,Grooming,Expense,23764.285714285714,Health & Personal Care
+2016-05-22,Transportation,Expense,7921.428571428571,Transportation
+2016-05-19,Food,Expense,35646.42857142857,Food & Beverage
+2016-05-17,Other,Expense,19803.571428571428,Others
+2016-05-16,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-05-06,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-05-03,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-05-02,Other,Expense,4950.892857142857,Others
+2016-04-30,Salary,Income,10211206.616071427,Income & Rewards
+2016-04-28,subscription,Expense,59212.67857142857,Lifestyle & Entertainment
+2016-04-26,Food,Expense,51291.25,Food & Beverage
+2016-04-24,subscription,Expense,33468.03571428571,Lifestyle & Entertainment
+2016-04-20,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-04-16,Household,Expense,9901.785714285714,Housing & Utilities
+2016-04-15,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-04-11,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-04-11,Food,Expense,253287.67857142855,Food & Beverage
+2016-04-03,subscription,Expense,59410.71428571428,Lifestyle & Entertainment
+2016-04-02,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-04-02,Food,Expense,3960.7142857142853,Food & Beverage
+2016-04-02,Transportation,Expense,9901.785714285714,Transportation
+2016-04-02,Other,Expense,5941.071428571428,Others
+2016-03-31,Salary,Income,14022116.785714285,Income & Rewards
+2016-03-29,Other,Expense,19803.571428571428,Others
+2016-03-28,Other,Expense,31487.67857142857,Others
+2016-03-22,subscription,Expense,33468.03571428571,Lifestyle & Entertainment
+2016-03-21,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-03-20,Food,Expense,6931.25,Food & Beverage
+2016-03-20,Other,Expense,990.1785714285713,Others
+2016-03-16,Gift,Expense,15842.857142857141,Lifestyle & Entertainment
+2016-03-15,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-03-11,Food,Expense,11882.142857142857,Food & Beverage
+2016-03-11,Other,Expense,49508.92857142857,Others
+2016-03-11,Education,Expense,3960.7142857142853,Lifestyle & Entertainment
+2016-03-06,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-02-28,Food,Expense,13862.5,Food & Beverage
+2016-02-28,Grooming,Expense,19803.571428571428,Health & Personal Care
+2016-02-28,Food,Expense,19803.571428571428,Food & Beverage
+2016-02-28,Other,Expense,2178.392857142857,Others
+2016-02-27,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-02-27,Other,Expense,49508.92857142857,Others
+2016-02-27,Food,Expense,9901.785714285714,Food & Beverage
+2016-02-26,Salary,Income,9863366.785714285,Income & Rewards
+2016-02-24,subscription,Expense,39409.10714285714,Lifestyle & Entertainment
+2016-02-22,Food,Expense,7921.428571428571,Food & Beverage
+2016-02-22,subscription,Expense,33468.03571428571,Lifestyle & Entertainment
+2016-02-20,Food,Expense,16833.035714285714,Food & Beverage
+2016-02-14,Food,Expense,32675.892857142855,Food & Beverage
+2016-02-13,Transportation,Expense,7921.428571428571,Transportation
+2016-02-13,Health,Expense,15842.857142857141,Health & Personal Care
+2016-02-08,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-02-07,Food,Expense,31685.714285714283,Food & Beverage
+2016-01-31,Salary,Income,9863366.785714285,Income & Rewards
+2016-01-26,subscription,Expense,39409.10714285714,Lifestyle & Entertainment
+2016-01-22,subscription,Expense,33468.03571428571,Lifestyle & Entertainment
+2016-01-13,Other,Income,8911607.142857142,Others
+2016-01-12,Apparel,Expense,39607.142857142855,Lifestyle & Entertainment
+2016-01-10,Household,Expense,2970.535714285714,Housing & Utilities
+2016-01-09,subscription,Expense,49706.96428571428,Lifestyle & Entertainment
+2016-01-08,Other,Expense,394883.21428571426,Others
+2016-01-05,Food,Expense,69312.5,Food & Beverage
+2016-01-05,Transportation,Expense,5941.071428571428,Transportation
+2016-01-01,Food,Expense,6931.25,Food & Beverage
+2016-01-01,Food,Expense,38022.857142857145,Food & Beverage
+2015-12-31,Food,Expense,112705.53390491035,Food & Beverage
+2015-12-31,Salary,Income,16140893.452844894,Income & Rewards
+2015-12-30,Food,Expense,20871.395167575993,Food & Beverage
+2015-12-30,Beauty,Expense,417427.90335151984,Health & Personal Care
+2015-12-26,Other,Expense,5843.990646921277,Others
+2015-12-26,Other,Expense,41534.076383476226,Others
+2015-12-25,Apparel,Expense,56352.766952455175,Lifestyle & Entertainment
+2015-12-25,Household,Expense,10435.697583787996,Housing & Utilities
+2015-12-21,Other,Expense,35272.657833203426,Others
+2015-12-20,Gift,Expense,97051.98752922835,Lifestyle & Entertainment
+2015-12-19,Food,Expense,16697.116134060794,Food & Beverage
+2015-12-19,Health,Expense,45917.06936866718,Health & Personal Care
+2015-12-19,Health,Expense,49047.778643803584,Health & Personal Care
+2015-12-12,Transportation,Expense,10435.697583787996,Transportation
+2015-12-11,Transportation,Expense,20871.395167575993,Transportation
+2015-12-08,Other,Expense,5843.990646921277,Others
+2015-12-05,Food,Expense,18784.25565081839,Food & Beverage
+2015-12-05,Other,Expense,41742.790335151985,Others
+2015-12-02,Apparel,Expense,67832.03429462198,Lifestyle & Entertainment
+2015-12-01,Apparel,Expense,161335.8846453624,Lifestyle & Entertainment
+2015-12-01,Food,Expense,17531.971940763833,Food & Beverage
+2015-12-01,Gift,Expense,213723.08651597815,Lifestyle & Entertainment
+2015-11-30,Salary,Income,10395207.0771629,Income & Rewards
+2015-11-29,Transportation,Expense,10435.697583787996,Transportation
+2015-11-29,Transportation,Expense,6261.418550272798,Transportation
+2015-11-29,Transportation,Expense,8348.558067030397,Transportation
+2015-11-27,Food,Expense,5217.848791893998,Food & Beverage
+2015-11-26,Other,Expense,41534.076383476226,Others
+2015-11-21,Other,Expense,52387.20187061574,Others
+2015-11-21,Food,Expense,17531.971940763833,Food & Beverage
+2015-11-15,Bonus,Income,313070.92751363985,Income & Rewards
+2015-11-14,Other,Expense,64701.32501948557,Others
+2015-11-12,Food,Expense,5217.848791893998,Food & Beverage
+2015-11-07,Other,Expense,52387.20187061574,Others
+2015-11-05,Food,Expense,17531.971940763833,Food & Beverage
+2015-11-03,Transportation,Expense,8348.558067030397,Transportation
+2015-11-01,Transportation,Expense,14609.976617303195,Transportation
+2015-10-31,Food,Expense,14609.976617303195,Food & Beverage
+2015-10-31,Transportation,Expense,14818.690568978955,Transportation
+2015-10-31,Food,Expense,2087.1395167575993,Food & Beverage
+2015-10-31,Salary,Income,10395207.0771629,Income & Rewards
+2015-10-31,Food,Expense,52178.48791893998,Food & Beverage
+2015-10-31,Health,Expense,31307.092751363987,Health & Personal Care
+2015-10-31,Transportation,Expense,37568.51130163678,Transportation
+2015-10-30,Beauty,Expense,10435.697583787996,Health & Personal Care
+2015-10-30,Transportation,Expense,6261.418550272798,Transportation
+2015-10-29,Transportation,Expense,138794.77786438033,Transportation
+2015-10-28,Gift,Expense,208713.95167575992,Lifestyle & Entertainment
+2015-10-28,Transportation,Expense,137751.20810600155,Transportation
+2015-10-27,Other,Expense,41534.076383476226,Others
+2015-10-25,Household,Expense,50091.34840218238,Housing & Utilities
+2015-10-24,Household,Expense,20871.395167575993,Housing & Utilities
+2015-10-23,Transportation,Expense,4174.2790335151985,Transportation
+2015-10-23,Other,Expense,8348.558067030397,Others
+2015-10-22,Other,Expense,52387.20187061574,Others
+2015-10-21,Other,Expense,104356.97583787996,Others
+2015-10-18,Apparel,Expense,308687.9345284489,Lifestyle & Entertainment
+2015-10-18,Transportation,Expense,167597.3031956352,Transportation
+2015-10-07,Gift,Expense,1675764.3180046764,Lifestyle & Entertainment
+2015-10-02,Food,Expense,87659.85970381917,Food & Beverage
+2015-09-30,Salary,Income,10395207.0771629,Income & Rewards
+2015-09-30,Other,Expense,20871.395167575993,Others
+2015-09-28,Other,Expense,73049.88308651597,Others
+2015-09-28,Health,Expense,25045.67420109119,Health & Personal Care
+2015-09-28,Health,Expense,62614.185502727974,Health & Personal Care
+2015-09-27,Other,Expense,41534.076383476226,Others
+2015-09-26,Other,Expense,6261.418550272798,Others
+2015-09-21,Other,Expense,438090.58456742007,Others
+2015-09-11,Food,Expense,79102.587685113,Food & Beverage
+2015-09-04,Other,Income,1001826.9680436476,Others
+2015-08-31,Salary,Income,10395207.0771629,Income & Rewards
+2015-08-31,Other,Expense,59900.9041309431,Others
+2015-08-30,Other,Expense,15027.404520654714,Others
+2015-08-28,Other,Expense,41534.076383476226,Others
+2015-08-14,Household,Expense,730290.116913484,Housing & Utilities
+2015-08-13,Other,Expense,302635.2299298519,Others
+2015-08-03,maid,Expense,69501.74590802805,Housing & Utilities
+2015-08-02,Rent,Expense,521784.87918939977,Housing & Utilities
+2015-07-31,Salary,Income,9988841.013250194,Income & Rewards
+2015-07-29,Other,Expense,41534.076383476226,Others
+2015-07-19,Other,Expense,542447.5604053,Others
+2015-07-09,Other,Expense,95799.7038191738,Others
+2015-07-02,Other,Expense,65118.75292283709,Others
+2015-07-01,maid,Expense,69501.74590802805,Housing & Utilities
+2015-07-01,Rent,Expense,591286.6250974279,Housing & Utilities
+2015-06-30,Salary,Income,9988841.013250194,Income & Rewards
+2015-06-29,Other,Expense,41534.076383476226,Others
+2015-06-23,Other,Expense,208505.23772408415,Others
+2015-06-10,Other,Expense,10435.697583787996,Others
+2015-06-01,Cook,Expense,161962.0265003897,Housing & Utilities
+2015-06-01,Rent,Expense,530759.5791114575,Housing & Utilities
+2015-05-31,Household,Expense,557474.9649259547,Housing & Utilities
+2015-05-31,Salary,Income,9988841.013250194,Income & Rewards
+2015-05-17,Transportation,Expense,1252283.7100545594,Transportation
+2015-05-16,Other,Expense,126689.36866718627,Others
+2015-05-16,Food,Expense,4174.2790335151985,Food & Beverage
+2015-05-16,Food,Expense,5426.562743569758,Food & Beverage
+2015-05-15,Food,Expense,5426.562743569758,Food & Beverage
+2015-05-14,Other,Expense,302635.2299298519,Others
+2015-05-13,Health,Expense,52178.48791893998,Health & Personal Care
+2015-05-13,Food,Expense,5426.562743569758,Food & Beverage
+2015-05-12,Food,Expense,5426.562743569758,Food & Beverage
+2015-05-11,Food,Expense,4174.2790335151985,Food & Beverage
+2015-05-11,Food,Expense,5426.562743569758,Food & Beverage
+2015-05-10,Household,Expense,33394.23226812159,Housing & Utilities
+2015-05-09,Health,Expense,60527.04598597038,Health & Personal Care
+2015-05-09,Food,Expense,10853.125487139516,Food & Beverage
+2015-05-09,Food,Expense,4174.2790335151985,Food & Beverage
+2015-05-08,Food,Expense,5426.562743569758,Food & Beverage
+2015-05-06,Health,Expense,14609.976617303195,Health & Personal Care
+2015-05-05,Food,Expense,20871.395167575993,Food & Beverage
+2015-05-05,Food,Expense,5426.562743569758,Food & Beverage
+2015-05-03,Food,Expense,245865.03507404518,Food & Beverage
+2015-05-03,Cook,Expense,1043569.7583787995,Housing & Utilities
+2015-05-02,Food,Expense,5843.990646921277,Food & Beverage
+2015-05-01,Food,Expense,4174.2790335151985,Food & Beverage
+2015-04-28,Salary,Income,10290850.101325018,Income & Rewards
+2015-04-28,Food,Expense,5843.990646921277,Food & Beverage
+2015-04-26,Other,Expense,12314.123148869836,Others
+2015-04-26,Food,Expense,22958.53468433359,Food & Beverage
+2015-04-26,Food,Expense,23793.39049103663,Food & Beverage
+2015-04-24,Food,Expense,87659.85970381917,Food & Beverage
+2015-04-23,Food,Expense,11687.981293842555,Food & Beverage
+2015-04-18,Other,Expense,37568.51130163678,Others
+2015-04-18,Food,Expense,67623.32034294622,Food & Beverage
+2015-04-14,Other,Expense,104356.97583787996,Others
+2015-04-10,Food,Expense,145891.0522213562,Food & Beverage
+2015-04-08,Food,Expense,32559.376461418546,Food & Beverage
+2015-04-04,Food,Expense,59900.9041309431,Food & Beverage
+2015-04-04,Food,Expense,185546.70303975057,Food & Beverage
+2015-04-04,Other,Expense,62614.185502727974,Others
+2015-04-04,garbage disposal,Expense,10435.697583787996,Housing & Utilities
+2015-04-02,Cook,Expense,1043569.7583787995,Housing & Utilities
+2015-04-01,Food,Expense,10435.697583787996,Food & Beverage
+2015-03-31,Salary,Income,14778200.062353857,Income & Rewards
+2015-03-29,Health,Expense,56144.053000779415,Health & Personal Care
+2015-03-29,Food,Expense,31307.092751363987,Food & Beverage
+2015-03-25,water (jar /tanker),Expense,4174.2790335151985,Housing & Utilities
+2015-03-24,Food,Expense,5426.562743569758,Food & Beverage
+2015-03-23,Food,Expense,90540.11223694465,Food & Beverage
+2015-03-23,water (jar /tanker),Expense,4174.2790335151985,Housing & Utilities
+2015-03-20,Apparel,Expense,20871.395167575993,Lifestyle & Entertainment
+2015-03-20,Health,Expense,772241.6212003117,Health & Personal Care
+2015-03-19,Household,Expense,10435.697583787996,Housing & Utilities
+2015-03-18,Food,Expense,11061.839438815276,Food & Beverage
+2015-03-18,Food,Expense,5217.848791893998,Food & Beverage
+2015-03-18,Food,Expense,4174.2790335151985,Food & Beverage
+2015-03-18,Food,Expense,5426.562743569758,Food & Beverage
+2015-03-17,Other,Expense,93921.27825409196,Others
+2015-03-16,Health,Expense,208713.95167575992,Health & Personal Care
+2015-03-16,Food,Expense,4174.2790335151985,Food & Beverage
+2015-03-15,Apparel,Expense,6261.418550272798,Lifestyle & Entertainment
+2015-03-15,Food,Expense,7513.702260327357,Food & Beverage
+2015-03-15,Other,Expense,1043.5697583787996,Others
+2015-03-14,Apparel,Expense,8348.558067030397,Lifestyle & Entertainment
+2015-03-14,Food,Expense,5426.562743569758,Food & Beverage
+2015-03-13,Transportation,Expense,2087.1395167575993,Transportation
+2015-03-12,Health,Expense,396556.50818394386,Health & Personal Care
+2015-03-12,Food,Expense,6261.418550272798,Food & Beverage
+2015-03-11,Food,Expense,1669.7116134060793,Food & Beverage
+2015-03-10,Transportation,Expense,2462.824629773967,Transportation
+2015-03-10,Transportation,Expense,4174.2790335151985,Transportation
+2015-03-10,Transportation,Expense,2087.1395167575993,Transportation
+2015-03-09,Other,Expense,26924.09976617303,Others
+2015-03-09,Other,Expense,1252.2837100545594,Others
+2015-03-06,Transportation,Expense,2087.1395167575993,Transportation
+2015-03-06,Food,Expense,5217.848791893998,Food & Beverage
+2015-03-05,Beauty,Expense,8348.558067030397,Health & Personal Care
+2015-03-04,Food,Expense,5217.848791893998,Food & Beverage
+2015-03-03,water (jar /tanker),Expense,22541.10678098207,Housing & Utilities
+2015-03-03,garbage disposal,Expense,3548.1371784879184,Housing & Utilities
+2015-03-03,maid,Expense,69501.74590802805,Housing & Utilities
+2015-03-03,Cook,Expense,347926.1574434918,Housing & Utilities
+2015-03-03,Health,Expense,17114.544037412314,Health & Personal Care
+2015-03-03,Health,Expense,626141.8550272797,Health & Personal Care
+2015-03-02,Food,Expense,6261.418550272798,Food & Beverage
+2015-03-02,Rent,Expense,591286.6250974279,Housing & Utilities
+2015-03-02,Health,Expense,47169.35307872174,Health & Personal Care
+2015-03-02,Health,Expense,62614.185502727974,Health & Personal Care
+2015-03-02,Food,Expense,5217.848791893998,Food & Beverage
+2015-03-02,Transportation,Expense,2087.1395167575993,Transportation
+2015-03-02,Food,Expense,8348.558067030397,Food & Beverage
+2015-03-01,Food,Expense,4174.2790335151985,Food & Beverage
+2015-03-01,Food,Expense,16697.116134060794,Food & Beverage
+2015-03-01,Food,Expense,18366.827747466872,Food & Beverage
+2015-03-01,Food,Expense,1252.2837100545594,Food & Beverage
+2015-02-28,Salary,Income,10395207.0771629,Income & Rewards
+2015-02-28,Food,Expense,5426.562743569758,Food & Beverage
+2015-02-28,Food,Expense,11479.267342166795,Food & Beverage
+2015-02-28,Food,Expense,4174.2790335151985,Food & Beverage
+2015-02-26,Food,Expense,1252.2837100545594,Food & Beverage
+2015-02-26,Transportation,Expense,12522.837100545596,Transportation
+2015-02-26,Food,Expense,6261.418550272798,Food & Beverage
+2015-02-26,Food,Expense,5426.562743569758,Food & Beverage
+2015-02-24,Food,Expense,33394.23226812159,Food & Beverage
+2015-02-24,Transportation,Expense,13775.120810600154,Transportation
+2015-02-24,Food,Expense,2087.1395167575993,Food & Beverage
+2015-02-23,Transportation,Expense,4174.2790335151985,Transportation
+2015-02-23,Apparel,Expense,4174.2790335151985,Lifestyle & Entertainment
+2015-02-23,Transportation,Expense,109783.53858144971,Transportation
+2015-02-23,Other,Expense,859484.0530007794,Others
+2015-02-19,Health,Expense,9392.127825409196,Health & Personal Care
+2015-02-19,Health,Expense,7096.274356975837,Health & Personal Care
+2015-02-19,Food,Expense,12522.837100545596,Food & Beverage
+2015-02-17,Food,Expense,47378.0670303975,Food & Beverage
+2015-02-16,Food,Expense,51969.77396726422,Food & Beverage
+2015-02-16,Transportation,Expense,6261.418550272798,Transportation
+2015-02-15,Household,Expense,52178.48791893998,Housing & Utilities
+2015-02-15,Other,Expense,104356.97583787996,Others
+2015-02-15,Food,Expense,4174.2790335151985,Food & Beverage
+2015-02-15,Transportation,Expense,3130.709275136399,Transportation
+2015-02-15,Transportation,Expense,7096.274356975837,Transportation
+2015-02-15,Food,Expense,3130.709275136399,Food & Beverage
+2015-02-13,Food,Expense,4382.992985190958,Food & Beverage
+2015-02-13,Food,Expense,5635.276695245518,Food & Beverage
+2015-02-12,Food,Expense,2087.1395167575993,Food & Beverage
+2015-02-12,Food,Expense,2504.5674201091188,Food & Beverage
+2015-02-11,Food,Expense,11270.553390491035,Food & Beverage
+2015-02-11,Food,Expense,5426.562743569758,Food & Beverage
+2015-02-10,Food,Expense,12522.837100545596,Food & Beverage
+2015-02-10,Food,Expense,3756.8511301636786,Food & Beverage
+2015-02-10,Food,Expense,1252.2837100545594,Food & Beverage
+2015-02-09,Food,Expense,7304.988308651597,Food & Beverage
+2015-02-09,Food,Expense,31307.092751363987,Food & Beverage
+2015-02-09,Transportation,Expense,36733.655494933744,Transportation
+2015-02-08,Food,Expense,17949.399844115353,Food & Beverage
+2015-02-08,Other,Expense,77432.87607170692,Others
+2015-02-08,Other,Expense,709627.4356975837,Others
+2015-02-08,Food,Expense,6261.418550272798,Food & Beverage
+2015-02-07,Food,Expense,1252.2837100545594,Food & Beverage
+2015-02-05,Food,Expense,78267.73187840996,Food & Beverage
+2015-02-05,Food,Expense,8348.558067030397,Food & Beverage
+2015-02-05,Food,Expense,4382.992985190958,Food & Beverage
+2015-02-04,Food,Expense,245865.03507404518,Food & Beverage
+2015-02-04,Food,Expense,6261.418550272798,Food & Beverage
+2015-02-04,Food,Expense,5426.562743569758,Food & Beverage
+2015-02-03,Food,Expense,14609.976617303195,Food & Beverage
+2015-02-03,Food,Expense,2087.1395167575993,Food & Beverage
+2015-02-03,Food,Expense,22332.39282930631,Food & Beverage
+2015-02-03,Other,Expense,20871.395167575993,Others
+2015-02-03,Food,Expense,5635.276695245518,Food & Beverage
+2015-02-03,Other,Expense,10435.697583787996,Others
+2015-02-02,Other,Expense,2087139.516757599,Others
+2015-02-02,Food,Expense,5426.562743569758,Food & Beverage
+2015-02-02,Food,Expense,6261.418550272798,Food & Beverage
+2015-02-01,Food,Expense,5426.562743569758,Food & Beverage
+2015-02-01,Household,Expense,163631.7381137958,Housing & Utilities
+2015-02-01,Apparel,Expense,51761.06001558846,Lifestyle & Entertainment
+2015-01-31,Food,Expense,4174.2790335151985,Food & Beverage
+2015-01-31,Food,Expense,8348.558067030397,Food & Beverage
+2015-01-30,Transportation,Expense,20871.395167575993,Transportation
+2015-01-30,Food,Expense,209548.80748246296,Food & Beverage
+2015-01-29,Food,Expense,5426.562743569758,Food & Beverage
+2015-01-29,Food,Expense,7931.130163678877,Food & Beverage
+2015-01-29,Food,Expense,3130.709275136399,Food & Beverage
+2015-01-27,Food,Expense,3130.709275136399,Food & Beverage
+2015-01-27,Food,Expense,6261.418550272798,Food & Beverage
+2015-01-26,Food,Expense,5426.562743569758,Food & Beverage
+2015-01-26,Food,Expense,6261.418550272798,Food & Beverage
+2015-01-26,Food,Expense,64910.03897116133,Food & Beverage
+2015-01-25,Beauty,Expense,12522.837100545596,Health & Personal Care
+2015-01-24,Food,Expense,6261.418550272798,Food & Beverage
+2015-01-22,Food,Expense,4174.2790335151985,Food & Beverage
+2015-01-22,Food,Expense,6887.560405300077,Food & Beverage
+2015-01-21,Food,Expense,25045.67420109119,Food & Beverage
+2015-01-21,Household,Expense,12522.837100545596,Housing & Utilities
+2015-01-21,Food,Expense,5635.276695245518,Food & Beverage
+2015-01-21,Transportation,Expense,55100.483242400616,Transportation
+2015-01-21,Transportation,Expense,28802.525331254867,Transportation
+2015-01-21,Food,Expense,5843.990646921277,Food & Beverage
+2015-01-21,Food,Expense,10435.697583787996,Food & Beverage
+2015-01-20,Food,Expense,13566.406858924394,Food & Beverage
+2015-01-19,Food,Expense,6052.704598597037,Food & Beverage
+2015-01-18,Food,Expense,12522.837100545596,Food & Beverage
+2015-01-18,Food,Expense,1669.7116134060793,Food & Beverage
+2015-01-18,Food,Expense,6052.704598597037,Food & Beverage
+2015-01-16,Transportation,Expense,6261.418550272798,Transportation
+2015-01-16,Transportation,Expense,10435.697583787996,Transportation
+2015-01-16,Transportation,Expense,2087.1395167575993,Transportation
+2015-01-15,Food,Expense,32350.662509742786,Food & Beverage
+2015-01-15,Transportation,Expense,20871.395167575993,Transportation
+2015-01-15,Food,Expense,2087.1395167575993,Food & Beverage
+2015-01-14,Food,Expense,2713.281371784879,Food & Beverage
+2015-01-14,Food,Expense,25045.67420109119,Food & Beverage
+2015-01-14,Transportation,Expense,158622.60327357752,Transportation
+2015-01-13,Other,Expense,104356.97583787996,Others
+2015-01-13,Food,Expense,2087.1395167575993,Food & Beverage
+2015-01-12,Transportation,Expense,36524.941543257984,Transportation
+2015-01-12,Transportation,Expense,12731.551052221355,Transportation
+2015-01-11,Beauty,Expense,10435.697583787996,Health & Personal Care
+2015-01-11,Transportation,Expense,35481.371784879186,Transportation
+2015-01-10,Transportation,Expense,10435.697583787996,Transportation
+2015-01-10,Transportation,Expense,135664.06858924395,Transportation
+2015-01-10,Other,Expense,10435.697583787996,Others
+2015-01-10,Food,Expense,4174.2790335151985,Food & Beverage
+2015-01-09,Food,Expense,4174.2790335151985,Food & Beverage
+2015-01-09,Other,Expense,135664.06858924395,Others
+2015-01-08,Food,Expense,4174.2790335151985,Food & Beverage
+2015-01-07,Food,Expense,6470.132501948558,Food & Beverage
+2015-01-06,Food,Expense,3130.709275136399,Food & Beverage
+2015-01-05,Other,Expense,591286.6250974279,Others
+2015-01-05,Other,Expense,69501.74590802805,Others
+2015-01-05,Food,Expense,28176.383476227587,Food & Beverage
+2015-01-05,Other,Expense,469606.3912704598,Others
+2015-01-04,Food,Expense,7304.988308651597,Food & Beverage
+2015-01-04,Food,Expense,4174.2790335151985,Food & Beverage
+2015-01-04,Food,Expense,36524.941543257984,Food & Beverage
+2015-01-04,Other,Expense,2087139.516757599,Others
+2015-01-03,Other,Expense,46543.21122369446,Others
+2015-01-03,Food,Expense,73049.88308651597,Food & Beverage
+2015-01-03,Food,Expense,10226.983632112237,Food & Beverage
+2015-01-02,Food,Expense,13775.120810600154,Food & Beverage
+2015-01-02,Other,Expense,2087139.516757599,Others
+2015-01-02,Food,Expense,5843.990646921277,Food & Beverage
+2015-01-02,Food,Expense,2087.1395167575993,Food & Beverage
+2015-01-01,Food,Expense,83485.58067030397,Food & Beverage
+2015-01-01,Transportation,Expense,4174.2790335151985,Transportation
+2015-01-01,Transportation,Expense,12522.837100545596,Transportation
+2015-01-01,Culture,Expense,8348.558067030397,Lifestyle & Entertainment
+2015-01-01,Food,Expense,41742.790335151985,Food & Beverage
+2015-01-01,Transportation,Expense,29637.38113795791,Transportation
+2015-01-01,Transportation,Expense,6261.418550272798,Transportation
+2015-01-01,Food,Expense,2087.1395167575993,Food & Beverage
+2015-01-01,Transportation,Expense,2087.1395167575993,Transportation
+2018-01-01,Shopping,Expense,158173.06999999998,Lifestyle & Entertainment
+2018-01-02,Mortgage & Rent,Expense,17759803.28,Housing & Utilities
+2018-01-02,Restaurants,Expense,344820.13999999996,Food & Beverage
+2018-01-04,Movies & Dvds,Expense,167427.12,Lifestyle & Entertainment
+2018-01-05,Restaurants,Expense,368026.45,Food & Beverage
+2018-01-06,Home Improvement,Expense,262672.64999999997,Housing & Utilities
+2018-01-08,Utilities,Expense,640665.0,Housing & Utilities
+2018-01-08,Home Improvement,Expense,218965.06,Housing & Utilities
+2018-01-09,Music,Expense,152193.53,Lifestyle & Entertainment
+2018-01-10,Mobile Phone,Expense,1273642.02,Housing & Utilities
+2018-01-11,Gas & Fuel,Expense,496444.18999999994,Transportation
+2018-01-11,Groceries,Expense,619878.98,Food & Beverage
+2018-01-12,Paycheck,Income,28474000.0,Income & Rewards
+2018-01-13,Fast Food,Expense,468539.6699999999,Food & Beverage
+2018-01-13,Shopping,Expense,555954.85,Lifestyle & Entertainment
+2018-01-15,Groceries,Expense,629133.0299999999,Food & Beverage
+2018-01-15,Restaurants,Expense,912734.07,Food & Beverage
+2018-01-16,Utilities,Expense,498295.0,Housing & Utilities
+2018-01-16,Utilities,Expense,854220.0,Housing & Utilities
+2018-01-19,Paycheck,Income,28474000.0,Income & Rewards
+2018-01-20,Shopping,Expense,714839.77,Lifestyle & Entertainment
+2018-01-22,Home Improvement,Expense,247439.06,Housing & Utilities
+2018-01-24,Coffee Shops,Expense,42711.0,Food & Beverage
+2018-01-25,Internet,Expense,996447.6299999999,Housing & Utilities
+2018-01-29,Gas & Fuel,Expense,433089.54000000004,Transportation
+2018-01-29,Restaurants,Expense,355925.0,Food & Beverage
+2018-01-29,Restaurants,Expense,250855.94,Food & Beverage
+2018-02-01,Groceries,Expense,395646.23,Food & Beverage
+2018-02-01,Shopping,Expense,158173.06999999998,Lifestyle & Entertainment
+2018-02-02,Mortgage & Rent,Expense,17759803.28,Housing & Utilities
+2018-02-02,Paycheck,Income,28474000.0,Income & Rewards
+2018-02-03,Restaurants,Expense,811793.74,Food & Beverage
+2018-02-04,Movies & Dvds,Expense,167427.12,Lifestyle & Entertainment
+2018-02-07,Utilities,Expense,925405.0,Housing & Utilities
+2018-02-09,Haircut,Expense,427110.0,Health & Personal Care
+2018-02-09,Music,Expense,152193.53,Lifestyle & Entertainment
+2018-02-10,Fast Food,Expense,151766.42,Food & Beverage
+2018-02-11,Restaurants,Expense,1520511.5999999999,Food & Beverage
+2018-02-12,Gas & Fuel,Expense,519223.38999999996,Transportation
+2018-02-12,Mobile Phone,Expense,1274496.24,Housing & Utilities
+2018-02-14,Alcohol & Bars,Expense,199318.0,Food & Beverage
+2018-02-15,Restaurants,Expense,142370.0,Food & Beverage
+2018-02-15,Utilities,Expense,854220.0,Housing & Utilities
+2018-02-16,Paycheck,Income,28474000.0,Income & Rewards
+2018-02-16,Restaurants,Expense,113896.0,Food & Beverage
+2018-02-16,Utilities,Expense,498295.0,Housing & Utilities
+2018-02-20,Groceries,Expense,511820.15,Food & Beverage
+2018-02-20,Restaurants,Expense,334711.87,Food & Beverage
+2018-02-21,Coffee Shops,Expense,28474.0,Food & Beverage
+2018-02-22,Coffee Shops,Expense,56948.0,Food & Beverage
+2018-02-26,Internet,Expense,1067632.63,Housing & Utilities
+2018-02-26,Restaurants,Expense,1217548.24,Food & Beverage
+2018-02-26,Gas & Fuel,Expense,458573.77,Transportation
+2018-03-01,Groceries,Expense,456580.59,Food & Beverage
+2018-03-01,Shopping,Expense,186931.81,Lifestyle & Entertainment
+2018-03-02,Mortgage & Rent,Expense,17759803.28,Housing & Utilities
+2018-03-02,Paycheck,Income,28474000.0,Income & Rewards
+2018-03-03,Groceries,Expense,337986.38,Food & Beverage
+2018-03-04,Groceries,Expense,152193.53,Food & Beverage
+2018-03-04,Movies & Dvds,Expense,167427.12,Lifestyle & Entertainment
+2018-03-04,Restaurants,Expense,601370.88,Food & Beverage
+2018-03-05,Coffee Shops,Expense,42711.0,Food & Beverage
+2018-03-07,Coffee Shops,Expense,49829.5,Food & Beverage
+2018-03-08,Gas & Fuel,Expense,496871.3,Transportation
+2018-03-08,Utilities,Expense,740324.0,Housing & Utilities
+2018-03-09,Groceries,Expense,294990.63999999996,Food & Beverage
+2018-03-09,Groceries,Expense,72466.33,Food & Beverage
+2018-03-09,Music,Expense,152193.53,Lifestyle & Entertainment
+2018-03-12,Groceries,Expense,275485.95,Food & Beverage
+2018-03-12,Mobile Phone,Expense,1274496.24,Housing & Utilities
+2018-03-13,Shopping,Expense,651342.75,Lifestyle & Entertainment
+2018-03-14,Groceries,Expense,320332.5,Food & Beverage
+2018-03-14,Restaurants,Expense,120872.13,Food & Beverage
+2018-03-15,Coffee Shops,Expense,49829.5,Food & Beverage
+2018-03-15,Utilities,Expense,854220.0,Housing & Utilities
+2018-03-16,Paycheck,Income,28474000.0,Income & Rewards
+2018-03-17,Alcohol & Bars,Expense,277621.5,Food & Beverage
+2018-03-17,Fast Food,Expense,332291.58,Food & Beverage
+2018-03-19,Restaurants,Expense,519365.75999999995,Food & Beverage
+2018-03-19,Utilities,Expense,498295.0,Housing & Utilities
+2018-03-20,Shopping,Expense,213127.89,Lifestyle & Entertainment
+2018-03-22,Gas & Fuel,Expense,434940.35000000003,Transportation
+2018-03-23,Groceries,Expense,167427.12,Food & Beverage
+2018-03-26,Internet,Expense,1067632.63,Housing & Utilities
+2018-03-28,Groceries,Expense,228646.21999999997,Food & Beverage
+2018-03-28,Restaurants,Expense,355640.26,Food & Beverage
+2018-03-29,Restaurants,Expense,251140.68000000002,Food & Beverage
+2018-03-30,Groceries,Expense,129414.33,Food & Beverage
+2018-03-30,Paycheck,Income,28474000.0,Income & Rewards
+2018-03-31,Restaurants,Expense,545561.84,Food & Beverage
+2018-03-31,Restaurants,Expense,352223.38,Food & Beverage
+2018-03-31,Restaurants,Expense,585994.9199999999,Food & Beverage
+2018-04-01,Groceries,Expense,1150207.23,Food & Beverage
+2018-04-01,Restaurants,Expense,846816.76,Food & Beverage
+2018-04-01,Shopping,Expense,186931.81,Lifestyle & Entertainment
+2018-04-02,Groceries,Expense,1172559.32,Food & Beverage
+2018-04-02,Home Improvement,Expense,197751.93000000002,Housing & Utilities
+2018-04-02,Mortgage & Rent,Expense,17759803.28,Housing & Utilities
+2018-04-03,Movies & Dvds,Expense,91259.17,Lifestyle & Entertainment
+2018-04-04,Movies & Dvds,Expense,167427.12,Lifestyle & Entertainment
+2018-04-06,Gas & Fuel,Expense,65205.46,Transportation
+2018-04-06,Restaurants,Expense,138953.12,Food & Beverage
+2018-04-08,Restaurants,Expense,313214.0,Food & Beverage
+2018-04-09,Groceries,Expense,92255.76000000001,Food & Beverage
+2018-04-09,Music,Expense,152193.53,Lifestyle & Entertainment
+2018-04-09,Utilities,Expense,427110.0,Housing & Utilities
+2018-04-11,Mobile Phone,Expense,1274496.24,Housing & Utilities
+2018-04-12,Coffee Shops,Expense,99659.0,Food & Beverage
+2018-04-12,Haircut,Expense,427110.0,Health & Personal Care
+2018-04-13,Gas & Fuel,Expense,540721.26,Transportation
+2018-04-13,Paycheck,Income,28474000.0,Income & Rewards
+2018-04-13,Restaurants,Expense,151766.42,Food & Beverage
+2018-04-14,Home Improvement,Expense,165291.56999999998,Housing & Utilities
+2018-04-14,Restaurants,Expense,583717.0,Food & Beverage
+2018-04-16,Auto Insurance,Expense,1067775.0,Transportation
+2018-04-16,Utilities,Expense,498295.0,Housing & Utilities
+2018-04-18,Utilities,Expense,854220.0,Housing & Utilities
+2018-04-20,Restaurants,Expense,344820.13999999996,Food & Beverage
+2018-04-21,Groceries,Expense,61503.840000000004,Food & Beverage
+2018-04-21,Restaurants,Expense,500430.55,Food & Beverage
+2018-04-22,Groceries,Expense,303532.84,Food & Beverage
+2018-04-23,Home Improvement,Expense,607919.9,Housing & Utilities
+2018-04-24,Home Improvement,Expense,3199053.9,Housing & Utilities
+2018-04-24,Shopping,Expense,588557.5800000001,Lifestyle & Entertainment
+2018-04-25,Home Improvement,Expense,3001017.23,Housing & Utilities
+2018-04-25,Internet,Expense,1067632.63,Housing & Utilities
+2018-04-27,Paycheck,Income,28474000.0,Income & Rewards
+2018-04-28,Groceries,Expense,327166.26,Food & Beverage
+2018-04-29,Gas & Fuel,Expense,555243.0,Transportation
+2018-04-29,Groceries,Expense,726798.85,Food & Beverage
+2018-04-29,Home Improvement,Expense,974807.39,Housing & Utilities
+2018-04-30,Groceries,Expense,72466.33,Food & Beverage
+2018-05-01,Shopping,Expense,186931.81,Lifestyle & Entertainment
+2018-05-02,Mortgage & Rent,Expense,17759803.28,Housing & Utilities
+2018-05-03,Shopping,Expense,707863.64,Lifestyle & Entertainment
+2018-05-04,Groceries,Expense,601228.51,Food & Beverage
+2018-05-04,Movies & Dvds,Expense,167427.12,Lifestyle & Entertainment
+2018-05-05,Fast Food,Expense,103502.98999999999,Food & Beverage
+2018-05-05,Fast Food,Expense,292143.24,Food & Beverage
+2018-05-06,Home Improvement,Expense,318481.69,Housing & Utilities
+2018-05-06,Shopping,Expense,1675552.53,Lifestyle & Entertainment
+2018-05-09,Music,Expense,152193.53,Lifestyle & Entertainment
+2018-05-09,Utilities,Expense,427110.0,Housing & Utilities
+2018-05-10,Mobile Phone,Expense,1582869.6600000001,Housing & Utilities
+2018-05-11,Groceries,Expense,816064.84,Food & Beverage
+2018-05-11,Paycheck,Income,28474000.0,Income & Rewards
+2018-05-11,Home Improvement,Expense,113896000.0,Housing & Utilities
+2018-05-12,Alcohol & Bars,Expense,395361.49,Food & Beverage
+2018-05-12,Gas & Fuel,Expense,474092.1,Transportation
+2018-05-12,Restaurants,Expense,1110486.0,Food & Beverage
+2018-05-14,Groceries,Expense,962848.3099999999,Food & Beverage
+2018-05-15,Utilities,Expense,854220.0,Housing & Utilities
+2018-05-17,Haircut,Expense,412873.0,Health & Personal Care
+2018-05-17,Utilities,Expense,498295.0,Housing & Utilities
+2018-05-18,Auto Insurance,Expense,1067775.0,Transportation
+2018-05-18,Shopping,Expense,91259.17,Lifestyle & Entertainment
+2018-05-19,Groceries,Expense,441347.0,Food & Beverage
+2018-05-19,Restaurants,Expense,331152.62,Food & Beverage
+2018-05-21,Restaurants,Expense,370731.48,Food & Beverage
+2018-05-21,Shopping,Expense,462702.5,Lifestyle & Entertainment
+2018-05-24,Gas & Fuel,Expense,561507.2799999999,Transportation
+2018-05-25,Internet,Expense,1067632.63,Housing & Utilities
+2018-05-25,Paycheck,Income,28474000.0,Income & Rewards
+2018-05-28,Entertainment,Expense,136959.94,Lifestyle & Entertainment
+2018-05-28,Groceries,Expense,1295994.11,Food & Beverage
+2018-05-29,Movies & Dvds,Expense,284740.0,Lifestyle & Entertainment
+2018-05-29,Movies & Dvds,Expense,88981.25,Lifestyle & Entertainment
+2018-06-01,Gas & Fuel,Expense,549975.31,Transportation
+2018-06-01,Groceries,Expense,86988.07,Food & Beverage
+2018-06-01,Shopping,Expense,186931.81,Lifestyle & Entertainment
+2018-06-03,Restaurants,Expense,936936.9700000001,Food & Beverage
+2018-06-04,Groceries,Expense,343396.44,Food & Beverage
+2018-06-04,Mortgage & Rent,Expense,17759803.28,Housing & Utilities
+2018-06-04,Movies & Dvds,Expense,167427.12,Lifestyle & Entertainment
+2018-06-06,Coffee Shops,Expense,56948.0,Food & Beverage
+2018-06-08,Paycheck,Income,28474000.0,Income & Rewards
+2018-06-08,Utilities,Expense,427110.0,Housing & Utilities
+2018-06-09,Fast Food,Expense,230354.66,Food & Beverage
+2018-06-09,Groceries,Expense,136105.72,Food & Beverage
+2018-06-09,Music,Expense,152193.53,Lifestyle & Entertainment
+2018-06-10,Groceries,Expense,655044.37,Food & Beverage
+2018-06-12,Groceries,Expense,178674.35,Food & Beverage
+2018-06-12,Mobile Phone,Expense,1273642.02,Housing & Utilities
+2018-06-14,Groceries,Expense,99943.73999999999,Food & Beverage
+2018-06-15,Utilities,Expense,854220.0,Housing & Utilities
+2018-06-16,Coffee Shops,Expense,42711.0,Food & Beverage
+2018-06-16,Fast Food,Expense,322610.42,Food & Beverage
+2018-06-16,Groceries,Expense,197894.30000000002,Food & Beverage
+2018-06-18,Utilities,Expense,498295.0,Housing & Utilities
+2018-06-19,Gas & Fuel,Expense,548409.24,Transportation
+2018-06-19,Groceries,Expense,38297.53,Food & Beverage
+2018-06-20,Auto Insurance,Expense,1067775.0,Transportation
+2018-06-20,Haircut,Expense,427110.0,Health & Personal Care
+2018-06-22,Paycheck,Income,28474000.0,Income & Rewards
+2018-06-23,Restaurants,Expense,121014.5,Food & Beverage
+2018-06-23,Shopping,Expense,1067347.89,Lifestyle & Entertainment
+2018-06-25,Internet,Expense,1067632.63,Housing & Utilities
+2018-06-26,Groceries,Expense,136959.94,Food & Beverage
+2018-06-27,Coffee Shops,Expense,49829.5,Food & Beverage
+2018-06-27,Fast Food,Expense,322610.42,Food & Beverage
+2018-06-28,Groceries,Expense,107774.09000000001,Food & Beverage
+2018-07-01,Shopping,Expense,186931.81,Lifestyle & Entertainment
+2018-07-02,Mortgage & Rent,Expense,17759803.28,Housing & Utilities
+2018-07-02,Movies & Dvds,Expense,355925.0,Lifestyle & Entertainment
+2018-07-02,Restaurants,Expense,518796.27999999997,Food & Beverage
+2018-07-04,Gas & Fuel,Expense,490891.75999999995,Transportation
+2018-07-04,Movies & Dvds,Expense,167427.12,Lifestyle & Entertainment
+2018-07-05,Groceries,Expense,629987.25,Food & Beverage
+2018-07-05,Shopping,Expense,3022799.84,Lifestyle & Entertainment
+2018-07-06,Movies & Dvds,Expense,91259.17,Lifestyle & Entertainment
+2018-07-06,Paycheck,Income,28474000.0,Income & Rewards
+2018-07-09,Music,Expense,152193.53,Lifestyle & Entertainment
+2018-07-10,Groceries,Expense,76737.43,Food & Beverage
+2018-07-10,Utilities,Expense,427110.0,Housing & Utilities
+2018-07-11,Mobile Phone,Expense,1273642.02,Housing & Utilities
+2018-07-14,Gas & Fuel,Expense,477081.87,Transportation
+2018-07-15,Gas & Fuel,Expense,515948.88,Transportation
+2018-07-17,Fast Food,Expense,216829.51,Food & Beverage
+2018-07-17,Utilities,Expense,498295.0,Housing & Utilities
+2018-07-17,Utilities,Expense,854220.0,Housing & Utilities
+2018-07-18,Alcohol & Bars,Expense,406323.98,Food & Beverage
+2018-07-18,Auto Insurance,Expense,1067775.0,Transportation
+2018-07-20,Paycheck,Income,28474000.0,Income & Rewards
+2018-07-21,Groceries,Expense,411876.41,Food & Beverage
+2018-07-21,Haircut,Expense,427110.0,Health & Personal Care
+2018-07-23,Fast Food,Expense,136390.46,Food & Beverage
+2018-07-24,Restaurants,Expense,378561.83,Food & Beverage
+2018-07-25,Internet,Expense,1067632.63,Housing & Utilities
+2018-07-26,Gas & Fuel,Expense,479359.79000000004,Transportation
+2018-07-28,Groceries,Expense,108343.57,Food & Beverage
+2018-07-30,Restaurants,Expense,489468.06000000006,Food & Beverage
+2018-07-31,Alcohol & Bars,Expense,93964.2,Food & Beverage
+2018-08-01,Shopping,Expense,186931.81,Lifestyle & Entertainment
+2018-08-02,Gas & Fuel,Expense,575744.2799999999,Transportation
+2018-08-02,Mortgage & Rent,Expense,17759803.28,Housing & Utilities
+2018-08-03,Groceries,Expense,89265.98999999999,Food & Beverage
+2018-08-03,Paycheck,Income,28474000.0,Income & Rewards
+2018-08-04,Movies & Dvds,Expense,167427.12,Lifestyle & Entertainment
+2018-08-06,Shopping,Expense,1088703.39,Lifestyle & Entertainment
+2018-08-09,Music,Expense,152193.53,Lifestyle & Entertainment
+2018-08-09,Utilities,Expense,427110.0,Housing & Utilities
+2018-08-10,Mobile Phone,Expense,1272787.8,Housing & Utilities
+2018-08-11,Fast Food,Expense,194619.79,Food & Beverage
+2018-08-11,Gas & Fuel,Expense,479217.4199999999,Transportation
+2018-08-15,Gas & Fuel,Expense,584713.59,Transportation
+2018-08-15,Groceries,Expense,80296.68,Food & Beverage
+2018-08-15,Utilities,Expense,854220.0,Housing & Utilities
+2018-08-16,Utilities,Expense,498295.0,Housing & Utilities
+2018-08-17,Paycheck,Income,28474000.0,Income & Rewards
+2018-08-17,Shopping,Expense,213270.26,Lifestyle & Entertainment
+2018-08-18,Shopping,Expense,334142.38999999996,Lifestyle & Entertainment
+2018-08-20,Auto Insurance,Expense,1067775.0,Transportation
+2018-08-24,Restaurants,Expense,602367.4700000001,Food & Beverage
+2018-08-27,Internet,Expense,1067632.63,Housing & Utilities
+2018-08-30,Gas & Fuel,Expense,507549.05,Transportation
+2018-08-31,Groceries,Expense,165718.68000000002,Food & Beverage
+2018-08-31,Paycheck,Income,28474000.0,Income & Rewards
+2018-09-01,Alcohol & Bars,Expense,674833.7999999999,Food & Beverage
+2018-09-01,Shopping,Expense,186931.81,Lifestyle & Entertainment
+2018-09-02,Shopping,Expense,1563649.71,Lifestyle & Entertainment
+2018-09-04,Mortgage & Rent,Expense,17759803.28,Housing & Utilities
+2018-09-04,Movies & Dvds,Expense,167427.12,Lifestyle & Entertainment
+2018-09-07,Utilities,Expense,427110.0,Housing & Utilities
+2018-09-09,Alcohol & Bars,Expense,256266.0,Food & Beverage
+2018-09-09,Music,Expense,152193.53,Lifestyle & Entertainment
+2018-09-11,Gas & Fuel,Expense,553249.82,Transportation
+2018-09-11,Groceries,Expense,112045.19,Food & Beverage
+2018-09-12,Groceries,Expense,671416.9199999999,Food & Beverage
+2018-09-12,Mobile Phone,Expense,1272787.8,Housing & Utilities
+2018-09-13,Groceries,Expense,80296.68,Food & Beverage
+2018-09-14,Paycheck,Income,28474000.0,Income & Rewards
+2018-09-17,Groceries,Expense,144790.29,Food & Beverage
+2018-09-17,Groceries,Expense,125285.6,Food & Beverage
+2018-09-17,Utilities,Expense,498295.0,Housing & Utilities
+2018-09-18,Groceries,Expense,61503.840000000004,Food & Beverage
+2018-09-18,Utilities,Expense,854220.0,Housing & Utilities
+2018-09-19,Auto Insurance,Expense,1067775.0,Transportation
+2018-09-19,Haircut,Expense,427110.0,Health & Personal Care
+2018-09-20,Shopping,Expense,674549.06,Lifestyle & Entertainment
+2018-09-22,Home Improvement,Expense,988047.8,Housing & Utilities
+2018-09-22,Home Improvement,Expense,97238.71,Housing & Utilities
+2018-09-25,Internet,Expense,1067632.63,Housing & Utilities
+2018-09-25,Restaurants,Expense,692487.68,Food & Beverage
+2018-09-26,Coffee Shops,Expense,71185.0,Food & Beverage
+2018-09-26,Gas & Fuel,Expense,541006.0,Transportation
+2018-09-27,Gas & Fuel,Expense,579588.27,Transportation
+2018-09-28,Groceries,Expense,190206.31999999998,Food & Beverage
+2018-09-28,Paycheck,Income,28474000.0,Income & Rewards
+2018-09-29,Restaurants,Expense,331152.62,Food & Beverage
+2018-09-29,Restaurants,Expense,664867.9,Food & Beverage
+2018-10-01,Coffee Shops,Expense,42711.0,Food & Beverage
+2018-10-01,Groceries,Expense,222951.42,Food & Beverage
+2018-10-01,Shopping,Expense,186931.81,Lifestyle & Entertainment
+2018-10-02,Mortgage & Rent,Expense,17215095.66,Housing & Utilities
+2018-10-04,Movies & Dvds,Expense,167427.12,Lifestyle & Entertainment
+2018-10-06,Restaurants,Expense,384399.0,Food & Beverage
+2018-10-08,Gas & Fuel,Expense,541860.2200000001,Transportation
+2018-10-08,Home Improvement,Expense,1148214.05,Housing & Utilities
+2018-10-08,Home Improvement,Expense,444194.39999999997,Housing & Utilities
+2018-10-09,Music,Expense,152193.53,Lifestyle & Entertainment
+2018-10-09,Shopping,Expense,284455.26,Lifestyle & Entertainment
+2018-10-09,Utilities,Expense,427110.0,Housing & Utilities
+2018-10-10,Groceries,Expense,764242.16,Food & Beverage
+2018-10-11,Mobile Phone,Expense,1272787.8,Housing & Utilities
+2018-10-12,Paycheck,Income,28474000.0,Income & Rewards
+2018-10-16,Utilities,Expense,854220.0,Housing & Utilities
+2018-10-17,Utilities,Expense,498295.0,Housing & Utilities
+2018-10-18,Auto Insurance,Expense,1067775.0,Transportation
+2018-10-18,Groceries,Expense,477651.35,Food & Beverage
+2018-10-18,Home Improvement,Expense,644081.88,Housing & Utilities
+2018-10-18,Restaurants,Expense,113896.0,Food & Beverage
+2018-10-22,Gas & Fuel,Expense,493454.4199999999,Transportation
+2018-10-23,Groceries,Expense,107774.09000000001,Food & Beverage
+2018-10-25,Internet,Expense,1067632.63,Housing & Utilities
+2018-10-25,Shopping,Expense,426825.26,Lifestyle & Entertainment
+2018-10-26,Paycheck,Income,28474000.0,Income & Rewards
+2018-10-27,Restaurants,Expense,361619.8,Food & Beverage
+2018-10-28,Alcohol & Bars,Expense,180952.27000000002,Food & Beverage
+2018-10-28,Food & Dining,Expense,209995.75,Food & Beverage
+2018-10-28,Groceries,Expense,1316780.13,Food & Beverage
+2018-10-28,Restaurants,Expense,768798.0,Food & Beverage
+2018-10-31,Groceries,Expense,80296.68,Food & Beverage
+2018-11-01,Shopping,Expense,186931.81,Lifestyle & Entertainment
+2018-11-02,Mortgage & Rent,Expense,17215095.66,Housing & Utilities
+2018-11-03,Fast Food,Expense,336847.42,Food & Beverage
+2018-11-04,Movies & Dvds,Expense,167427.12,Lifestyle & Entertainment
+2018-11-05,Gas & Fuel,Expense,519792.87,Transportation
+2018-11-06,Shopping,Expense,768086.15,Lifestyle & Entertainment
+2018-11-06,Utilities,Expense,427110.0,Housing & Utilities
+2018-11-08,Groceries,Expense,80296.68,Food & Beverage
+2018-11-09,Music,Expense,152193.53,Lifestyle & Entertainment
+2018-11-09,Paycheck,Income,28474000.0,Income & Rewards
+2018-11-10,Alcohol & Bars,Expense,384399.0,Food & Beverage
+2018-11-10,Fast Food,Expense,202023.03,Food & Beverage
+2018-11-10,Groceries,Expense,347382.8,Food & Beverage
+2018-11-12,Groceries,Expense,144932.66,Food & Beverage
+2018-11-12,Restaurants,Expense,317912.20999999996,Food & Beverage
+2018-11-13,Groceries,Expense,68337.59999999999,Food & Beverage
+2018-11-13,Groceries,Expense,532890.91,Food & Beverage
+2018-11-13,Groceries,Expense,144505.55000000002,Food & Beverage
+2018-11-13,Mobile Phone,Expense,1274780.98,Housing & Utilities
+2018-11-14,Utilities,Expense,854220.0,Housing & Utilities
+2018-11-16,Utilities,Expense,498295.0,Housing & Utilities
+2018-11-17,Alcohol & Bars,Expense,324603.60000000003,Food & Beverage
+2018-11-17,Home Improvement,Expense,220246.39,Housing & Utilities
+2018-11-17,Home Improvement,Expense,91116.8,Housing & Utilities
+2018-11-17,Restaurants,Expense,331152.62,Food & Beverage
+2018-11-19,Alcohol & Bars,Expense,284740.0,Food & Beverage
+2018-11-19,Gas & Fuel,Expense,415008.55,Transportation
+2018-11-19,Home Improvement,Expense,142654.74,Housing & Utilities
+2018-11-20,Auto Insurance,Expense,1067775.0,Transportation
+2018-11-21,Groceries,Expense,80296.68,Food & Beverage
+2018-11-21,Home Improvement,Expense,532606.1699999999,Housing & Utilities
+2018-11-23,Paycheck,Income,28474000.0,Income & Rewards
+2018-11-26,Alcohol & Bars,Expense,239181.6,Food & Beverage
+2018-11-26,Internet,Expense,1067632.63,Housing & Utilities
+2018-11-27,Movies & Dvds,Expense,242029.0,Lifestyle & Entertainment
+2018-11-27,Restaurants,Expense,404330.8,Food & Beverage
+2018-11-30,Groceries,Expense,89265.98999999999,Food & Beverage
+2018-12-01,Groceries,Expense,80296.68,Food & Beverage
+2018-12-01,Restaurants,Expense,113896.0,Food & Beverage
+2018-12-01,Shopping,Expense,186931.81,Lifestyle & Entertainment
+2018-12-03,Gas & Fuel,Expense,427537.11000000004,Transportation
+2018-12-03,Groceries,Expense,2109211.5500000003,Food & Beverage
+2018-12-03,Mortgage & Rent,Expense,17215095.66,Housing & Utilities
+2018-12-04,Coffee Shops,Expense,42711.0,Food & Beverage
+2018-12-04,Fast Food,Expense,293994.05,Food & Beverage
+2018-12-04,Movies & Dvds,Expense,167427.12,Lifestyle & Entertainment
+2018-12-06,Groceries,Expense,304387.06,Food & Beverage
+2018-12-06,Groceries,Expense,191914.76,Food & Beverage
+2018-12-06,Utilities,Expense,569480.0,Housing & Utilities
+2018-12-07,Haircut,Expense,427110.0,Health & Personal Care
+2018-12-07,Paycheck,Income,28474000.0,Income & Rewards
+2018-12-08,Groceries,Expense,179955.68000000002,Food & Beverage
+2018-12-09,Music,Expense,152193.53,Lifestyle & Entertainment
+2018-12-11,Restaurants,Expense,146498.72999999998,Food & Beverage
+2018-12-12,Mobile Phone,Expense,1274780.98,Housing & Utilities
+2018-12-13,Restaurants,Expense,384399.0,Food & Beverage
+2018-12-14,Groceries,Expense,304529.43,Food & Beverage
+2018-12-14,Home Improvement,Expense,243452.7,Housing & Utilities
+2018-12-14,Utilities,Expense,854220.0,Housing & Utilities
+2018-12-17,Food & Dining,Expense,896931.0,Food & Beverage
+2018-12-17,Gas & Fuel,Expense,284882.37,Transportation
+2018-12-17,Utilities,Expense,498295.0,Housing & Utilities
+2018-12-18,Coffee Shops,Expense,42711.0,Food & Beverage
+2018-12-18,Restaurants,Expense,804675.24,Food & Beverage
+2018-12-18,Shopping,Expense,711707.63,Lifestyle & Entertainment
+2018-12-18,Shopping,Expense,593967.64,Lifestyle & Entertainment
+2018-12-18,Shopping,Expense,345959.10000000003,Lifestyle & Entertainment
+2018-12-19,Auto Insurance,Expense,1067775.0,Transportation
+2018-12-19,Shopping,Expense,612333.37,Lifestyle & Entertainment
+2018-12-20,Gas & Fuel,Expense,432520.06,Transportation
+2018-12-21,Paycheck,Income,28474000.0,Income & Rewards
+2018-12-22,Fast Food,Expense,304387.06,Food & Beverage
+2018-12-22,Home Improvement,Expense,315207.18,Housing & Utilities
+2018-12-23,Home Improvement,Expense,398636.0,Housing & Utilities
+2018-12-24,Home Improvement,Expense,546700.7999999999,Housing & Utilities
+2018-12-26,Fast Food,Expense,798268.59,Food & Beverage
+2018-12-26,Gas & Fuel,Expense,462275.38999999996,Transportation
+2018-12-26,Gas & Fuel,Expense,106492.76000000001,Transportation
+2018-12-26,Internet,Expense,1081869.63,Housing & Utilities
+2018-12-26,Shopping,Expense,640522.63,Lifestyle & Entertainment
+2018-12-28,Alcohol & Bars,Expense,170844.0,Food & Beverage
+2018-12-29,Alcohol & Bars,Expense,199318.0,Food & Beverage
+2018-12-29,Groceries,Expense,783604.48,Food & Beverage
+2019-01-01,Shopping,Expense,183456.35,Lifestyle & Entertainment
+2019-01-03,Mortgage & Rent,Expense,15416500.0,Housing & Utilities
+2019-01-03,Shopping,Expense,590031.5,Lifestyle & Entertainment
+2019-01-04,Paycheck,Income,28030000.0,Income & Rewards
+2019-01-05,Restaurants,Expense,329212.35,Food & Beverage
+2019-01-08,Utilities,Expense,630675.0,Housing & Utilities
+2019-01-09,Music,Expense,149820.35,Lifestyle & Entertainment
+2019-01-10,Groceries,Expense,823941.85,Food & Beverage
+2019-01-10,Haircut,Expense,420450.0,Health & Personal Care
+2019-01-10,Mobile Phone,Expense,910975.0,Housing & Utilities
+2019-01-14,Gas & Fuel,Expense,405313.80000000005,Transportation
+2019-01-15,Groceries,Expense,84930.9,Food & Beverage
+2019-01-16,Utilities,Expense,490525.0,Housing & Utilities
+2019-01-16,Utilities,Expense,840900.0,Housing & Utilities
+2019-01-18,Auto Insurance,Expense,1051125.0,Transportation
+2019-01-18,Paycheck,Income,28030000.0,Income & Rewards
+2019-01-24,Groceries,Expense,295155.89999999997,Food & Beverage
+2019-01-24,Shopping,Expense,163975.5,Lifestyle & Entertainment
+2019-01-24,Shopping,Expense,59003.15,Lifestyle & Entertainment
+2019-01-25,Internet,Expense,1051125.0,Housing & Utilities
+2019-01-31,Gas & Fuel,Expense,438949.8,Transportation
+2019-02-01,Paycheck,Income,28030000.0,Income & Rewards
+2019-02-01,Restaurants,Expense,132722.05000000002,Food & Beverage
+2019-02-01,Shopping,Expense,183456.35,Lifestyle & Entertainment
+2019-02-04,Home Improvement,Expense,1218884.55,Housing & Utilities
+2019-02-04,Television,Expense,164816.4,Lifestyle & Entertainment
+2019-02-05,Mortgage & Rent,Expense,15416500.0,Housing & Utilities
+2019-02-07,Utilities,Expense,910975.0,Housing & Utilities
+2019-02-08,Coffee Shops,Expense,42045.0,Food & Beverage
+2019-02-08,Restaurants,Expense,384992.05,Food & Beverage
+2019-02-09,Music,Expense,149820.35,Lifestyle & Entertainment
+2019-02-11,Coffee Shops,Expense,42045.0,Food & Beverage
+2019-02-11,Gas & Fuel,Expense,336500.15,Transportation
+2019-02-12,Groceries,Expense,428018.1,Food & Beverage
+2019-02-12,Mobile Phone,Expense,910975.0,Housing & Utilities
+2019-02-13,Groceries,Expense,115063.15000000001,Food & Beverage
+2019-02-15,Groceries,Expense,64328.85,Food & Beverage
+2019-02-15,Paycheck,Income,28030000.0,Income & Rewards
+2019-02-15,Utilities,Expense,840900.0,Housing & Utilities
+2019-02-16,Alcohol & Bars,Expense,112120.0,Food & Beverage
+2019-02-16,Restaurants,Expense,458991.25,Food & Beverage
+2019-02-16,Shopping,Expense,524861.75,Lifestyle & Entertainment
+2019-02-19,Utilities,Expense,490525.0,Housing & Utilities
+2019-02-20,Auto Insurance,Expense,1051125.0,Transportation
+2019-02-20,Haircut,Expense,420450.0,Health & Personal Care
+2019-02-21,Groceries,Expense,658144.4,Food & Beverage
+2019-02-25,Gas & Fuel,Expense,473706.99999999994,Transportation
+2019-02-25,Internet,Expense,1051125.0,Housing & Utilities
+2019-02-27,Restaurants,Expense,361166.55,Food & Beverage
+2019-02-28,Groceries,Expense,449461.05,Food & Beverage
+2019-03-01,Paycheck,Income,28030000.0,Income & Rewards
+2019-03-01,Shopping,Expense,183456.35,Lifestyle & Entertainment
+2019-03-04,Groceries,Expense,1289940.6,Food & Beverage
+2019-03-04,Mortgage & Rent,Expense,15416500.0,Housing & Utilities
+2019-03-04,Television,Expense,164816.4,Lifestyle & Entertainment
+2019-03-05,Restaurants,Expense,98105.0,Food & Beverage
+2019-03-08,Gas & Fuel,Expense,477631.19999999995,Transportation
+2019-03-08,Shopping,Expense,380787.55000000005,Lifestyle & Entertainment
+2019-03-08,Utilities,Expense,686735.0,Housing & Utilities
+2019-03-09,Music,Expense,149820.35,Lifestyle & Entertainment
+2019-03-12,Mobile Phone,Expense,910975.0,Housing & Utilities
+2019-03-12,Restaurants,Expense,42325.3,Food & Beverage
+2019-03-14,Restaurants,Expense,112120.0,Food & Beverage
+2019-03-15,Paycheck,Income,28030000.0,Income & Rewards
+2019-03-15,Utilities,Expense,840900.0,Housing & Utilities
+2019-03-18,Electronics & Software,Expense,4498674.850000001,Lifestyle & Entertainment
+2019-03-18,Groceries,Expense,227463.45,Food & Beverage
+2019-03-19,Shopping,Expense,193967.6,Lifestyle & Entertainment
+2019-03-19,Utilities,Expense,490525.0,Housing & Utilities
+2019-03-20,Auto Insurance,Expense,1051125.0,Transportation
+2019-03-22,Gas & Fuel,Expense,525702.65,Transportation
+2019-03-23,Coffee Shops,Expense,72878.0,Food & Beverage
+2019-03-25,Internet,Expense,1051125.0,Housing & Utilities
+2019-03-26,Shopping,Expense,224800.59999999998,Lifestyle & Entertainment
+2019-03-27,Alcohol & Bars,Expense,695564.4500000001,Food & Beverage
+2019-03-27,Groceries,Expense,62506.9,Food & Beverage
+2019-03-29,Paycheck,Income,28030000.0,Income & Rewards
+2019-03-30,Coffee Shops,Expense,179952.6,Food & Beverage
+2019-04-01,Shopping,Expense,183456.35,Lifestyle & Entertainment
+2019-04-02,Mortgage & Rent,Expense,15416500.0,Housing & Utilities
+2019-04-04,Groceries,Expense,79044.59999999999,Food & Beverage
+2019-04-04,Shopping,Expense,503138.5,Lifestyle & Entertainment
+2019-04-04,Television,Expense,164816.4,Lifestyle & Entertainment
+2019-04-06,Shopping,Expense,385973.1,Lifestyle & Entertainment
+2019-04-08,Utilities,Expense,420450.0,Housing & Utilities
+2019-04-09,Groceries,Expense,149960.5,Food & Beverage
+2019-04-09,Haircut,Expense,420450.0,Health & Personal Care
+2019-04-09,Music,Expense,149820.35,Lifestyle & Entertainment
+2019-04-10,Mobile Phone,Expense,910975.0,Housing & Utilities
+2019-04-12,Electronics & Software,Expense,629693.95,Lifestyle & Entertainment
+2019-04-12,Groceries,Expense,579380.1000000001,Food & Beverage
+2019-04-12,Paycheck,Income,28030000.0,Income & Rewards
+2019-04-13,Gas & Fuel,Expense,545744.1,Transportation
+2019-04-13,Groceries,Expense,236433.05000000002,Food & Beverage
+2019-04-13,Restaurants,Expense,289269.60000000003,Food & Beverage
+2019-04-15,Utilities,Expense,840900.0,Housing & Utilities
+2019-04-16,Utilities,Expense,490525.0,Housing & Utilities
+2019-04-18,Auto Insurance,Expense,1051125.0,Transportation
+2019-04-19,Groceries,Expense,152623.35,Food & Beverage
+2019-04-22,Alcohol & Bars,Expense,201816.0,Food & Beverage
+2019-04-22,Restaurants,Expense,904247.7999999999,Food & Beverage
+2019-04-23,Home Improvement,Expense,414283.39999999997,Housing & Utilities
+2019-04-25,Internet,Expense,1051125.0,Housing & Utilities
+2019-04-26,Paycheck,Income,28030000.0,Income & Rewards
+2019-04-27,Alcohol & Bars,Expense,560600.0,Food & Beverage
+2019-04-27,Restaurants,Expense,206581.1,Food & Beverage
+2019-04-29,Groceries,Expense,79044.59999999999,Food & Beverage
+2019-04-30,Gas & Fuel,Expense,547706.2,Transportation
+2019-05-01,Shopping,Expense,183456.35,Lifestyle & Entertainment
+2019-05-02,Mortgage & Rent,Expense,15416500.0,Housing & Utilities
+2019-05-04,Television,Expense,194808.5,Lifestyle & Entertainment
+2019-05-06,Shopping,Expense,237414.1,Lifestyle & Entertainment
+2019-05-07,Shopping,Expense,540418.4,Lifestyle & Entertainment
+2019-05-09,Electronics & Software,Expense,4648635.35,Lifestyle & Entertainment
+2019-05-09,Music,Expense,149820.35,Lifestyle & Entertainment
+2019-05-09,Shopping,Expense,44848.0,Lifestyle & Entertainment
+2019-05-09,Utilities,Expense,420450.0,Housing & Utilities
+2019-05-10,Electronics & Software,Expense,299780.85000000003,Lifestyle & Entertainment
+2019-05-10,Mobile Phone,Expense,910975.0,Housing & Utilities
+2019-05-10,Paycheck,Income,28030000.0,Income & Rewards
+2019-05-13,Gas & Fuel,Expense,493888.60000000003,Transportation
+2019-05-13,Restaurants,Expense,1376132.8499999999,Food & Beverage
+2019-05-13,Restaurants,Expense,323886.64999999997,Food & Beverage
+2019-05-14,Groceries,Expense,28310.3,Food & Beverage
+2019-05-15,Utilities,Expense,840900.0,Housing & Utilities
+2019-05-17,Utilities,Expense,490525.0,Housing & Utilities
+2019-05-20,Auto Insurance,Expense,1051125.0,Transportation
+2019-05-20,Restaurants,Expense,455907.95,Food & Beverage
+2019-05-24,Home Improvement,Expense,391859.4,Housing & Utilities
+2019-05-24,Paycheck,Income,28030000.0,Income & Rewards
+2019-05-24,Restaurants,Expense,112120.0,Food & Beverage
+2019-05-25,Gas & Fuel,Expense,515191.39999999997,Transportation
+2019-05-25,Home Improvement,Expense,434324.85,Housing & Utilities
+2019-05-27,Restaurants,Expense,481134.94999999995,Food & Beverage
+2019-05-30,Internet,Expense,1051125.0,Housing & Utilities
+2019-05-30,Restaurants,Expense,488002.3,Food & Beverage
+2019-06-01,Shopping,Expense,183456.35,Lifestyle & Entertainment
+2019-06-03,Coffee Shops,Expense,38541.25,Food & Beverage
+2019-06-03,Mortgage & Rent,Expense,15416500.0,Housing & Utilities
+2019-06-04,Haircut,Expense,420450.0,Health & Personal Care
+2019-06-04,Television,Expense,194808.5,Lifestyle & Entertainment
+2019-06-05,Groceries,Expense,322345.0,Food & Beverage
+2019-06-05,Restaurants,Expense,325708.6,Food & Beverage
+2019-06-06,Coffee Shops,Expense,52556.25,Food & Beverage
+2019-06-06,Groceries,Expense,79044.59999999999,Food & Beverage
+2019-06-07,Paycheck,Income,28030000.0,Income & Rewards
+2019-06-07,Utilities,Expense,420450.0,Housing & Utilities
+2019-06-09,Music,Expense,149820.35,Lifestyle & Entertainment
+2019-06-12,Mobile Phone,Expense,910975.0,Housing & Utilities
+2019-06-14,Groceries,Expense,149820.35,Food & Beverage
+2019-06-15,Gas & Fuel,Expense,464737.39999999997,Transportation
+2019-06-17,Utilities,Expense,490525.0,Housing & Utilities
+2019-06-17,Utilities,Expense,840900.0,Housing & Utilities
+2019-06-18,Alcohol & Bars,Expense,210225.0,Food & Beverage
+2019-06-18,Gas & Fuel,Expense,586247.45,Transportation
+2019-06-19,Auto Insurance,Expense,1051125.0,Transportation
+2019-06-20,Home Improvement,Expense,128938000.0,Housing & Utilities
+2019-06-21,Paycheck,Income,28030000.0,Income & Rewards
+2019-06-24,Alcohol & Bars,Expense,210225.0,Food & Beverage
+2019-06-28,Gas & Fuel,Expense,429419.60000000003,Transportation
+2019-06-30,Internet,Expense,1051125.0,Housing & Utilities
+2019-07-01,Coffee Shops,Expense,98105.0,Food & Beverage
+2019-07-01,Groceries,Expense,1394072.05,Food & Beverage
+2019-07-01,Restaurants,Expense,349954.55,Food & Beverage
+2019-07-01,Restaurants,Expense,336360.0,Food & Beverage
+2019-07-01,Shopping,Expense,183456.35,Lifestyle & Entertainment
+2019-07-02,Home Improvement,Expense,3222048.5,Housing & Utilities
+2019-07-02,Mortgage & Rent,Expense,15416500.0,Housing & Utilities
+2019-07-04,Television,Expense,194808.5,Lifestyle & Entertainment
+2019-07-05,Alcohol & Bars,Expense,266285.0,Food & Beverage
+2019-07-05,Paycheck,Income,31533750.0,Income & Rewards
+2019-07-06,Groceries,Expense,1303114.7,Food & Beverage
+2019-07-06,Restaurants,Expense,325988.9,Food & Beverage
+2019-07-07,Home Improvement,Expense,1445507.1,Housing & Utilities
+2019-07-09,Music,Expense,149820.35,Lifestyle & Entertainment
+2019-07-10,Mobile Phone,Expense,910975.0,Housing & Utilities
+2019-07-10,Utilities,Expense,420450.0,Housing & Utilities
+2019-07-15,Groceries,Expense,1221267.1,Food & Beverage
+2019-07-16,Shopping,Expense,1261209.8499999999,Lifestyle & Entertainment
+2019-07-16,Utilities,Expense,840900.0,Housing & Utilities
+2019-07-17,Utilities,Expense,490525.0,Housing & Utilities
+2019-07-18,Auto Insurance,Expense,1051125.0,Transportation
+2019-07-18,Gas & Fuel,Expense,510426.30000000005,Transportation
+2019-07-18,Groceries,Expense,418067.44999999995,Food & Beverage
+2019-07-18,Restaurants,Expense,123612.3,Food & Beverage
+2019-07-19,Paycheck,Income,31533750.0,Income & Rewards
+2019-07-19,Restaurants,Expense,392420.0,Food & Beverage
+2019-07-22,Restaurants,Expense,373780.05000000005,Food & Beverage
+2019-07-24,Coffee Shops,Expense,35037.5,Food & Beverage
+2019-07-27,Haircut,Expense,420450.0,Health & Personal Care
+2019-07-28,Home Improvement,Expense,621004.65,Housing & Utilities
+2019-07-29,Groceries,Expense,74980.25,Food & Beverage
+2019-07-29,Restaurants,Expense,629553.8,Food & Beverage
+2019-07-30,Groceries,Expense,221016.55,Food & Beverage
+2019-07-30,Internet,Expense,1051125.0,Housing & Utilities
+2019-08-01,Shopping,Expense,183456.35,Lifestyle & Entertainment
+2019-08-02,Mortgage & Rent,Expense,15416500.0,Housing & Utilities
+2019-08-02,Paycheck,Income,31533750.0,Income & Rewards
+2019-08-03,Gas & Fuel,Expense,509585.39999999997,Transportation
+2019-08-03,Groceries,Expense,55499.4,Food & Beverage
+2019-08-03,Restaurants,Expense,328932.05,Food & Beverage
+2019-08-04,Television,Expense,194808.5,Lifestyle & Entertainment
+2019-08-05,Alcohol & Bars,Expense,252270.0,Food & Beverage
+2019-08-06,Home Improvement,Expense,1751875.0,Housing & Utilities
+2019-08-08,Groceries,Expense,164255.80000000002,Food & Beverage
+2019-08-09,Music,Expense,149820.35,Lifestyle & Entertainment
+2019-08-09,Utilities,Expense,420450.0,Housing & Utilities
+2019-08-12,Mobile Phone,Expense,910975.0,Housing & Utilities
+2019-08-12,Restaurants,Expense,373780.05000000005,Food & Beverage
+2019-08-14,Coffee Shops,Expense,38541.25,Food & Beverage
+2019-08-15,Utilities,Expense,840900.0,Housing & Utilities
+2019-08-16,Paycheck,Income,31533750.0,Income & Rewards
+2019-08-16,Utilities,Expense,490525.0,Housing & Utilities
+2019-08-17,Groceries,Expense,464597.25,Food & Beverage
+2019-08-17,Haircut,Expense,266285.0,Health & Personal Care
+2019-08-17,Restaurants,Expense,49052.5,Food & Beverage
+2019-08-20,Auto Insurance,Expense,1051125.0,Transportation
+2019-08-20,Coffee Shops,Expense,38541.25,Food & Beverage
+2019-08-21,Gas & Fuel,Expense,486180.35,Transportation
+2019-08-23,Coffee Shops,Expense,38541.25,Food & Beverage
+2019-08-25,Restaurants,Expense,552611.45,Food & Beverage
+2019-08-26,Home Improvement,Expense,935501.25,Housing & Utilities
+2019-08-29,Coffee Shops,Expense,42045.0,Food & Beverage
+2019-08-30,Coffee Shops,Expense,38541.25,Food & Beverage
+2019-08-30,Internet,Expense,1051125.0,Housing & Utilities
+2019-08-30,Paycheck,Income,31533750.0,Income & Rewards
+2019-08-31,Home Improvement,Expense,953580.6000000001,Housing & Utilities
+2019-08-31,Restaurants,Expense,585546.7000000001,Food & Beverage
+2019-09-01,Shopping,Expense,183456.35,Lifestyle & Entertainment
+2019-09-03,Mortgage & Rent,Expense,15416500.0,Housing & Utilities
+2019-09-03,Restaurants,Expense,577978.6,Food & Beverage
+2019-09-04,Television,Expense,194808.5,Lifestyle & Entertainment
+2019-09-05,Coffee Shops,Expense,52556.25,Food & Beverage
+2019-09-07,Alcohol & Bars,Expense,180373.05,Food & Beverage
+2019-09-08,Alcohol & Bars,Expense,270489.5,Food & Beverage
+2019-09-09,Gas & Fuel,Expense,403211.55,Transportation
+2019-09-09,Groceries,Expense,912236.3500000001,Food & Beverage
+2019-09-09,Home Improvement,Expense,367893.75,Housing & Utilities
+2019-09-09,Music,Expense,149820.35,Lifestyle & Entertainment
+2019-09-09,Utilities,Expense,420450.0,Housing & Utilities
+2019-09-11,Mobile Phone,Expense,910975.0,Housing & Utilities
+2019-09-13,Coffee Shops,Expense,38541.25,Food & Beverage
+2019-09-13,Paycheck,Income,31533750.0,Income & Rewards
+2019-09-14,Groceries,Expense,650856.6,Food & Beverage
+2019-09-15,Shopping,Expense,667954.8999999999,Lifestyle & Entertainment
+2019-09-16,Utilities,Expense,490525.0,Housing & Utilities
+2019-09-17,Utilities,Expense,840900.0,Housing & Utilities
+2019-09-18,Auto Insurance,Expense,1051125.0,Transportation
+2019-09-19,Alcohol & Bars,Expense,571952.15,Food & Beverage
+2019-09-19,Coffee Shops,Expense,38541.25,Food & Beverage
+2019-09-22,Restaurants,Expense,1837366.5,Food & Beverage
+2019-09-23,Groceries,Expense,388355.65,Food & Beverage
+2019-09-23,Shopping,Expense,345189.45,Lifestyle & Entertainment
+2019-09-27,Paycheck,Income,31533750.0,Income & Rewards
+2019-09-28,Gas & Fuel,Expense,468941.9,Transportation
+2019-09-28,Gas & Fuel,Expense,59844.049999999996,Transportation
+2019-09-30,Coffee Shops,Expense,24526.25,Food & Beverage
+2019-09-30,Internet,Expense,1051125.0,Housing & Utilities
