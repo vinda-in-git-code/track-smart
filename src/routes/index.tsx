@@ -50,11 +50,14 @@ export default function Landing() {
       {showPrivacy && (
         <Modal title="Privacy Policy" onClose={() => setShowPrivacy(false)}>
           <div className="space-y-3 text-sm text-muted-foreground leading-relaxed">
-            <p>Track Smart mengumpulkan data transaksi keuangan yang kamu input secara sukarela untuk memberikan layanan pelacakan keuangan dan split bill.</p>
-            <p>Data kamu disimpan secara aman di Supabase dengan enkripsi dan Row Level Security, sehingga hanya kamu yang bisa mengakses data milikmu.</p>
-            <p>Kami tidak menjual, menyewakan, atau membagikan data pribadi kamu kepada pihak ketiga manapun.</p>
-            <p>Aplikasi ini dikembangkan sebagai proyek capstone Coding Camp 2026 powered by DBS Foundation dan bersifat non-komersial.</p>
-            <p>Kamu dapat menghapus akun dan seluruh data kamu kapan saja melalui halaman Settings.</p>
+            <p>Track Smart berkomitmen untuk melindungi privasi dan keamanan 
+              data pengguna. Informasi yang Anda masukkan, termasuk data 
+              transaksi dan keuangan, digunakan hanya untuk menyediakan serta 
+              meningkatkan layanan yang tersedia. Kami tidak menjual,
+              menyewakan, atau membagikan data pribadi kepada pihak ketiga
+              tanpa persetujuan pengguna, kecuali apabila diwajibkan oleh hukum.
+              Dengan menggunakan Track Smart, Anda menyetujui pengumpulan
+              dan penggunaan data sesuai dengan kebijakan privasi yang berlaku.</p>
           </div>
         </Modal>
       )}
@@ -62,10 +65,13 @@ export default function Landing() {
       {showTerms && (
         <Modal title="Terms of Service" onClose={() => setShowTerms(false)}>
           <div className="space-y-3 text-sm text-muted-foreground leading-relaxed">
-            <p>Dengan menggunakan Track Smart, kamu memahami bahwa aplikasi ini dikembangkan sebagai bagian dari proyek capstone dan masih dalam tahap pengembangan.</p>
-            <p>Pastikan data yang kamu masukkan sudah benar, karena seluruh pencatatan dan laporan bergantung pada informasi yang kamu input.</p>
-            <p>Insight dan analisis yang ditampilkan bertujuan membantu kamu memahami kondisi keuangan, bukan sebagai saran atau rekomendasi finansial profesional.</p>
-            <p>Penggunaan aplikasi untuk aktivitas yang melanggar hukum atau merugikan pengguna lain tidak diperbolehkan.</p>
+            <p>Dengan menggunakan Track Smart, Anda setuju untuk menggunakan 
+              layanan secara bertanggung jawab dan sesuai peraturan yang 
+              berlaku. Pengguna bertanggung jawab atas data yang dimasukkan ke 
+              dalam aplikasi. Kami dapat melakukan pembaruan layanan dari waktu 
+              ke waktu untuk meningkatkan kualitas, keamanan, dan pengalaman 
+              pengguna. Penggunaan layanan ini menandakan persetujuan Anda 
+              terhadap syarat dan ketentuan yang berlaku.</p>
           </div>
         </Modal>
       )}

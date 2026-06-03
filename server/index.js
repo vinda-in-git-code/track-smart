@@ -11,10 +11,12 @@ const classifierRouter = require('./routes/classifier')
 const app = express()
 const PORT = process.env.PORT || 3001
 
-const allowedOrigins = process.env.FRONTEND_URL
-  ? [process.env.FRONTEND_URL]
-  : ['http://localhost:5173', 'http://localhost:5174']
-
+const allowedOrigins = [
+  'http://localhost:5173',
+  'http://localhost:5174',
+  'https://tracksmart-id.vercel.app',
+  ...(process.env.FRONTEND_URL ? [process.env.FRONTEND_URL] : []),
+]
 app.use(cors({
   origin: allowedOrigins,
   credentials: true,
