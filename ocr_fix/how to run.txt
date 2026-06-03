@@ -1,0 +1,16 @@
+RUN FILE OCR 
+
+ python src/paddle_receipt_pipeline.py --image data/raw/31.jpg --debug
+ python src/paddle_receipt_pipeline_with_ollama.py --image data/raw/31.jpg --debug -> ini yang pakai api ollama
+
+RUN API LOKAL
+
+buka 2 terminal
+
+terminal 1 ketik :
+python -m uvicorn app:app --reload
+
+terminal 2 ketik :
+ngrok http 8000
+
+make sure sudah instal ngrok di Microsoft store
