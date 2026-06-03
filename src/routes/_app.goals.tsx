@@ -92,7 +92,7 @@ function GoalsPage() {
           <h1 className="text-center text-xl font-bold tracking-tight">Saving Goals</h1>
         </div>
         <p className="text-center text-sm text-muted-foreground mt-1 mb-5">
-          Set target, tabungan sedikit sedikit, capai impian
+          Nabung jadi lebih terarah dan mudah.
         </p>
       </div>
 
