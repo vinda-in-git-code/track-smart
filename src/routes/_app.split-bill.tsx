@@ -85,7 +85,7 @@ function SplitBill() {
   return (
     <div className="space-y-5">
       {/* Page Header - hidden on mobile since navbar shows title */}
-      <div className="hidden md:block">
+      <div className="block">
         <h1 className="text-2xl md:text-3xl font-bold tracking-tight">Split Bill</h1>
         <p className="text-sm text-muted-foreground mt-1 break-words">
           Scan struk, atur pembagian, dan tagih teman.
