@@ -27,10 +27,15 @@ router.post('/', async (req, res) => {
     }
 
     const client = await getClassifierClient()
-    const jsonFile = new Blob([JSON.stringify(req.body)], { type: 'application/json' })
-    const result = await client.predict(CLASSIFIER_API_NAME, {
-      json_file: jsonFile,
-    })
+    
+    let result
+    try {
+      result = await client.predict(CLASSIFIER_API_NAME, {
+        json_file: new Blob([JSON.stringify(req.body)], { type: 'application/json' }),
+      })
+    } catch (predictErr) {
+      clientPromise = undefined
+    }
 
     const data = Array.isArray(result.data) && result.data.length === 1
       ? result.data[0]

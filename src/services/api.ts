@@ -288,6 +288,7 @@ export type SplitBillRecord = {
   id: string
   title: string
   filename: string
+  category: string
   total_belanja: number
   items: { nama_barang: string; jumlah_barang: number; total_harga_barang: number }[]
   people: { id: string; name: string; color: string }[]
@@ -299,6 +300,7 @@ export type SplitBillRecord = {
 export async function saveSplitBill(payload: {
   title: string
   filename: string
+  category: string
   total_belanja: number
   items: OcrItem[]
   people: { id: string; name: string; color: string }[]
@@ -312,6 +314,7 @@ export async function saveSplitBill(payload: {
     user_id: user.id,
     title: payload.title,
     filename: payload.filename,
+    category: payload.category,
     total_belanja: payload.total_belanja,
     items: payload.items,
     people: payload.people,
@@ -332,5 +335,21 @@ export async function getSplitBills(): Promise<SplitBillRecord[]> {
 
 export async function deleteSplitBill(id: string) {
   const { error } = await supabase.from('split_bills').delete().eq('id', id)
+  if (error) throw new Error(error.message)
+}
+
+export async function getAppSetting(key: string): Promise<string | null> {
+  const { data } = await supabase
+    .from('app_settings')
+    .select('value')
+    .eq('key', key)
+    .single()
+  return data?.value ?? null
+}
+
+export async function setAppSetting(key: string, value: string): Promise<void> {
+  const { error } = await supabase
+    .from('app_settings')
+    .upsert({ key, value, updated_at: new Date().toISOString() })
   if (error) throw new Error(error.message)
 }

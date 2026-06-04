@@ -308,7 +308,8 @@ function ScanTab({ onSaved }: { onSaved: () => void }) {
     setIsSaving(true);
     try {
       await saveSplitBill({
-        title: title.trim() || classification?.predicted_category || `Split ${selectedFile.name}`,
+        title: title.trim() || classification?.predicted_category || 'Split Bill',
+        category: classification?.predicted_category ?? 'Other',
         filename: selectedFile.name,
         total_belanja: grandTotal,
         items,
@@ -786,8 +787,10 @@ function HistoryTab({ history, loading, recordedIds, onDelete, onView, onRecorde
   const handleRecord = async (r: SplitBillRecord) => {
     setRecording(r.id)
     try {
-      // Coba tebak kategori dari nama title, fallback Food
-      const category = EXPENSE_CATEGORIES.includes('Restaurants') ? 'Restaurants' : 'Food'
+      const savedCategory = (r as any).category as string | undefined
+      const category = savedCategory && EXPENSE_CATEGORIES.includes(savedCategory)
+        ? savedCategory
+        : EXPENSE_CATEGORIES.find(c => r.title?.toLowerCase().includes(c.toLowerCase())) ?? 'Other'
       await recordSplitBillTransaction(r, category)
       onRecorded(r.id)
       toast.success('Transaksi berhasil dicatat!')
@@ -823,7 +826,7 @@ function HistoryTab({ history, loading, recordedIds, onDelete, onView, onRecorde
         return (
           <div key={r.id} className="flex flex-col justify-between rounded-3xl border border-border/60 bg-card p-4 shadow-[var(--shadow-card)] h-full">
             <div>
-              {/* Top row: title + total + delete */}
+              {/* title + total + delete */}
               <div className="flex items-start justify-between gap-2">
                 <div className="flex-1 min-w-0">
                   <p className="font-semibold text-sm sm:text-base truncate">{r.title || r.filename}</p>
@@ -903,7 +906,11 @@ function DetailModal({ record, isRecorded, onRecorded, onClose }: {
   const handleRecord = async () => {
     setRecording(true)
     try {
-      await recordSplitBillTransaction(record, 'Restaurants')
+      const savedCategory = (record as any).category as string | undefined
+      const category = savedCategory && EXPENSE_CATEGORIES.includes(savedCategory)
+        ? savedCategory
+        : EXPENSE_CATEGORIES.find(c => record.title?.toLowerCase().includes(c.toLowerCase())) ?? 'Other'
+      await recordSplitBillTransaction(record, category)
       onRecorded(record.id)
       toast.success('Transaksi berhasil dicatat!')
     } catch (err: any) {
