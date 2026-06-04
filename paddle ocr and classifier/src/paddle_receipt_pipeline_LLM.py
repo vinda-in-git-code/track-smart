@@ -219,7 +219,7 @@ def reconstruct_lines_from_paddle(normalized_lines):
 
 def extract_items_with_gemini(ocr_text):
     client = genai.Client(
-        api_key=("YOUR_GEMINI_API_KEY_PASTE_HERE")
+        api_key=os.getenv("YOUR_GEMINI_API_KEY_PASTE_HERE")
     )
 
     prompt = f"""
