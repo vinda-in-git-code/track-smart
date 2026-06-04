@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset
+dataset/
+
+# Virtual environment
+myenv/
+
+# OS-specific files
+.DS_Store
