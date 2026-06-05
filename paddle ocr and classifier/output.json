@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "nama_barang": "Beras",
+      "jumlah_barang": 5,
+      "total_harga_barang": 60000
+    },
+    {
+      "nama_barang": "Minak",
+      "jumlah_barang": 5,
+      "total_harga_barang": 35000
+    },
+    {
+      "nama_barang": "Minyak Gore",
+      "jumlah_barang": 2,
+      "total_harga_barang": 30000
+    },
+    {
+      "nama_barang": "Sabun Mandi",
+      "jumlah_barang": 2,
+      "total_harga_barang": 30000
+    },
+    {
+      "nama_barang": "Shampo Ayam",
+      "jumlah_barang": 1,
+      "total_harga_barang": 45000
+    },
+    {
+      "nama_barang": "Shampo",
+      "jumlah_barang": 1,
+      "total_harga_barang": 30000
+    },
+    {
+      "nama_barang": "Susu Cair",
+      "jumlah_barang": 5000,
+      "total_harga_barang": 30000
+    },
+    {
+      "nama_barang": "Gula Pasir2",
+      "jumlah_barang": 2,
+      "total_harga_barang": 15000
+    },
+    {
+      "nama_barang": "Mi Instar",
+      "jumlah_barang": 1,
+      "total_harga_barang": 15000
+    },
+    {
+      "nama_barang": "Mi Instan",
+      "jumlah_barang": 5,
+      "total_harga_barang": 15000
+    }
+  ],
+  "total_belanja": 305000,
+  "item_text_for_classification": "Beras Minak Minyak Gore Sabun Mandi Shampo Ayam Shampo Susu Cair Gula Pasir2 Mi Instar Mi Instan",
+  "raw_text": "Toko Kampus Jogja\nJ1 Pendicakan No 17. Kampus Tertadu\nTanga1:30/10/2025 14:30\nWaktu:14:30\nBeras 5 kg Rp 60.000\nMinak 5 Rp 35.000\nMinyak Gore 2 L Rp 30.000\nSabun Mandi 2 pcs 30,000\nShampo Ayam 1 pcs 45,000\nShampo 1 botol Rp 30,000\nSusu Cair 5000 gr Rp 30,000\nGula Pasir2 kotak 15,000\nMi Instar 1 pcs 15.000\nMi Instan 5 pcs 15,000\nTotal Belanja: Rp 340,000\nPembayaran: Tunai Rp 340,000\nKembali: 0\nTerima kasih atas kunjungan Anda",
+  "cleaned_text": "Beras\nMinak\nMinyak Gore\nSabun Mandi\nShampo Ayam\nShampo\nSusu Cair\nGula Pasir2\nMi Instar\nMi Instan"
+}
