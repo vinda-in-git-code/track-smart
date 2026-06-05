@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import {
   Camera, Upload, X, Loader2, Plus, FileDown,
   UserCircle2, History, Trash2, Check, Pencil, PlusCircle, Receipt,
-  FileText, Circle, CheckCircle2, BookmarkCheck, Wallet
+  FileText, Circle, CheckCircle2, BookmarkCheck, Wallet, Menu
 } from "lucide-react";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { ScanBarcode } from "lucide-react";
@@ -84,10 +84,28 @@ function SplitBill() {
 
   return (
     <div className="space-y-5">
-      {/* Page Header - hidden on mobile since navbar shows title */}
-      <div className="block">
+      {/* Page Header */}
+      <div className="hidden md:block">  {/* desktop only */}
         <h1 className="text-2xl md:text-3xl font-bold tracking-tight">Split Bill</h1>
-        <p className="text-sm text-muted-foreground mt-1 break-words">
+        <p className="text-sm text-muted-foreground mt-1">
+          Scan struk, atur pembagian, dan tagih teman.
+        </p>
+      </div>
+
+      {/* Mobile Page Header */}
+      <div className="md:hidden">
+        <div className="grid grid-cols-[2.5rem_1fr_auto] items-center gap-2">
+          <button
+            type="button"
+            onClick={() => window.dispatchEvent(new CustomEvent('open-sidebar'))}
+            className="flex h-10 w-10 items-center justify-center rounded-full text-foreground hover:bg-muted/20 transition-colors"
+            aria-label="Open navigation"
+          >
+            <Menu className="h-6 w-6" />
+          </button>
+          <h1 className="text-center text-xl font-bold tracking-tight">Split Bill</h1>
+        </div>
+        <p className="text-center text-sm text-muted-foreground mt-1 mb-5">
           Scan struk, atur pembagian, dan tagih teman.
         </p>
       </div>

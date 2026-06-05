@@ -2,7 +2,7 @@ import { Link, Outlet, useLocation, useNavigate } from '@tanstack/react-router'
 import { useEffect, useState } from 'react'
 import {
   LayoutDashboard, Users, Receipt, ScanLine,
-  Settings, ShieldCheck, ArrowLeftRight, LogOut,
+  ShieldCheck, ArrowLeftRight, LogOut,
 } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import { logout } from '@/services/api'
@@ -17,7 +17,6 @@ const nav = [
   { to: '/admin/roles', label: 'Roles', icon: ShieldCheck },
   { to: '/admin/transactions', label: 'Transactions', icon: Receipt },
   { to: '/admin/ocr-logs', label: 'OCR Logs', icon: ScanLine },
-  { to: '/admin/settings', label: 'Settings', icon: Settings },
 ]
 
 export function AdminShell() {
