@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import {
   Camera, Upload, X, Loader2, Plus, FileDown,
   UserCircle2, History, Trash2, Check, Pencil, PlusCircle, Receipt,
-  FileText, Circle, CheckCircle2, BookmarkCheck, Wallet
+  FileText, Circle, CheckCircle2, BookmarkCheck, Wallet, Menu
 } from "lucide-react";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { ScanBarcode } from "lucide-react";
@@ -84,10 +84,28 @@ function SplitBill() {
 
   return (
     <div className="space-y-5">
-      {/* Page Header - hidden on mobile since navbar shows title */}
-      <div className="block">
+      {/* Page Header */}
+      <div className="hidden md:block">  {/* desktop only */}
         <h1 className="text-2xl md:text-3xl font-bold tracking-tight">Split Bill</h1>
-        <p className="text-sm text-muted-foreground mt-1 break-words">
+        <p className="text-sm text-muted-foreground mt-1">
+          Scan struk, atur pembagian, dan tagih teman.
+        </p>
+      </div>
+
+      {/* Mobile Page Header */}
+      <div className="md:hidden">
+        <div className="grid grid-cols-[2.5rem_1fr_auto] items-center gap-2">
+          <button
+            type="button"
+            onClick={() => window.dispatchEvent(new CustomEvent('open-sidebar'))}
+            className="flex h-10 w-10 items-center justify-center rounded-full text-foreground hover:bg-muted/20 transition-colors"
+            aria-label="Open navigation"
+          >
+            <Menu className="h-6 w-6" />
+          </button>
+          <h1 className="text-center text-xl font-bold tracking-tight">Split Bill</h1>
+        </div>
+        <p className="text-center text-sm text-muted-foreground mt-1 mb-5">
           Scan struk, atur pembagian, dan tagih teman.
         </p>
       </div>
@@ -308,7 +326,8 @@ function ScanTab({ onSaved }: { onSaved: () => void }) {
     setIsSaving(true);
     try {
       await saveSplitBill({
-        title: title.trim() || classification?.predicted_category || `Split ${selectedFile.name}`,
+        title: title.trim() || classification?.predicted_category || 'Split Bill',
+        category: classification?.predicted_category ?? 'Other',
         filename: selectedFile.name,
         total_belanja: grandTotal,
         items,
@@ -786,8 +805,10 @@ function HistoryTab({ history, loading, recordedIds, onDelete, onView, onRecorde
   const handleRecord = async (r: SplitBillRecord) => {
     setRecording(r.id)
     try {
-      // Coba tebak kategori dari nama title, fallback Food
-      const category = EXPENSE_CATEGORIES.includes('Restaurants') ? 'Restaurants' : 'Food'
+      const savedCategory = (r as any).category as string | undefined
+      const category = savedCategory && EXPENSE_CATEGORIES.includes(savedCategory)
+        ? savedCategory
+        : EXPENSE_CATEGORIES.find(c => r.title?.toLowerCase().includes(c.toLowerCase())) ?? 'Other'
       await recordSplitBillTransaction(r, category)
       onRecorded(r.id)
       toast.success('Transaksi berhasil dicatat!')
@@ -823,7 +844,7 @@ function HistoryTab({ history, loading, recordedIds, onDelete, onView, onRecorde
         return (
           <div key={r.id} className="flex flex-col justify-between rounded-3xl border border-border/60 bg-card p-4 shadow-[var(--shadow-card)] h-full">
             <div>
-              {/* Top row: title + total + delete */}
+              {/* title + total + delete */}
               <div className="flex items-start justify-between gap-2">
                 <div className="flex-1 min-w-0">
                   <p className="font-semibold text-sm sm:text-base truncate">{r.title || r.filename}</p>
@@ -903,7 +924,11 @@ function DetailModal({ record, isRecorded, onRecorded, onClose }: {
   const handleRecord = async () => {
     setRecording(true)
     try {
-      await recordSplitBillTransaction(record, 'Restaurants')
+      const savedCategory = (record as any).category as string | undefined
+      const category = savedCategory && EXPENSE_CATEGORIES.includes(savedCategory)
+        ? savedCategory
+        : EXPENSE_CATEGORIES.find(c => record.title?.toLowerCase().includes(c.toLowerCase())) ?? 'Other'
+      await recordSplitBillTransaction(record, category)
       onRecorded(record.id)
       toast.success('Transaksi berhasil dicatat!')
     } catch (err: any) {

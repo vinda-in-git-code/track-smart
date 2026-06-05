@@ -4,7 +4,7 @@ import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar'
-import { Camera, Loader2 } from 'lucide-react'
+import { Camera, Loader2, Menu } from 'lucide-react'
 import { supabase } from '@/integrations/supabase/client'
 import { getMyProfile, updateMyProfile, uploadAvatar } from '@/services/profileApi'
 import { toast } from 'sonner'
@@ -87,7 +87,26 @@ function Settings() {
 
   return (
     <div className="max-w-2xl mx-auto space-y-6">
-      <div>
+      {/* Mobile Header */}
+      <div className="md:hidden">
+        <div className="grid grid-cols-[2.5rem_1fr_auto] items-center gap-2">
+          <button
+            type="button"
+            onClick={() => window.dispatchEvent(new CustomEvent('open-sidebar'))}
+            className="flex h-10 w-10 items-center justify-center rounded-full text-foreground hover:bg-muted/20 transition-colors"
+            aria-label="Open navigation"
+          >
+            <Menu className="h-6 w-6" />
+          </button>
+          <h1 className="text-center text-xl font-bold tracking-tight">Settings</h1>
+        </div>
+        <p className="text-center text-sm text-muted-foreground mt-1 mb-5">
+          Atur profil dan preferensi kamu.
+        </p>
+      </div>
+
+      {/* Desktop Header */}
+      <div className="hidden md:block">
         <h1 className="text-2xl md:text-3xl font-bold tracking-tight">Settings</h1>
         <p className="text-sm text-muted-foreground mt-1">Atur profil dan preferensi kamu.</p>
       </div>

@@ -28,7 +28,6 @@ import { Route as AdminAdminIndexRouteImport } from './routes/_admin.admin.index
 import { Route as AppTransactionsAddRouteImport } from './routes/_app.transactions.add'
 import { Route as AdminAdminUsersRouteImport } from './routes/_admin.admin.users'
 import { Route as AdminAdminTransactionsRouteImport } from './routes/_admin.admin.transactions'
-import { Route as AdminAdminSettingsRouteImport } from './routes/_admin.admin.settings'
 import { Route as AdminAdminRolesRouteImport } from './routes/_admin.admin.roles'
 import { Route as AdminAdminOcrLogsRouteImport } from './routes/_admin.admin.ocr-logs'
 
@@ -125,11 +124,6 @@ const AdminAdminTransactionsRoute = AdminAdminTransactionsRouteImport.update({
   path: '/transactions',
   getParentRoute: () => AdminAdminRoute,
 } as any)
-const AdminAdminSettingsRoute = AdminAdminSettingsRouteImport.update({
-  id: '/settings',
-  path: '/settings',
-  getParentRoute: () => AdminAdminRoute,
-} as any)
 const AdminAdminRolesRoute = AdminAdminRolesRouteImport.update({
   id: '/roles',
   path: '/roles',
@@ -156,7 +150,6 @@ export interface FileRoutesByFullPath {
   '/split-bill': typeof AppSplitBillRoute
   '/admin/ocr-logs': typeof AdminAdminOcrLogsRoute
   '/admin/roles': typeof AdminAdminRolesRoute
-  '/admin/settings': typeof AdminAdminSettingsRoute
   '/admin/transactions': typeof AdminAdminTransactionsRoute
   '/admin/users': typeof AdminAdminUsersRoute
   '/transactions/add': typeof AppTransactionsAddRoute
@@ -177,7 +170,6 @@ export interface FileRoutesByTo {
   '/split-bill': typeof AppSplitBillRoute
   '/admin/ocr-logs': typeof AdminAdminOcrLogsRoute
   '/admin/roles': typeof AdminAdminRolesRoute
-  '/admin/settings': typeof AdminAdminSettingsRoute
   '/admin/transactions': typeof AdminAdminTransactionsRoute
   '/admin/users': typeof AdminAdminUsersRoute
   '/transactions/add': typeof AppTransactionsAddRoute
@@ -202,7 +194,6 @@ export interface FileRoutesById {
   '/_app/split-bill': typeof AppSplitBillRoute
   '/_admin/admin/ocr-logs': typeof AdminAdminOcrLogsRoute
   '/_admin/admin/roles': typeof AdminAdminRolesRoute
-  '/_admin/admin/settings': typeof AdminAdminSettingsRoute
   '/_admin/admin/transactions': typeof AdminAdminTransactionsRoute
   '/_admin/admin/users': typeof AdminAdminUsersRoute
   '/_app/transactions/add': typeof AppTransactionsAddRoute
@@ -226,7 +217,6 @@ export interface FileRouteTypes {
     | '/split-bill'
     | '/admin/ocr-logs'
     | '/admin/roles'
-    | '/admin/settings'
     | '/admin/transactions'
     | '/admin/users'
     | '/transactions/add'
@@ -247,7 +237,6 @@ export interface FileRouteTypes {
     | '/split-bill'
     | '/admin/ocr-logs'
     | '/admin/roles'
-    | '/admin/settings'
     | '/admin/transactions'
     | '/admin/users'
     | '/transactions/add'
@@ -271,7 +260,6 @@ export interface FileRouteTypes {
     | '/_app/split-bill'
     | '/_admin/admin/ocr-logs'
     | '/_admin/admin/roles'
-    | '/_admin/admin/settings'
     | '/_admin/admin/transactions'
     | '/_admin/admin/users'
     | '/_app/transactions/add'
@@ -424,13 +412,6 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof AdminAdminTransactionsRouteImport
       parentRoute: typeof AdminAdminRoute
     }
-    '/_admin/admin/settings': {
-      id: '/_admin/admin/settings'
-      path: '/settings'
-      fullPath: '/admin/settings'
-      preLoaderRoute: typeof AdminAdminSettingsRouteImport
-      parentRoute: typeof AdminAdminRoute
-    }
     '/_admin/admin/roles': {
       id: '/_admin/admin/roles'
       path: '/roles'
@@ -451,7 +432,6 @@ declare module '@tanstack/react-router' {
 interface AdminAdminRouteChildren {
   AdminAdminOcrLogsRoute: typeof AdminAdminOcrLogsRoute
   AdminAdminRolesRoute: typeof AdminAdminRolesRoute
-  AdminAdminSettingsRoute: typeof AdminAdminSettingsRoute
   AdminAdminTransactionsRoute: typeof AdminAdminTransactionsRoute
   AdminAdminUsersRoute: typeof AdminAdminUsersRoute
   AdminAdminIndexRoute: typeof AdminAdminIndexRoute
@@ -460,7 +440,6 @@ interface AdminAdminRouteChildren {
 const AdminAdminRouteChildren: AdminAdminRouteChildren = {
   AdminAdminOcrLogsRoute: AdminAdminOcrLogsRoute,
   AdminAdminRolesRoute: AdminAdminRolesRoute,
-  AdminAdminSettingsRoute: AdminAdminSettingsRoute,
   AdminAdminTransactionsRoute: AdminAdminTransactionsRoute,
   AdminAdminUsersRoute: AdminAdminUsersRoute,
   AdminAdminIndexRoute: AdminAdminIndexRoute,

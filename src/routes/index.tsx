@@ -142,17 +142,24 @@ export default function Landing() {
           </div>
 
           {/* Mockup row */}
-          <div className="relative flex items-end justify-center gap-6">
+          <div className="relative flex items-end justify-center">
 
             {/* Phone mockup — kiri */}
-            <div className="relative w-[160px] md:w-[190px] shrink-0 self-end translate-y-[2px]">
-              <div className="absolute inset-0 z-0 flex items-center justify-center">
+            <div className="relative w-[150px] md:w-[180px] shrink-0 z-20 -mr-10 translate-y-6">
+              <div
+                className="absolute inset-0 flex items-center justify-center"
+                style={{ zIndex: 0 }}
+              >
                 <div
-                  className="overflow-hidden rounded-[36px]"
-                  style={{ width: '88%', height: '96%', marginTop: '1%' }}
+                  className="overflow-hidden rounded-[24px]"
+                  style={{
+                    width: '90%',
+                    height: '98%',
+                    marginTop: '1%',
+                  }}
                 >
                   <img
-                    src="/SS_Mobile.png"
+                    src="/SS_Mobile.jpeg"
                     alt="App Mobile"
                     className="w-full h-full object-cover object-top"
                   />
@@ -176,13 +183,13 @@ export default function Landing() {
                     <div className="h-2.5 w-2.5 rounded-full bg-green-400/70" />
                   </div>
                   <div className="flex-1 bg-background/60 rounded-md px-3 py-1 text-[11px] text-muted-foreground text-center">
-                    tracksmart.app/dashboard
+                    tracksmart-id.vercel.app/dashboard
                   </div>
                 </div>
                 {/* Screenshot + fade */}
                 <div className="relative">
                   <img
-                    src="/Ui_Dashboard.png"
+                    src="/Dashboard.png"
                     alt="Dashboard"
                     className="w-full object-cover object-top"
                   />
